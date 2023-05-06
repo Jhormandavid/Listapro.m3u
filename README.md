@@ -12984,3 +12984,5712 @@ http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099323.mkv
 http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099324.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Deadsight (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1g9mqAoRtnNZTHvccgbNjwoba7.jpg" group-title="VOD - SUSPENSO",Deadsight (2018)
 http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Silence (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDvKWjlyYuSaha2LSZkSLR64DM.jpg" group-title="VOD - SUSPENSO",Dead Silence (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DeadTectives (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DTcWoo8wWl2f2YPp21hfGAAD7O.jpg" group-title="VOD - SUSPENSO",DeadTectives (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg" group-title="VOD - SUSPENSO",Deep Blue Sea 3 (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Blue Sea 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTfSYIf4abjcv5hgz53m5QH6oFC.jpg" group-title="VOD - SUSPENSO",Deep Blue Sea 2 (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Déjame entrar (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg" group-title="VOD - SUSPENSO",Déjame entrar (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delirium (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2jIkjrASnjtwCmCNDwh9LDWvq9.jpg" group-title="VOD - SUSPENSO",Delirium (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="But Deliver Us from Evil (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9L5d9IZ55Eo3EGpQJlMppcBzyZ.jpg" group-title="VOD - SUSPENSO",But Deliver Us from Evil (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dementia 13 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68nkM0GZfNS3MZsCezFNulg1hPe.jpg" group-title="VOD - SUSPENSO",Dementia 13 (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demonic (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne0wAvbmzk72svslxjuFySrXEKw.jpg" group-title="VOD - SUSPENSO",Demonic (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desde el infierno (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fv29GwNS1NOgsr4NAdghOlQXkup.jpg" group-title="VOD - SUSPENSO",Desde el infierno (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deseo Deseo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S4aqpEHsxotkDh6u4xyjaPOgOi.jpg" group-title="VOD - SUSPENSO",Deseo Deseo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Posesión infernal (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ezls062PrIaSzds2JKqZ5UYiC.jpg" group-title="VOD - SUSPENSO",Posesión infernal (1981)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detrás de las paredes (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/72vzjyq8YMfL2ktIkeeZne7D3iH.jpg" group-title="VOD - SUSPENSO",Detrás de las paredes (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La trampa del mal (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg" group-title="VOD - SUSPENSO",La trampa del mal (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La trampa del mal (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utiMhBWoBGf8iQ0l0yDHDlpTA60.jpg" group-title="VOD - SUSPENSO",La trampa del mal (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devil in the Dark (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg" group-title="VOD - SUSPENSO",Devil in the Dark (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devil's Gate (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlguwriLf7PkG6jAzpnClkZKmHi.jpg" group-title="VOD - SUSPENSO",Devil's Gate (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diablo Rojo PTY (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1EZ3HwJyLnckq0k6VhimnjBir04.jpg" group-title="VOD - SUSPENSO",Diablo Rojo PTY (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diario de un exorcista (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKqTwTE8c7inpQz0Jflr0RMSMb6.jpg" group-title="VOD - SUSPENSO",Diario de un exorcista (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Sueño (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYx5zclp0WHZ0gVQ9nyDIwDcgxd.jpg" group-title="VOD - SUSPENSO",Doctor Sueño (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista: El comienzo. La versión prohibida (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIH6Q5TmtIJAyjxC7rIODj3o22d.jpg" group-title="VOD - SUSPENSO",El exorcista: El comienzo. La versión prohibida (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No tengas miedo a la oscuridad (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htH3kWAEEW0RLhgA2P8LTBea3mk.jpg" group-title="VOD - SUSPENSO",No tengas miedo a la oscuridad (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don't Knock Twice (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxiz9zHLrqC5JfKVPbkKBboiSzI.jpg" group-title="VOD - SUSPENSO",Don't Knock Twice (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crimen a contrarreloj (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Uuqt9fHNWZj6NHbiMp83IFTtVt.jpg" group-title="VOD - SUSPENSO",Crimen a contrarreloj (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Voces (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB1jM3vsbkWBxLo4esCDvgrsZVj.jpg" group-title="VOD - SUSPENSO",Voces (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Downhill (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOACVnxwVKmD21wbFQQAen4DgbP.jpg" group-title="VOD - SUSPENSO",Downhill (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula (1958)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lRlA6ZW4xUiHk0acUXfjx7LfZEn.jpg" group-title="VOD - SUSPENSO",Drácula (1958)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula de Bram Stoker (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg" group-title="VOD - SUSPENSO",Drácula de Bram Stoker (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula II: Resurrección (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2Jle2c7wTq2yyArV7CdNZk5HDZ.jpg" group-title="VOD - SUSPENSO",Drácula II: Resurrección (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula, la leyenda jamás contada (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dflq9mJ99PC3I3piHYFmEzwW1q1.jpg" group-title="VOD - SUSPENSO",Drácula, la leyenda jamás contada (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arrástrame al infierno (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ubtl4phLy5iisPWVF5RAP2grow.jpg" group-title="VOD - SUSPENSO",Arrástrame al infierno (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dreamkatcher (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg" group-title="VOD - SUSPENSO",Dreamkatcher (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El automóvil gris (versión restaurada) (1919)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twlMi6J5LgPrfbOqHbDMLkMMgoC.jpg" group-title="VOD - SUSPENSO",El automóvil gris (versión restaurada) (1919)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buenas noches, mamá (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zM7NEOrDJiCtn79yxfSXXbytutb.jpg" group-title="VOD - SUSPENSO",Buenas noches, mamá (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dylan Dog: Los muertos de la noche (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trYV7F8qVdieRm7NJZ2kG3AHZjE.jpg" group-title="VOD - SUSPENSO",Dylan Dog: Los muertos de la noche (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eden Lake (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOg6ElTe1mJwaCFN0172U4oso22.jpg" group-title="VOD - SUSPENSO",Eden Lake (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El abogado del diablo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUhr0pBVSE8hAsBC1txCJayYhmv.jpg" group-title="VOD - SUSPENSO",El abogado del diablo (1977)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ataque del tiburón de dos cabezas (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyKDKlex5RqBjx3OatVpTAfeAkD.jpg" group-title="VOD - SUSPENSO",El ataque del tiburón de dos cabezas (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El bosque de los suicidios (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDvt0kVvdO0NsIM8xZve7qHjjim.jpg" group-title="VOD - SUSPENSO",El bosque de los suicidios (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cazador de sueños (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxwRecjTAizQDS7rzttWDNt2aIe.jpg" group-title="VOD - SUSPENSO",El cazador de sueños (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: El caso Enfield (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtwMXjMs7zDrTAM8L6SnaF5Qqzl.jpg" group-title="VOD - SUSPENSO",Expediente Warren: El caso Enfield (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cuarta fase (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tpTnb6o1LVRn2IDwn7fr6qn27I.jpg" group-title="VOD - SUSPENSO",La cuarta fase (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Neon Demon (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CURvnAdDZP330c55ZVzvehNekg.jpg" group-title="VOD - SUSPENSO",The Neon Demon (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El retorno de los malditos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZLNIzwtorC0M9VV9m1qN6HFID9.jpg" group-title="VOD - SUSPENSO",El retorno de los malditos (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo me dijo que hacer (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k1EkPTqrTI6zpXE3WGG8MPzsWw.jpg" group-title="VOD - SUSPENSO",El diablo me dijo que hacer (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día del juicio final (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltVbyAXDVXLrfkYCZLzM9GPSoA2.jpg" group-title="VOD - SUSPENSO",El día del juicio final (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día que me perdí (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moCnnkbzhMPp8YkxCakXDdi2Y5.jpg" group-title="VOD - SUSPENSO",El día que me perdí (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ejército de las tinieblas (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCIyhhl11rnIKHjE26YntQAEApi.jpg" group-title="VOD - SUSPENSO",El ejército de las tinieblas (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El espinazo del diablo (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKHHsu1awdIUHq6OlkMoxEPNylB.jpg" group-title="VOD - SUSPENSO",El espinazo del diablo (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcismo de Emily Rose (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1rbz4WeOZXxus57wY9cybkoPgC.jpg" group-title="VOD - SUSPENSO",El exorcismo de Emily Rose (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista: El comienzo. La versión prohibida (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIH6Q5TmtIJAyjxC7rIODj3o22d.jpg" group-title="VOD - SUSPENSO",El exorcista: El comienzo. La versión prohibida (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista III (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JNaaRHzvfopeig4BqSlfufFrVK.jpg" group-title="VOD - SUSPENSO",El exorcista III (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El heredero del diablo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYyI3Hj94or2Ydo5ETEzUmOUDC2.jpg" group-title="VOD - SUSPENSO",El heredero del diablo (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eli (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg" group-title="VOD - SUSPENSO",Eli (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El instituto Atticus (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5zFbQkZB4fOdWSh0UBxjtSZ4Xw.jpg" group-title="VOD - SUSPENSO",El instituto Atticus (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El legado del diablo (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VC6z7UU9nW1ONx7QUtwxDntpuo.jpg" group-title="VOD - SUSPENSO",El legado del diablo (1981)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El medallón de La Llorona (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9QC5RXFnSJ9KTLrafF9eppMZPA.jpg" group-title="VOD - SUSPENSO",El medallón de La Llorona (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El muerto cuenta su historia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoZDBnz0AQygpOawf7XjcN7bKN.jpg" group-title="VOD - SUSPENSO",El muerto cuenta su historia (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El orfanato (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMQp84tqHSSuzWHvsBYlIUznPjU.jpg" group-title="VOD - SUSPENSO",El orfanato (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El pacto (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PpjBMUOQE7i2feQUqZkT249ZZL.jpg" group-title="VOD - SUSPENSO",El pacto (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La semilla del mal (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hdbKq3n88HIklvF90EJklPLt1P.jpg" group-title="VOD - SUSPENSO",La semilla del mal (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El proyecto de la bruja de Blair (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6TlAvkWaWZAIsLPzR1ws0YHg2A.jpg" group-title="VOD - SUSPENSO",El proyecto de la bruja de Blair (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Signo de la Muerte (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rD2Sw5wex8Zp1JCvWnEKscOKHbj.jpg" group-title="VOD - SUSPENSO",El Signo de la Muerte (1939)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Silbón: Orígenes (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFyPxJH7DUbIKIB6x3Wwc1kw2JF.jpg" group-title="VOD - SUSPENSO",El Silbón: Orígenes (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último exorcismo 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJGWoq45CQmy5Rz5AHBZKsl90DS.jpg" group-title="VOD - SUSPENSO",El último exorcismo 2 (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ever After (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lSkHHE6OaCPd2LLoQNKe7Ru2SRI.jpg" group-title="VOD - SUSPENSO",Ever After (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la boca del miedo (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uzMRiZ6pM1bdsGP5WxbhnzDlE8.jpg" group-title="VOD - SUSPENSO",En la boca del miedo (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El enviado (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLncs8FEzKupj19wCqZ3sPmg3eU.jpg" group-title="VOD - SUSPENSO",El enviado (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escalofríos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WBsedQJwuQ3JGiBugl0E4xK6WC.jpg" group-title="VOD - SUSPENSO",Escalofríos (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escape Room (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Q1CY5c8q8lzj1uzDduXFf05QA.jpg" group-title="VOD - SUSPENSO",Escape Room (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eso (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Eso (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espectro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyj4uH6PJzXlchTZyvSpjVAltyP.jpg" group-title="VOD - SUSPENSO",Espectro (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reflejos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bP5cmzflg0SrebT2QeFNYzxtw4M.jpg" group-title="VOD - SUSPENSO",Reflejos (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espiritus (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Espiritus (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estigma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej2zqmxPn6db6btUD0slmrh3PME.jpg" group-title="VOD - SUSPENSO",Estigma (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Posesión infernal (Evil Dead) (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8MW6lsIzFsc5u53sO9JeestH0B.jpg" group-title="VOD - SUSPENSO",Posesión infernal (Evil Dead) (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mal de ojo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVwganYfJgrLXu26BuW82BJo73.jpg" group-title="VOD - SUSPENSO",Mal de ojo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista II: El hereje (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CRJen2ZgHylKf8uOdbyCNlmfsb.jpg" group-title="VOD - SUSPENSO",El exorcista II: El hereje (1977)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista: El comienzo (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fGRRwkBJ1sILeIwmfmuMNChsCn.jpg" group-title="VOD - SUSPENSO",El exorcista: El comienzo (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los exterminadores del más allá contra la rubia del baño (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg" group-title="VOD - SUSPENSO",Los exterminadores del más allá contra la rubia del baño (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Extinción (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erDbN0WQfWlqt1HJwepjU4zb73V.jpg" group-title="VOD - SUSPENSO",Extinción (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family Blood (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQ8SC6wCARc0pOTrHMCr8cFoHms.jpg" group-title="VOD - SUSPENSO",Family Blood (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2vgIg9essoPYnyEdmdPqxZC3kp.jpg" group-title="VOD - SUSPENSO",Fantasy Island (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fender Bender (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/92VjZqSkaUDpXvrAiMZRGIxBFLU.jpg" group-title="VOD - SUSPENSO",Fender Bender (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encuentros paranormales (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6XxYgUhnlPmBu1miP19pnizWg0.jpg" group-title="VOD - SUSPENSO",Encuentros paranormales (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Feral (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZ72SsxEP9XSx3StaazsMwBi9C0.jpg" group-title="VOD - SUSPENSO",Feral (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forsaken (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8cygP0cqsrPv9W0PyxfIFemg3L.jpg" group-title="VOD - SUSPENSO",Forsaken (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="foto na pamyat 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8cygP0cqsrPv9W0PyxfIFemg3L.jpg" group-title="VOD - SUSPENSO",foto na pamyat 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freaks of Nature (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Freaks of Nature (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Este cuerpo me sienta de muerte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIyCHFNJVqYzvqBlytJbDqCUnIC.jpg" group-title="VOD - SUSPENSO",Este cuerpo me sienta de muerte (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freddy contra Jason (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVS44i49BswTvEuVCSe2p2o6df8.jpg" group-title="VOD - SUSPENSO",Freddy contra Jason (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13 (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLdUNsyeSd9OvKmM0CeXF6n13IL.jpg" group-title="VOD - SUSPENSO",Viernes 13 (1980)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13, 2ª parte (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2D3JuHNBTZENynVlj0vuBILykG.jpg" group-title="VOD - SUSPENSO",Viernes 13, 2ª parte (1981)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13, parte III (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isCTWFTrfnSvkmG0LR8lq6gh3n5.jpg" group-title="VOD - SUSPENSO",Viernes 13, parte III (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13, Parte IX: Jason se va al Infierno (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aacq05foqiWdXqetFv02HBvMoJy.jpg" group-title="VOD - SUSPENSO",Viernes 13, Parte IX: Jason se va al Infierno (1993)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. Parte V: Un nuevo comienzo (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5i3dGT3pD3tRsqRiIsMY29YAg1A.jpg" group-title="VOD - SUSPENSO",Viernes 13. Parte V: Un nuevo comienzo (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. 6ª parte: Jason vive (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9RFv2Ulev2lpnQVDHEcTVFon7v.jpg" group-title="VOD - SUSPENSO",Viernes 13. 6ª parte: Jason vive (1986)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. 7ª parte: Sangre nueva (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tyr422N8ivi9TfA9BAP896Z6Q.jpg" group-title="VOD - SUSPENSO",Viernes 13. 7ª parte: Sangre nueva (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13. Parte VIII: Jason vuelve... para siempre (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVvP2woMRNNXe70fqTCo78co96V.jpg" group-title="VOD - SUSPENSO",Viernes 13. Parte VIII: Jason vuelve... para siempre (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Friday the 13th Part X: To Hell and Back (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77gOccYlXpv2dqfctGNcX4HSEGt.jpg" group-title="VOD - SUSPENSO",Friday the 13th Part X: To Hell and Back (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jason's Unlucky Day: 25 Years After Friday the 13th - The Final Chapter (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77gOccYlXpv2dqfctGNcX4HSEGt.jpg" group-title="VOD - SUSPENSO",Jason's Unlucky Day: 25 Years After Friday the 13th - The Final Chapter (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fright Night (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSYVe5nUa6jZqFYqmo5g3nUvWbI.jpg" group-title="VOD - SUSPENSO",Fright Night (1947)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La posesión (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCDpEXkeurIUXEDR3cs97I4tFDH.jpg" group-title="VOD - SUSPENSO",La posesión (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gabriel (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXHvEFPKESYHoq5Dba1XCxJW5K7.jpg" group-title="VOD - SUSPENSO",Gabriel (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg" group-title="VOD - SUSPENSO",Cazador de demonios (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día de los muertos (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne35GlABRF821ENspOTPrghiEsq.jpg" group-title="VOD - SUSPENSO",El día de los muertos (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juego de Gerald (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvRahNCZKhGI0ip7gkQ3rSWUF3o.jpg" group-title="VOD - SUSPENSO",El juego de Gerald (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get Out (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Get Out (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghosthunters (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5trbZjaureXY7cj7Vpik7upw5R.jpg" group-title="VOD - SUSPENSO",Ghosthunters (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Ship (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLLRFD3Gssxj9ro2WIRI8vA9Qlq.jpg" group-title="VOD - SUSPENSO",Ghost Ship (1952)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de fantasmas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQeLzheMNQClBAXy9t1HvZFzhYD.jpg" group-title="VOD - SUSPENSO",Historias de fantasmas (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Equipo paranormal (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0jR5wMHF3mmPkiDxsT3QSe0vNK.jpg" group-title="VOD - SUSPENSO",Equipo paranormal (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El extraño (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sX4Wn09Fhu1jp0xtNx6kSvNc3w0.jpg" group-title="VOD - SUSPENSO",El extraño (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 Minutos menos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2AvUEMUZHvlDPpSi5YOjNz0ox6.jpg" group-title="VOD - SUSPENSO",10 Minutos menos (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gonjiam: Haunted Asylum (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCLqWiJxp2rq2wuvuv8N2KvaNhB.jpg" group-title="VOD - SUSPENSO",Gonjiam: Haunted Asylum (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pesadillas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUK06JoZAcEiEZSxL4qbZTHx4.jpg" group-title="VOD - SUSPENSO",Pesadillas (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crudo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGgrd3flAUimZLYvk5H4soqXbP4.jpg" group-title="VOD - SUSPENSO",Crudo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gretel & Hansel: Un oscuro cuento de hadas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtKLgZw67197OdPQGlryj4pAKW8.jpg" group-title="VOD - SUSPENSO",Gretel & Hansel: Un oscuro cuento de hadas (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grindhouse (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Su17vkNkDBh9B5LPwONRqkbry2.jpg" group-title="VOD - SUSPENSO",Grindhouse (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la noche (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TwfNYxj4pHtLioN94kFhjYtKip.jpg" group-title="VOD - SUSPENSO",Guardianes de la noche (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes del día (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDMUHIanrtvejBFVfYDHMfX4DIY.jpg" group-title="VOD - SUSPENSO",Guardianes del día (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On Halloween (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rsEhgcNRUthjo6fqRDqZy5plx.jpg" group-title="VOD - SUSPENSO",On Halloween (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 2: Sanguinario (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8hxlFY54QJPDKktBvePR7QhJWE.jpg" group-title="VOD - SUSPENSO",Halloween 2: Sanguinario (1981)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween III: El día de la bruja (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBDzG41oQx30oMoy3C2q3hJjRmb.jpg" group-title="VOD - SUSPENSO",Halloween III: El día de la bruja (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 4: El regreso de Michael Myers (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cLCT8cEp7sGYRwvzZ5V2erdHWjh.jpg" group-title="VOD - SUSPENSO",Halloween 4: El regreso de Michael Myers (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween 5: La venganza de Michael Myers (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmJgtZs7YDzirkKGWvMSad318r1.jpg" group-title="VOD - SUSPENSO",Halloween 5: La venganza de Michael Myers (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: La maldición de Michael Myers (Halloween 6) (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qTxbDlZZW4CEuSNcwjwHtgc6T0x.jpg" group-title="VOD - SUSPENSO",Halloween: La maldición de Michael Myers (Halloween 6) (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween  El Origen (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvb0mlWQA2dnhbUvD0Jsy4tV7kK.jpg" group-title="VOD - SUSPENSO",Halloween  El Origen (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Halloween: H20. Veinte años después (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0ISEyXLOLPJ1PKLYRDTyzI63VO.jpg" group-title="VOD - SUSPENSO",Halloween: H20. Veinte años después (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Feliz día de tu muerte (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWmwvOvsbshDzOz5Zjb73AuAtN1.jpg" group-title="VOD - SUSPENSO",Feliz día de tu muerte (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="happy death day 2 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWmwvOvsbshDzOz5Zjb73AuAtN1.jpg" group-title="VOD - SUSPENSO",happy death day 2 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy Hunting (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cvFE9RlFHTobOEceRyf9iQLPHSk.jpg" group-title="VOD - SUSPENSO",Happy Hunting (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harbinger Down (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oM0jDsFUNiuCeqhAx3GlP81YVc.jpg" group-title="VOD - SUSPENSO",Harbinger Down (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hard Candy (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AucSpuuHj95IoOSxVNBIPSIXrwi.jpg" group-title="VOD - SUSPENSO",Hard Candy (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harpoon (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zt0v54vRmgn1Zgvlfw0azQK9h.jpg" group-title="VOD - SUSPENSO",Harpoon (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el Viento tiene Miedo (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yThPnR2dETUYkXY231DvNukDgsQ.jpg" group-title="VOD - SUSPENSO",Hasta el Viento tiene Miedo (1968)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa del terror (Haunt) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6fuNWZzY0RijO1Xpw46soazDFMb.jpg" group-title="VOD - SUSPENSO",La casa del terror (Haunt) (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alta tensión (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28qrjz22WbiWZ4jIJMXXt66pnH7.jpg" group-title="VOD - SUSPENSO",Alta tensión (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El manicomio: la cuna del terror (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNZDcR7ftoM74dQUtCDWvDp5KT.jpg" group-title="VOD - SUSPENSO",El manicomio: la cuna del terror (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hell Fest (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJkvu8hinbqH9OeQYSppqY3BuFn.jpg" group-title="VOD - SUSPENSO",Hell Fest (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="He Never Died (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzqwe4uuINJhbPqvlbVShBnCvHv.jpg" group-title="VOD - SUSPENSO",He Never Died (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Convent (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or9QoOcHfsaypC7UiCEIFtls48N.jpg" group-title="VOD - SUSPENSO",The Convent (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="He's Out There (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pi9Zo4uIATSe8cQ96cCOWJ1qdGw.jpg" group-title="VOD - SUSPENSO",He's Out There (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jonah Hex (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNQvBSgWAusU9r32y38vmAgDE91.jpg" group-title="VOD - SUSPENSO",Jonah Hex (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hipersomnia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8zgO68TWhR6wdv84Z3RvBXxO54.jpg" group-title="VOD - SUSPENSO",Hipersomnia (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casa ajena (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8K0EpAAVI29ge1jJPys6SuqMq7R.jpg" group-title="VOD - SUSPENSO",Casa ajena (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de fantasmas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5urWIklagQnAaJ8ZfNuq1KyPEu.jpg" group-title="VOD - SUSPENSO",Historias de fantasmas (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Holidays (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qndlHSuAaGwBKpWAUt6gX3RRuzb.jpg" group-title="VOD - SUSPENSO",Holidays (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honeymoon (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hANpVmaSYSsQzydPC399DgW0fLW.jpg" group-title="VOD - SUSPENSO",Honeymoon (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tag-Along 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3TbRVF6nE6OAP4AdPZirfmaKqI.jpg" group-title="VOD - SUSPENSO",The Tag-Along 2 (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pánico en el Transiberiano (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eR9fLb3CVDeT2XgXfki9LqXgpuI.jpg" group-title="VOD - SUSPENSO",Pánico en el Transiberiano (1972)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hostel (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBKRKu3srnTqiEITXOUSLperhKP.jpg" group-title="VOD - SUSPENSO",Hostel (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hostel 2 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nsw2sfrDj5P47sOVkKa8OoxuFW.jpg" group-title="VOD - SUSPENSO",Hostel 2 (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hostel 3: De vuelta al horror (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWMijQjpu09Pq9jrn3SL3qTHMvS.jpg" group-title="VOD - SUSPENSO",Hostel 3: De vuelta al horror (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Habitación sin salida (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KrmTQBQhHk0N0KGM6fIbBNbXOo.jpg" group-title="VOD - SUSPENSO",Habitación sin salida (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de los 1000 cadáveres (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO7biLmJtJoTbDv5wzEwZGOD375.jpg" group-title="VOD - SUSPENSO",La casa de los 1000 cadáveres (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de cera (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0X61CoPXUQ0Snzrm61DIykmBuv.jpg" group-title="VOD - SUSPENSO",La casa de cera (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Halloween de Hubie (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHH1TvTUJT6P4n8qgFYrYpAZPdt.jpg" group-title="VOD - SUSPENSO",El Halloween de Hubie (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hungerford (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmSXjAbZ0rbXTnk3dHQFKfq3x7L.jpg" group-title="VOD - SUSPENSO",Hungerford (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I am not a serial killer (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfhVJQGUV3Lmun9wzdaPmBJ8s2u.jpg" group-title="VOD - SUSPENSO",I am not a serial killer (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Identity (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hnr5kiA4SDj1OnZOU5RX4sZf4ZV.jpg" group-title="VOD - SUSPENSO",Identity (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo metió la mano (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTxy4Y6Ik4fMPi7dTyf7paGn5kB.jpg" group-title="VOD - SUSPENSO",El diablo metió la mano (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sé lo que hicisteis el último verano (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKdxB1HLc0akXBZBrZ48z8HrfFO.jpg" group-title="VOD - SUSPENSO",Sé lo que hicisteis el último verano (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lazos malditos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbDvrkRsZb4Ik8fg2bJfWZQsXw1.jpg" group-title="VOD - SUSPENSO",Lazos malditos (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El carnicero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOtz1wKwXWzhx3Z3IxtvbZFf4o.jpg" group-title="VOD - SUSPENSO",El carnicero (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exterminador (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9mWWCbFuXcekpfrtZ1kPPI7bXw.jpg" group-title="VOD - SUSPENSO",El exterminador (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infección (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AU1xAbnkR4dj8WUC82by0gW4BE.jpg" group-title="VOD - SUSPENSO",Infección (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Inframundo (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underworld: El despertar (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg" group-title="VOD - SUSPENSO",Underworld: El despertar (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underworld: Evolution (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlUw0mNkMa4jnwhJHiS1880iGZx.jpg" group-title="VOD - SUSPENSO",Underworld: Evolution (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inicuo: La Hermandad (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3STDzMOc19dVCWg2UZfm84VL9c.jpg" group-title="VOD - SUSPENSO",Inicuo: La Hermandad (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Patients of a Saint (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uSR3687xtyS207S8nYp1voT9mR.jpg" group-title="VOD - SUSPENSO",Patients of a Saint (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inquilinos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKRrdZXXsQD2v7jKTeea5GJG7ml.jpg" group-title="VOD - SUSPENSO",Inquilinos (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inside (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8JSsSOmgVzCyMmwa8ErJxxgiKzm.jpg" group-title="VOD - SUSPENSO",Inside (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: Chapter 5" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Insidious: Chapter 5
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insidious: La última llave (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy1zyHNxhiGCoFIlptOpdtEyDak.jpg" group-title="VOD - SUSPENSO",Insidious: La última llave (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Insignis (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axnk9iv2LzNJcJhy4xFdQXFSFor.jpg" group-title="VOD - SUSPENSO",Insignis (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la hierba alta (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOs3Ki8hhRQq3seuZ3c7M8qXHtq.jpg" group-title="VOD - SUSPENSO",En la hierba alta (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi San Valentín (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkRShxUNjeC8wzhUEJoFUUZ6gS8.jpg" group-title="VOD - SUSPENSO",Mi San Valentín (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peregrino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uswFh1UtkV2hkvkTfczQXNodjFz.jpg" group-title="VOD - SUSPENSO",Peregrino (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Current Occupant (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl2oCYmEB0iKWZIVQWOH5Ao5Mo4.jpg" group-title="VOD - SUSPENSO",The Current Occupant (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uncanny Annie (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ofJTmVJb3Wz55xkkGeEcIYWQlgS.jpg" group-title="VOD - SUSPENSO",Uncanny Annie (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La isla de la muerte (1945)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUGWj4Kw65v85Eei72hneLkaTpa.jpg" group-title="VOD - SUSPENSO",La isla de la muerte (1945)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Spit Chew on Your Grave (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqq70bJKiUx0foJh0YcbdEShnz9.jpg" group-title="VOD - SUSPENSO",I Spit Chew on Your Grave (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escupiré sobre tu tumba 2 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imkTGt5WFXVuYTAOFOucOgrYX4G.jpg" group-title="VOD - SUSPENSO",Escupiré sobre tu tumba 2 (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escupiré sobre tu tumba 3 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5GDIcqiqHXkvINZSjyzBUO2vH.jpg" group-title="VOD - SUSPENSO",Escupiré sobre tu tumba 3 (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Eres tú, papá? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OJt9BfrwbSDP3VWtC1YUK4XR3G.jpg" group-title="VOD - SUSPENSO",¿Eres tú, papá? (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aún sé lo que hicisteis el último verano (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i76jwlMItxiv0gtfEuJXs8zvjR1.jpg" group-title="VOD - SUSPENSO",Aún sé lo que hicisteis el último verano (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cf56KSxlBjcR4PFt2UP7KsgCg9f.jpg" group-title="VOD - SUSPENSO",It (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It Came from the Desert (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZsLtCJW1eJabOxlZrZfaalGIki.jpg" group-title="VOD - SUSPENSO",It Came from the Desert (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It: Capítulo 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oERKIVyTWpHNum3STVsAGD4ojz.jpg" group-title="VOD - SUSPENSO",It: Capítulo 2 (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llega de noche (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Qr6KPW7Z1FXAAMbV0SEOImBctd.jpg" group-title="VOD - SUSPENSO",Llega de noche (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It Follows (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg" group-title="VOD - SUSPENSO",It Follows (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jackals (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXRdjUmFW3WO4ms1FkJodbiTlaP.jpg" group-title="VOD - SUSPENSO",Jackals (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Goes Home (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV0Sp2pRGURLPYA4bI1t8WeQR0R.jpg" group-title="VOD - SUSPENSO",Jack Goes Home (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg" group-title="VOD - SUSPENSO",Jeepers Creepers (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg" group-title="VOD - SUSPENSO",Jeepers Creepers 3 (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 2 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6RYpWhrlCtqsBI3VzSsAem5Q8o.jpg" group-title="VOD - SUSPENSO",Jeepers Creepers 2 (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jennifer's Body (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/48G2U0zmBh8mQ7gv8scC9xYIZSk.jpg" group-title="VOD - SUSPENSO",Jennifer's Body (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jigsaw (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFp3r4kk3cro0pPPdLA9VuESwIx.jpg" group-title="VOD - SUSPENSO",Jigsaw (1962)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Christine (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYZPZKL1ThCqhUBI1tR3r2wtGnu.jpg" group-title="VOD - SUSPENSO",Christine (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsYW9v7MD6d7ztmoLgoxUBa90gJ.jpg" group-title="VOD - SUSPENSO",Karma (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No dejes de mirar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOQ66sBtm7F2jN0aLnrLAODyFzO.jpg" group-title="VOD - SUSPENSO",No dejes de mirar (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Killer Commandos (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - SUSPENSO",Killer Commandos (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secundaria Mortal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNX58K2R8GKWY0q1hxf3Gcqd6Bj.jpg" group-title="VOD - SUSPENSO",Secundaria Mortal (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KM 31: Sin retorno (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UhihZIu4krs3TVIqoQevAha0ij.jpg" group-title="VOD - SUSPENSO",KM 31: Sin retorno (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="KM 31: Kilómetro 31 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJemaoRW5LFDvi3p6jWMMMIDR4P.jpg" group-title="VOD - SUSPENSO",KM 31: Kilómetro 31 (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Km. 666 (Desvío al infierno) (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6IVGK3AGF1OHmAjOE7vonrUYkM.jpg" group-title="VOD - SUSPENSO",Km. 666 (Desvío al infierno) (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Knock Knock (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBK1pAXm5yXn29mOCmfhgSXjmxi.jpg" group-title="VOD - SUSPENSO",Knock Knock (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Krampus (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKjCt9eH4mvjUKJUFcVmbdIruUN.jpg" group-title="VOD - SUSPENSO",Krampus (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Bruja (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qSeMUZCELbisTf0PmU7giu67tn.jpg" group-title="VOD - SUSPENSO",La Bruja (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa acecha (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGhkh4tT3j86CNFYWWErSYQWs7.jpg" group-title="VOD - SUSPENSO",La casa acecha (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa del fin de los tiempos (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FH2kqhUVSJcQOiILOVbe2t6eSc.jpg" group-title="VOD - SUSPENSO",La casa del fin de los tiempos (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa en la playa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6nkOajac94vaA2Oio21n2zrvB.jpg" group-title="VOD - SUSPENSO",La casa en la playa (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caperucita roja ¿A quién tienes miedo? (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27cmo6xr3IThPZmAF2s4FfGVeUs.jpg" group-title="VOD - SUSPENSO",Caperucita roja ¿A quién tienes miedo? (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cripta: el último secreto (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0ns5I7OVE1ZPXZHKINYjVV8DPc.jpg" group-title="VOD - SUSPENSO",La cripta: el último secreto (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mujer de negro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4Tvw1VHI6zAETyPvkiriNCJkAp.jpg" group-title="VOD - SUSPENSO",La mujer de negro (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mujer de negro: El ángel de la muerte (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjbHHk0R66Xe3R6fPfuUdiGDcqH.jpg" group-title="VOD - SUSPENSO",La mujer de negro: El ángel de la muerte (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La habitación del pánico (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKgHmaBJ6aUgG6JUFgURdhwlqTs.jpg" group-title="VOD - SUSPENSO",La habitación del pánico (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Horca 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7gpJfzOPbDjs6NclYOuFq7Z1mu.jpg" group-title="VOD - SUSPENSO",La Horca 2 (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La influencia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg" group-title="VOD - SUSPENSO",La influencia (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La llave del mal (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAjpyj08T5RizLVsxEYoyqtk0Ec.jpg" group-title="VOD - SUSPENSO",La llave del mal (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Llorona (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIWytsnEr2aRobU6ERutzewm63.jpg" group-title="VOD - SUSPENSO",La Llorona (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche de los desaparecidos (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itOMLyHeTNPLFwFowPhbrKvtSkL.jpg" group-title="VOD - SUSPENSO",La noche de los desaparecidos (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maldición de Chucky (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z67Sdv2jz0bIkKAV7CHK2eE8ws.jpg" group-title="VOD - SUSPENSO",La maldición de Chucky (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maldición de Damien (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRia8oAQHOxpDTEGnTExsibROU.jpg" group-title="VOD - SUSPENSO",La maldición de Damien (1978)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ladronas de Almas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYRia8oAQHOxpDTEGnTExsibROU.jpg" group-title="VOD - TERROR",Ladronas de Almas (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La marca del demonio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhcoI9Ww6dx6YV041IUlL72nYQi.jpg" group-title="VOD - TERROR",La marca del demonio (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La monja (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNJzVDTgr0ihebEaQU4xlxc2VT5.jpg" group-title="VOD - TERROR",La monja (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La niña de la mina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFlP4HlqCbtEdUygc8XMYUCvJY8.jpg" group-title="VOD - TERROR",La niña de la mina (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIA9DDGNysv5BMPv8k3qCUc3Vuk.jpg" group-title="VOD - TERROR",La noche del demonio (1957)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche del demonio (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIA9DDGNysv5BMPv8k3qCUc3Vuk.jpg" group-title="VOD - TERROR",La noche del demonio (1957)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche devora el mundo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRyv9dTfxIC69APlLGkr4cJ1z56.jpg" group-title="VOD - TERROR",La noche devora el mundo (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novia de Chucky (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh99wVo11U6vbyePjl7EcGabVHs.jpg" group-title="VOD - TERROR",La novia de Chucky (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La pirámide (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oZdP70fQcCiajv7SVmy6ZXYYrs.jpg" group-title="VOD - TERROR",La pirámide (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1974: la posesión de Altair (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hFuRzagV4CNwB8ixSK7N6XUgnDC.jpg" group-title="VOD - TERROR",1974: la posesión de Altair (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Verónica (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8iFWosh3NJiZG27AXX1uzKwRLO.jpg" group-title="VOD - TERROR",Verónica (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La profecía (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0u95VL153ywMlzc7MmBO8ATV4L.jpg" group-title="VOD - TERROR",La profecía (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La región salvaje (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OzoG5dfRdEq9X20iBUYKuQSDWb.jpg" group-title="VOD - TERROR",La región salvaje (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las brujas de Zugarramurdi (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwPuQoA4osxJvgKcd8JRvwVDynG.jpg" group-title="VOD - TERROR",Las brujas de Zugarramurdi (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Reglas de la Ruina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znFC6ftSMkxgY2o5f6WfVCHcWbp.jpg" group-title="VOD - TERROR",Las Reglas de la Ruina (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las tinieblas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrePzVxbgiWfDlgxy00VC9z62VZ.jpg" group-title="VOD - TERROR",Las tinieblas (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Last Shift (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lId3nglmnaEzxCzbBiHeW4srKYx.jpg" group-title="VOD - TERROR",Last Shift (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La última casa a la izquierda (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rTT7XocGdSHs4WDtzZ1a1YnVk42.jpg" group-title="VOD - TERROR",La última casa a la izquierda (1972)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La visita (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2olNTwUgIAi0nk0yP5hFIt3BbrJ.jpg" group-title="VOD - TERROR",La visita (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leatherface (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nV7LPlyhUxKn5y0nuItCr8D1OSu.jpg" group-title="VOD - TERROR",Leatherface (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Legion (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ro4BujCD9aFaTI1YMH76Fj9Fgr.jpg" group-title="VOD - TERROR",Legion (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le Jumeau (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA6MFbWuIIkan2UMQ72ny9zE7qN.jpg" group-title="VOD - TERROR",Le Jumeau (1984)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Mansión (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yOzYmYvRyS2Ibg2e3wVVYTl9N0.jpg" group-title="VOD - TERROR",La Mansión (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun 2 (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnCLZ3rpy3enYSHrzcBxnx3fozK.jpg" group-title="VOD - TERROR",Leprechaun 2 (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun: El origen (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg" group-title="VOD - TERROR",Leprechaun: El origen (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leprechaun Returns (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kToQsV04Jel1ob7VJ471LDz7wD.jpg" group-title="VOD - TERROR",Leprechaun Returns (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Les affamés (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7LH7DlJeIykHQVfog6IUWQ1fXVP.jpg" group-title="VOD - TERROR",Les affamés (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Déjame entrar (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg" group-title="VOD - TERROR",Déjame entrar (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lifechanger (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocNctwT6ePRtzWPi3Tqqog5h7NM.jpg" group-title="VOD - TERROR",Lifechanger (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca apagues la luz (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4v1GYLMM9UDRVjkLzapHZUFhVfo.jpg" group-title="VOD - TERROR",Nunca apagues la luz (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pequeño demonio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7uovTeP1c6OmNvhxWzKqBF4ohE.jpg" group-title="VOD - TERROR",Pequeño demonio (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llamada Siniestra (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO7yMRrHo1ruBa291b0pKhifqUx.jpg" group-title="VOD - TERROR",Llamada Siniestra (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Addams (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RqnaUcDH2dpR2kmdnmSEHTcS0V.jpg" group-title="VOD - TERROR",La familia Addams (1991)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jóvenes ocultos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4MzXvQmf9LYbdN1Lv9pBCekfn0.jpg" group-title="VOD - TERROR",Jóvenes ocultos (1987)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los ojos de Julia (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvqsMRvGowmQZP485YXqhiLYZaB.jpg" group-title="VOD - TERROR",Los ojos de Julia (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los olvidados (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LJqMc5nM48O18iNSrbSbMCKQu7.jpg" group-title="VOD - TERROR",Los olvidados (1950)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los que vuelven (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NbjpUf2WzfrPVvXH7JoWLBxYHj.jpg" group-title="VOD - TERROR",Los que vuelven (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luciferina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDjiT5dVwL0B3CgBHhBQo9yB1Yv.jpg" group-title="VOD - TERROR",Luciferina (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sótano de Ma (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUPZu9stlOUHqT9FCRYwiKkFtMo.jpg" group-title="VOD - TERROR",El sótano de Ma (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maggie (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twa9gXjocLM629sJrQYVtmF306R.jpg" group-title="VOD - TERROR",Maggie (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malevolent (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lm29Sf2uI69CmbCsUkWFn7sbvL6.jpg" group-title="VOD - TERROR",Malevolent (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malicious (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD0mJvBCBkDekYQ5Hf15Tq4sFRD.jpg" group-title="VOD - TERROR",Malicious (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mandíbulas 6: El legado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNu1tZ89yhrFSDgfzQ6P0FJRUF2.jpg" group-title="VOD - TERROR",Mandíbulas 6: El legado (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mandy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVyE79nFdo2lFtKA5J7ziFAeKhP.jpg" group-title="VOD - TERROR",Mandy (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maniac (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbDkRvhmbYnHDXkoq0sF0PLeo8j.jpg" group-title="VOD - TERROR",Maniac (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mara (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rENBUXn22af18NkTkchHtoCWuIq.jpg" group-title="VOD - TERROR",Mara (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Martyrs (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkBWgdlFClVrr39iLpUTdzqvgz8.jpg" group-title="VOD - TERROR",Martyrs (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La posesión de Mary (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4js1nTDelM4dEtJNUDmUOZMEM9K.jpg" group-title="VOD - TERROR",La posesión de Mary (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mas Negro que la Noche (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1oWm54hQI6EuJJw0fNU6eMs3VU.jpg" group-title="VOD - TERROR",Mas Negro que la Noche (1975)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megalodon (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg" group-title="VOD - TERROR",Megalodon (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El escondite (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzpCwz8KoVzb0yIr7BI6W4LQjM2.jpg" group-title="VOD - TERROR",El escondite (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La posesión de Mercy Black (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg" group-title="VOD - TERROR",La posesión de Mercy Black (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mermaid Down (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGj4i7Tas6HDFgajb0LKOkaCtC7.jpg" group-title="VOD - TERROR",Mermaid Down (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Messengers 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xav4wnkLQiVAUTVxNPMKrXTBdkf.jpg" group-title="VOD - TERROR",Messengers 2 (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="México Bárbaro 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilkBLFYzOdGHqxO1Og4SQk7c6O9.jpg" group-title="VOD - TERROR",México Bárbaro 2 (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Midsommar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lQZUYk25WBpHT9J2PKVfDe1iGl.jpg" group-title="VOD - TERROR",Midsommar (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mientras El Lobo No Está (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7y2SvYTYQeCNoEEOD26wjr3Nx1N.jpg" group-title="VOD - TERROR",Mientras El Lobo No Está (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mimic 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/13tSI83ucR7XuQcr7muAjNIgH91.jpg" group-title="VOD - TERROR",Mimic 2 (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mimic 3: El guardián (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNAwfgBPZXprxfgx7cF5Cji4be1.jpg" group-title="VOD - TERROR",Mimic 3: El guardián (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mimic (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieRRo78f8JzEKxfiCKqJyFg6l8o.jpg" group-title="VOD - TERROR",Mimic (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mis demonios nunca juraron soledad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mWzMRgWNDaEZycAUnYZ8E4YcUY.jpg" group-title="VOD - TERROR",Mis demonios nunca juraron soledad (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misery (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg" group-title="VOD - TERROR",Misery (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mississippi River Sharks (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajGQowd8zESMGurHCk2ukNTWngx.jpg" group-title="VOD - TERROR",Mississippi River Sharks (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Morgue (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3T64Q2dXU6nzIH5PSOSIZNPwZM.jpg" group-title="VOD - TERROR",Morgue (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Motel del infierno (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sb63i9ZDqin0Mh37B5sLiZSQY6A.jpg" group-title="VOD - TERROR",Motel del infierno (1980)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madre! (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg" group-title="VOD - TERROR",Madre! (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="muerte en el camino" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg" group-title="VOD - TERROR",muerte en el camino
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Musa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKjinCoWFHkztF64Vx1L2lwcJI3.jpg" group-title="VOD - TERROR",Musa (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="San Valentín sangriento (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0ZyYpvQiMjWgKcpbxbGwXQIvSM.jpg" group-title="VOD - TERROR",San Valentín sangriento (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My Friend Dahmer (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6HoPIBcRv9l2tPB8hbivq71Nw.jpg" group-title="VOD - TERROR",My Friend Dahmer (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nails (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqoZlqWg1L2HaymAZrmWc05l92R.jpg" group-title="VOD - TERROR",Nails (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nekrotronic (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ke49Ev0ytntnnJ8z8XHDPvJ4Nff.jpg" group-title="VOD - TERROR",Nekrotronic (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nevěsta (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",Nevěsta (1970)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una luz en la oscuridad (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o7LdSMd6QO9u9KNFSdROMEAWo3F.jpg" group-title="VOD - TERROR",Una luz en la oscuridad (1971)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche de miedo 2: Sangre nueva (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cp2959zvia5B3wgsv4pOurHndvb.jpg" group-title="VOD - TERROR",Noche de miedo 2: Sangre nueva (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No dormirás (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3B3RJyLRb18OD99U9qoNzhIJAMJ.jpg" group-title="VOD - TERROR",No dormirás (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No respires (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",No respires (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No Sin Unpunished (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsUpyA7sR79QhWXQ0QPuQ8UFLNk.jpg" group-title="VOD - TERROR",No Sin Unpunished (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca apagues la luz 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6nIcr2Ca4h7aweUNXedWfxa6L2.jpg" group-title="VOD - TERROR",Nunca apagues la luz 2
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca Estamos Solos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFYv4srqQK5JCDwbjOSE333V90W.jpg" group-title="VOD - TERROR",Nunca Estamos Solos (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oculus: el espejo del mal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NUoMSkGv0sJlQJD2nXDiLXshMU.jpg" group-title="VOD - TERROR",Oculus: el espejo del mal (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tumba Abierta (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgXcICQjS3aEbxCYgYMroBXyJGn.jpg" group-title="VOD - TERROR",Tumba Abierta (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Open Water: Inmersión extrema (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hs5FMnSe9RMfvarAitaTbFdt7n.jpg" group-title="VOD - TERROR",Open Water: Inmersión extrema (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La huérfana (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9a7zbzM2ZBkbJNf0cz1E0qVcPHT.jpg" group-title="VOD - TERROR",La huérfana (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ouija House (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLuFHWp2lAJMqLIinspmtBG3c0j.jpg" group-title="VOD - TERROR",Ouija House (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ouija: El origen del mal (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6VLo3diWRMuDZUTqgXt9M8kPW.jpg" group-title="VOD - TERROR",Ouija: El origen del mal (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Our House (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BR1N4UqZtk6OxcWLBGgws8XAQH.jpg" group-title="VOD - TERROR",Our House (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Out of the Darkness (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/69EyUMRQjcomWUW4MSsBMF8CKeI.jpg" group-title="VOD - TERROR",Out of the Darkness (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Overlord (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xtdy7CDGyFYYPMsM2FmZ9tkGTG4.jpg" group-title="VOD - TERROR",Overlord (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paraíso Perdido (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHfmviAZ06svB05laLcUIm6x8sY.jpg" group-title="VOD - TERROR",Paraíso Perdido (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity 2 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Vuhm8L50nhVRUDqT5hbP4aG3x.jpg" group-title="VOD - TERROR",Paranormal Activity 2 (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg" group-title="VOD - TERROR",Paranormal Activity 4 (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PbXUA62YnV2VN493t3TYEbu3zz.jpg" group-title="VOD - TERROR",Paranormal Activity (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity: Dimensión fantasma (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq7z719J82BvcxYfc4i2CpKvWCU.jpg" group-title="VOD - TERROR",Paranormal Activity: Dimensión fantasma (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asesino paciente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXEF8qxRDO63vselloatRPyIN8R.jpg" group-title="VOD - TERROR",El asesino paciente (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Patients of a Saint (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uSR3687xtyS207S8nYp1voT9mR.jpg" group-title="VOD - TERROR",Patients of a Saint (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paciente cero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAieL9NlA4RdiSOdnL3toJv8D39.jpg" group-title="VOD - TERROR",Paciente cero (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pengabdi Setan (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqmL2vvLzFnRFbXVcT8x8l8YTWQ.jpg" group-title="VOD - TERROR",Pengabdi Setan (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghostland (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ma9gY6OikBev8MsMaeA6h2EIdGo.jpg" group-title="VOD - TERROR",Ghostland (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slumber: El demonio del sueño (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78B9r4zeAa5rJtMxipCrfFQa6Yc.jpg" group-title="VOD - TERROR",Slumber: El demonio del sueño (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cementerio de animales (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg" group-title="VOD - TERROR",Cementerio de animales (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cementerio viviente 2 (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1qXTzGHIyCQmJbmEZL47KIqRhL.jpg" group-title="VOD - TERROR",Cementerio viviente 2 (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cementerio de animales (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg" group-title="VOD - TERROR",Cementerio de animales (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queen of Spades: Through The Looking Glass (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rjE0xqaiaDStGfpo7YW51NvlpvK.jpg" group-title="VOD - TERROR",Queen of Spades: Through The Looking Glass (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Piraña 2 (Piranha 3DD) (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vbJObKz2s4ZkMiQwfl5EM1IIt5d.jpg" group-title="VOD - TERROR",Piraña 2 (Piranha 3DD) (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Black (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsrBRkY7j4aLMil3dy52lKQJPlD.jpg" group-title="VOD - TERROR",Pitch Black (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grindhouse (Planet Terror) (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auML60EAIt94IePHeqmdY4lnFeP.jpg" group-title="VOD - TERROR",Grindhouse (Planet Terror) (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Play or Die (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBT6UQX3qpNz9VAqk40CU5fOzJ1.jpg" group-title="VOD - TERROR",Play or Die (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pledges (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7FrCyUsmP4V7h3gj84lqwMteSq.jpg" group-title="VOD - TERROR",Pledges (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1ymtbzatZp94Z49ZOBb8JGXOBB.jpg" group-title="VOD - TERROR",Poltergeist (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1ymtbzatZp94Z49ZOBb8JGXOBB.jpg" group-title="VOD - TERROR",Poltergeist (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist III (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBt3T1z9KmAPa7eE96DLA95RpLl.jpg" group-title="VOD - TERROR",Poltergeist III (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poltergeist II: El otro lado (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnBacCgcGyyX7jmwDf4gemu9OuX.jpg" group-title="VOD - TERROR",Poltergeist II: El otro lado (1986)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prevenge (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEhf5TvwfESjJAFGiMRz4NFErpL.jpg" group-title="VOD - TERROR",Prevenge (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El príncipe de las tinieblas (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zxXiWO1jp19WZFR8v7mNcpa5tsv.jpg" group-title="VOD - TERROR",El príncipe de las tinieblas (1987)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Soul Conductor (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3kH8OoQ5F8XJtrZS24NsyaoAs2.jpg" group-title="VOD - TERROR",The Soul Conductor (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psicosis (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUaRGmVlqiw5HpdkkZYQb0X1mzW.jpg" group-title="VOD - TERROR",Psicosis (1960)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psicosis II: El regreso de Norman (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4PRC48MuDaOddqNJVgBWgOb5MA.jpg" group-title="VOD - TERROR",Psicosis II: El regreso de Norman (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psicosis III (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNvRt7i4UUKNlh5zxyrQOcEoTji.jpg" group-title="VOD - TERROR",Psicosis III (1986)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psicosis IV: El comienzo (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9XSpqHFeK0ZS99ItSv8jUUe0vY.jpg" group-title="VOD - TERROR",Psicosis IV: El comienzo (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu del mal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjPalZwRQCIc0b9hvMa0ssuD2ax.jpg" group-title="VOD - TERROR",Espíritu del mal (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuarentena terminal (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvQkuTuH5QfSm2jh78t2i0iYwB7.jpg" group-title="VOD - TERROR",Cuarentena terminal (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="rassvet 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvQkuTuH5QfSm2jh78t2i0iYwB7.jpg" group-title="VOD - TERROR",rassvet 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche de bodas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/47BlTRVQ43NyzgMWPLOkKYYnHez.jpg" group-title="VOD - TERROR",Noche de bodas (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los invasores (The Recall) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhBPesN5le704O0Cg8WUXutLRe2.jpg" group-title="VOD - TERROR",Los invasores (The Recall) (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="REC 3: Génesis (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2WKOO1Rt5TuBM0h9Jfpgy8crWP.jpg" group-title="VOD - TERROR",REC 3: Génesis (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[REC] 4: Apocalipsis (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg" group-title="VOD - TERROR",[REC] 4: Apocalipsis (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Recovery (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9nyw9iwvTNSbhr9RUZgbFb1mD.jpg" group-title="VOD - TERROR",Recovery (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Redcon-1 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVPrWngVJ2cfYAncBedQty69Dlf.jpg" group-title="VOD - TERROR",Redcon-1 (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Réplicas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cesSnuafCLbReG5TcUh5dpIxchP.jpg" group-title="VOD - TERROR",Réplicas (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La resurrección de Louis Drax (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRwtWFJVRePTrcOZephwE9rrH1p.jpg" group-title="VOD - TERROR",La resurrección de Louis Drax (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Revelaciones (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK1LRugP2VCRiWD6V7QVa5AAAhx.jpg" group-title="VOD - TERROR",Revelaciones (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza siniestra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hU9zso8M7aNfRyzT4to0XtscjfV.jpg" group-title="VOD - TERROR",Venganza siniestra (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ringu 0 (El círculo 0) (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0ZrQmfBHgF0VA8en7K6tpnDGIT.jpg" group-title="VOD - TERROR",Ringu 0 (El círculo 0) (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rings (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZupM9fOGUYssKzhLeZCmWIjJ3f.jpg" group-title="VOD - TERROR",Rings (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robert the Doll (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kTJ5n360iW97AY1Jw8K49gwHgGW.jpg" group-title="VOD - TERROR",Robert the Doll (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkrlkZU6SjZkS2HHNWO5Ca6NLnr.jpg" group-title="VOD - TERROR",Romina (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rope. (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",Rope. (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La semilla del diablo (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1PbbUmtP8SnGRCTvTzqfj5aj0xK.jpg" group-title="VOD - TERROR",La semilla del diablo (1968)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamá te quiere (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEeTuQSsEyM2bSG7rwvm23WJjfg.jpg" group-title="VOD - TERROR",Mamá te quiere (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Sirena (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zgoQWiIvw2rOhJLEHSAmko0uKJ.jpg" group-title="VOD - TERROR",La Sirena (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sadako (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dj9kerjUPFVhBVgHl1KxhILUOiq.jpg" group-title="VOD - TERROR",Sadako (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sadako vs. Kayako (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ophTMVT2bI8Oh7402KSA7LfUvVk.jpg" group-title="VOD - TERROR",Sadako vs. Kayako (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sam Was Here (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3U1sRR9lvJOXJKH1zaRsWKa3vF.jpg" group-title="VOD - TERROR",Sam Was Here (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Santa Jaws (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Lg3hV7ZbHn9nTsKFj0UWU1X2v2.jpg" group-title="VOD - TERROR",Santa Jaws (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alive (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wXEwfIfaJfB2CrQ7JKjjuJjWeis.jpg" group-title="VOD - TERROR",Alive (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Satanic (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DBMtNViq5LuzSlGkO4HgEOElLZ.jpg" group-title="VOD - TERROR",Satanic (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg" group-title="VOD - TERROR",Saw (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw II (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw7nQp0rXmEF81SvumCXWx7U5nb.jpg" group-title="VOD - TERROR",Saw II (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw III (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O3WHiMsROucozbDrJwljaTZh5C.jpg" group-title="VOD - TERROR",Saw III (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw IV (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8YM09nbc5YkEEqNJV6vNr5mzUC.jpg" group-title="VOD - TERROR",Saw IV (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw V (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9O1PDgz8hats6MYg48dBiTtnUSy.jpg" group-title="VOD - TERROR",Saw V (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw VI (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbj6PhEYIT5IVtzy1TSAVX8flAM.jpg" group-title="VOD - TERROR",Saw VI (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Saw VII (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJzINVqNpsb3W7DA1gmToWbjmrL.jpg" group-title="VOD - TERROR",Saw VII (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scare Package (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gRf46QmAsSKoHPKNTnCdyPIo1bG.jpg" group-title="VOD - TERROR",Scare Package (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie 3 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tMsPb5yEwmb4eHbXRAD6mURE5B.jpg" group-title="VOD - TERROR",Scary Movie 3 (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scary Movie 4 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSybaw6TeJKKmHIh8UonOEsv4Bh.jpg" group-title="VOD - TERROR",Scary Movie 4 (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias de miedo para contar en la oscuridad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg" group-title="VOD - TERROR",Historias de miedo para contar en la oscuridad (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zombie camp (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlwdPS6Vo1Tz7jXOjSvY6eHi1MN.jpg" group-title="VOD - TERROR",Zombie camp (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream 2 (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euL23DkvjtVVFVhZ36JmVCZ7BrL.jpg" group-title="VOD - TERROR",Scream 2 (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream (Vigila quién llama) (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3jyJq4fNcNljJOVhux7cvCBFui.jpg" group-title="VOD - TERROR",Scream (Vigila quién llama) (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream 4 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg" group-title="VOD - TERROR",Scream 4 (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream at the Devil (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vtoJKxGC02uAUUbKnDsho3EYMPA.jpg" group-title="VOD - TERROR",Scream at the Devil (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream (Vigila quién llama) (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3jyJq4fNcNljJOVhux7cvCBFui.jpg" group-title="VOD - TERROR",Scream (Vigila quién llama) (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sebastiana: La maldición (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQhLVpwFjPrOIxf3szXlMZOnrkW.jpg" group-title="VOD - TERROR",Sebastiana: La maldición (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El secreto de Marrowbone (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQYr9634GY0ZRX68pyEh1XNXhCR.jpg" group-title="VOD - TERROR",El secreto de Marrowbone (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secuestrados (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dKFwbh5fxDIy0tSkdjobCZnsDw.jpg" group-title="VOD - TERROR",Secuestrados (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seven in Heaven (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/elReufFR4NYFiBVRsD0wB2F6FDf.jpg" group-title="VOD - TERROR",Seven in Heaven (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sharknado (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atEmHkVFTSGRYt2PeCiziQqbZnI.jpg" group-title="VOD - TERROR",Sharknado (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shutter (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9bG1SOCHHVidLI746RyJKqY4AG.jpg" group-title="VOD - TERROR",Shutter (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lullaby (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/anYYzYYUgoEYsMnITf3LOUnKnLC.jpg" group-title="VOD - TERROR",The Lullaby (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El silencio (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgaTtU4NA9r0lRKSUqPOnL9gtG7.jpg" group-title="VOD - TERROR",El silencio (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El estigma del mal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98KAHP8vxAX4jJiK7kd4QkA25EG.jpg" group-title="VOD - TERROR",El estigma del mal (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silent Hill (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg" group-title="VOD - TERROR",Silent Hill (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silent Hill 2: Revelación (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2JOujdpYUeGg3886gigTAQq0na6.jpg" group-title="VOD - TERROR",Silent Hill 2: Revelación (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silent Night (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnU29XeVF0hRAJ5QUiEpH66lXR4.jpg" group-title="VOD - TERROR",Silent Night (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siniestro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjVMVtgq7tFielcG3C31PeHUOvU.jpg" group-title="VOD - TERROR",Siniestro (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siniestro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjVMVtgq7tFielcG3C31PeHUOvU.jpg" group-title="VOD - TERROR",Siniestro (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De espaldas a Dios (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG0JC0XKZXHKkrp9oPZOVbksefk.jpg" group-title="VOD - TERROR",De espaldas a Dios (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siren (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FT1gPTP5SccMZ4baTjOKAMbkXg.jpg" group-title="VOD - TERROR",Siren (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slender Man (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huSncs4RyvQDBmHjBBYHSBYJbSJ.jpg" group-title="VOD - TERROR",Slender Man (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Slither: La plaga (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBhCbdxWnJXVmByixeifIiYEAKB.jpg" group-title="VOD - TERROR",Slither: La plaga (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smiley (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rO8jANmASmul1tWi53mudn1V9IA.jpg" group-title="VOD - TERROR",Smiley (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snatchers (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PcCffhPbHqPjCQOYJCB5bnHRTV.jpg" group-title="VOD - TERROR",Snatchers (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy la bonita criatura que vive en esta casa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcZrsT7JNpHjgkh1rGaqeWefkYk.jpg" group-title="VOD - TERROR",Soy la bonita criatura que vive en esta casa (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy tóxico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fua9a5vtoIBjpCCh4RhFgyJsHtG.jpg" group-title="VOD - TERROR",Soy tóxico (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spawn (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfvH5YKXtMiBgkj0FNozQj4TQyp.jpg" group-title="VOD - TERROR",Spawn (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Species (Especie mortal) (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byYoe9m4dSWM5xYLwWq5OV8KgPX.jpg" group-title="VOD - TERROR",Species (Especie mortal) (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Species II (Especie mortal II) (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5MAlIvhjYiB8Z59YQP9bXs5k.jpg" group-title="VOD - TERROR",Species II (Especie mortal II) (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Species III (Especie mortal III) (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8BelHo8qmaurZjPS9hipSQ79Rr6.jpg" group-title="VOD - TERROR",Species III (Especie mortal III) (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Species IV: El despertar (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYWGq17sQ2Th0v77tVK6yteA37P.jpg" group-title="VOD - TERROR",Species IV: El despertar (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Splice: Experimento mortal (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rIYJsichDJbxGFGMyNRwIsQ144P.jpg" group-title="VOD - TERROR",Splice: Experimento mortal (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spring (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2ncaxeGf5cQOjhWbp4FxFDE1BA.jpg" group-title="VOD - TERROR",Spring (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stephanie (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saH984W3ZGjRX0NMCEsuKh8VUP9.jpg" group-title="VOD - TERROR",Stephanie (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonámbulos, de Stephen King (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1mCpwvdui1XfS13Fii1Tn0jC0q.jpg" group-title="VOD - TERROR",Sonámbulos, de Stephen King (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algunas veces ellos vuelven (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie6pvZ2X5qir4SfNKa07j2FY6sY.jpg" group-title="VOD - TERROR",Algunas veces ellos vuelven (1991)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stickman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvt4uJPYNKYZY8qCwH5Ag6NMW8B.jpg" group-title="VOD - TERROR",Stickman (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Still Born (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oC1mbALBAJYLDnXb065WhuzJxrR.jpg" group-title="VOD - TERROR",Still Born (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último escalón (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLqguFHQWvkN9Mn76tWe2c63Iu5.jpg" group-title="VOD - TERROR",El último escalón (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stitches (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/krlOnkMBDYp4zgLivd4WORBnQm0.jpg" group-title="VOD - TERROR",Stitches (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El club de los vampiros (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdbsYx4dMzUgjVPaGtYKBXjBtnq.jpg" group-title="VOD - TERROR",El club de los vampiros (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gato infernal (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YR0SU05k6F4LJStMxBvFk8NEis.jpg" group-title="VOD - TERROR",El gato infernal (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tales from the Hood (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2AgQBaFCkQxcSZPIhYztDT8DiaV.jpg" group-title="VOD - TERROR",Tales from the Hood (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tales from the Hood 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k93d4au1KByYKi6FsE0dLrKWowj.jpg" group-title="VOD - TERROR",Tales from the Hood 2 (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Talon Falls (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTkMVgTMzctisqNYfdXk0vicktY.jpg" group-title="VOD - TERROR",Talon Falls (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Visiones de la muerte (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edfgo6pyT1QFjbThLR1HfbNYl3g.jpg" group-title="VOD - TERROR",Visiones de la muerte (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tempus Tormentum (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg" group-title="VOD - TERROR",Tempus Tormentum (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenemos la carne (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4vLIUysOqY16XPiaZ1W9oeXBc1.jpg" group-title="VOD - TERROR",Tenemos la carne (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terror 5 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vhmkswVGIOY62viDryXIxdPcc.jpg" group-title="VOD - TERROR",Terror 5 (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terroríficamente muertos (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mD0n1FS5LopoKj3icqFyZE4x3lx.jpg" group-title="VOD - TERROR",Terroríficamente muertos (1987)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas 3D (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0jNjKQAT5bjZN9zK7ZeqfQ3Bvc.jpg" group-title="VOD - TERROR",La matanza de Texas 3D (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas 3 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCMEnRU8CLiA81FNdx9ToBTrNem.jpg" group-title="VOD - TERROR",La matanza de Texas 3 (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg" group-title="VOD - TERROR",La matanza de Texas (1974)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas: El origen (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg" group-title="VOD - TERROR",La matanza de Texas: El origen (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Real Amityville Horror (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGbq102j9vQjmUwVXgYdzQvlDea.jpg" group-title="VOD - TERROR",The Real Amityville Horror (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Apparition (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6cjKN1zp4DhpFPxXcMhEsPfjc4.jpg" group-title="VOD - TERROR",The Apparition (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Assent (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7e2Qxio7thoKKL0ceZlrlDhy4h.jpg" group-title="VOD - TERROR",The Assent (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Atoning (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h8TucRd6IaqaHp0uVzPmKJFO6jn.jpg" group-title="VOD - TERROR",The Atoning (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La autopsia de Jane Doe (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5UgrFjiOAphNNSYnUKbemgQ87t.jpg" group-title="VOD - TERROR",La autopsia de Jane Doe (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa de las masacres (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUUaEmlv99xvTiwi302d6VA3Vg4.jpg" group-title="VOD - TERROR",La casa de las masacres (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babadook (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TnMWnI4xcQyuEwa8Jj66TCCGsR.jpg" group-title="VOD - TERROR",Babadook (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Babysitter (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pMbRBz2KLlOqEIDIwnMVVKPWUh.jpg" group-title="VOD - TERROR",The Babysitter (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Babysitter: Killer Queen (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePd02d2hWluUppkm7WBfeylsTT2.jpg" group-title="VOD - TERROR",The Babysitter: Killer Queen (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bad Seed (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m10QitDjpbZgFP1syXgVOv2pH7.jpg" group-title="VOD - TERROR",The Bad Seed (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Banana Splits (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vG9FY2wHVwOOQfqNlUt2LbRzRNl.jpg" group-title="VOD - TERROR",Banana Splits (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Belko Experiment (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/faJK0dP3S92kQoKtO4LZMjy41kf.jpg" group-title="VOD - TERROR",The Belko Experiment (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Black Room (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHZDs43AxPhitL2Xrw7mncuyS4q.jpg" group-title="VOD - TERROR",The Black Room (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Boy (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NsFoEHa942HqGXj6DPTknX9bv8.jpg" group-title="VOD - TERROR",The Boy (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca digas su nombre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czK4pxcvwj2ROImZ0gcwJLVpxZK.jpg" group-title="VOD - TERROR",Nunca digas su nombre (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cabinet in the Woods (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxHgIzINKfToKLCNdk6PfZzY08t.jpg" group-title="VOD - TERROR",The Cabinet in the Woods (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Call (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKmykghTmvQj6zum79TsdUL5mPF.jpg" group-title="VOD - TERROR",The Call (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El canal (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfNljD4itGf8InGmS6C3V8g4F8T.jpg" group-title="VOD - TERROR",El canal (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Car: Road to Revenge (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg" group-title="VOD - TERROR",The Car: Road to Revenge (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Car: Road to Revenge (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg" group-title="VOD - TERROR",The Car: Road to Revenge (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Collection (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxUasHKoR8dtInQiXNUknOqi6Ao.jpg" group-title="VOD - TERROR",The Collection (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: The Conjuring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" group-title="VOD - TERROR",Expediente Warren: The Conjuring (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jóvenes y brujas (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrevj9eXFr1ocxRVq4UEDXh48tK.jpg" group-title="VOD - TERROR",Jóvenes y brujas (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jóvenes y brujas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPngRyZrEyHLoEtTC0fiv6ErAJr.jpg" group-title="VOD - TERROR",Jóvenes y brujas (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Crazies (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVuAEloskv8GDNJwNRUtCV7aHDk.jpg" group-title="VOD - TERROR",The Crazies (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cuervo: Ciudad de ángeles (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQicFam5Y9J9AgbNweQhrGqEgfi.jpg" group-title="VOD - TERROR",El cuervo: Ciudad de ángeles (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cuervo: Salvación (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUFQCbZH2otP5QOpdGCTLbu5RyG.jpg" group-title="VOD - TERROR",El cuervo: Salvación (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Culling (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSuTZbBzBeyVMiI2qGn6f8hhEYd.jpg" group-title="VOD - TERROR",The Culling (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cured (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qheJcFjQ3hAMroE8y6FpCg6jNeN.jpg" group-title="VOD - TERROR",The Cured (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Llorona (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIWytsnEr2aRobU6ERutzewm63.jpg" group-title="VOD - TERROR",La Llorona (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Darkness (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cSGfMbn3T5jPZ1y9vzuiTVgMqiu.jpg" group-title="VOD - TERROR",The Darkness (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los muertos no mueren (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYVKIiyE6vK2riNTPtk1XKWejvJ.jpg" group-title="VOD - TERROR",Los muertos no mueren (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Descent (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqmxWYRLXhZorcZmnGCTZIRkaHg.jpg" group-title="VOD - TERROR",The Last Descent (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Devil Within (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVCGgmgHDcOLVlxGQyJGcqtCluc.jpg" group-title="VOD - TERROR",The Devil Within (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La muñeca vudú (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/15yKbkecBAKW5KYupRY5lUgnI1q.jpg" group-title="VOD - TERROR",La muñeca vudú (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Diabolical (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCLVoYCy3jZGdg0ftevECx44OXV.jpg" group-title="VOD - TERROR",The Diabolical (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa del pánico (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ifpYp9D5g9JJD81d34KcNevTJq.jpg" group-title="VOD - TERROR",La casa del pánico (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Domestics (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHSaDFjN0kbch7hmJ17yL5lyqUD.jpg" group-title="VOD - TERROR",The Domestics (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ente (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws8tfaqgwGNp3w3q1DUFchlo0zx.jpg" group-title="VOD - TERROR",El ente (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Evil in Us (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hjpfY7faXYclLRK0DDPPWtShyp.jpg" group-title="VOD - TERROR",The Evil in Us (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcismo de Anna Ecklund (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dCv6Qb3aZN3Nub8epb6q8Lje6JP.jpg" group-title="VOD - TERROR",El exorcismo de Anna Ecklund (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista III (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JNaaRHzvfopeig4BqSlfufFrVK.jpg" group-title="VOD - TERROR",El exorcista III (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Eye (Visiones) (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKLxG1LkqpTXFbyc5lJWaefZzbv.jpg" group-title="VOD - TERROR",The Eye (Visiones) (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Faculty (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/60Jge3rxgiqzpehuGcuITJveO44.jpg" group-title="VOD - TERROR",The Faculty (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Final Wish (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RuQDW5TnpD0EUXt3wF4B18P1uw.jpg" group-title="VOD - TERROR",The Final Wish (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Horca 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7gpJfzOPbDjs6NclYOuFq7Z1mu.jpg" group-title="VOD - TERROR",La Horca 2 (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Melanie: La chica con todos los dones (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7ASfPcryIAOxbMpRw4iH94iQSh.jpg" group-title="VOD - TERROR",Melanie: La chica con todos los dones (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Golem (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwdbyKJ2PKTLamQzr57OgMuFUlD.jpg" group-title="VOD - TERROR",The Golem (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda de Vandorf (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUbKejwrF1jTz3ZRTdOsiDnmruw.jpg" group-title="VOD - TERROR",La leyenda de Vandorf (1964)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El infierno verde (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jusadS0u0P0BFAYcUpI1pSBF6IN.jpg" group-title="VOD - TERROR",El infierno verde (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Grudge 1.5 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",The Grudge 1.5 (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Grudge 1.5 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",The Grudge 1.5 (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Grudge 1.5 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",The Grudge 1.5 (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maldición (The Grudge) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62gIJdks9agqdYavMHJx3FlRXp9.jpg" group-title="VOD - TERROR",La maldición (The Grudge) (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los hijos del Diablo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7AFVBSrdkh3IovdedH5rCSG8Hi.jpg" group-title="VOD - TERROR",Los hijos del Diablo (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Happening (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVsMBspODOOXMYhzWrP3dAgPkVV.jpg" group-title="VOD - TERROR",The Happening (1967)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Harvesting (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57ylPaFOUYrX1rGfIilyB5LqAUv.jpg" group-title="VOD - TERROR",The Harvesting (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Secreto de Alcatraz (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crElqQ3vJuKyuGjbnK6OfuZ67UN.jpg" group-title="VOD - TERROR",El Secreto de Alcatraz (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Haunting of Sharon Tate (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzIQjfKmrTKf25y3N3VU88bFn8H.jpg" group-title="VOD - TERROR",The Haunting of Sharon Tate (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vacant House (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewu8e5WyLE91426VmqgQaoePlRI.jpg" group-title="VOD - TERROR",Vacant House (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bosque maldito (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXHC3pcDQ3pGjAwPAIqF1nTVfPl.jpg" group-title="VOD - TERROR",Bosque maldito (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hollow Child (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fkohwexP83W1WSY0oomIYMGldfy.jpg" group-title="VOD - TERROR",The Hollow Child (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Host (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c8NBk0FsyhePuFvHmA1XP1XrHrI.jpg" group-title="VOD - TERROR",The Host (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hunt (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IJFAJ5yiymZxLD8IVXYfVq1hdF.jpg" group-title="VOD - TERROR",The Hunt (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Institute (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aBfim1IbDLHJp49VU8W6lZ5EIbC.jpg" group-title="VOD - TERROR",The Institute (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre invisible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg" group-title="VOD - TERROR",El hombre invisible (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Invitation (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWcJwnO2q31tGFIlvF1wisWzote.jpg" group-title="VOD - TERROR",The Invitation (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las horas pasadas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2Bf3bzbOBKXzj77gitzvJCU0a4.jpg" group-title="VOD - TERROR",Las horas pasadas (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último Sharknado 6: Ya era hora (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8O10lzlRPnh93I6qKHCbWD9AvTz.jpg" group-title="VOD - TERROR",El último Sharknado 6: Ya era hora (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lighthouse (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",The Lighthouse (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los misteriosos asesinatos de Limehouse (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcyF0TYRcj9dPWIdp5CaEgDzkUB.jpg" group-title="VOD - TERROR",Los misteriosos asesinatos de Limehouse (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misterioso inquilino (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prfQla0ZriFC9PecssAiladiby4.jpg" group-title="VOD - TERROR",Misterioso inquilino (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los inquilinos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dknDazqJW8kphSm5ZyEnes3qymV.jpg" group-title="VOD - TERROR",Los inquilinos (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Messengers (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLmurNcnkmdPahLc6HKQjX3EHed.jpg" group-title="VOD - TERROR",The Messengers (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Midnight Man (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtrxCwIvpb70NR9RECkt8dPrTJd.jpg" group-title="VOD - TERROR",The Midnight Man (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El vagón de la muerte (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgZ16kqpk1SdvKhjBPq1m5NLSOI.jpg" group-title="VOD - TERROR",El vagón de la muerte (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mimic (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utcbLNRF91G6Ce7ZzqBCxQMi0Z0.jpg" group-title="VOD - TERROR",The Mimic (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La niebla (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sljy4ceIy2Nnb7rhlQ89gYmSlfQ.jpg" group-title="VOD - TERROR",La niebla (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Monster (1925)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOyxl0PCoYsZybEZnN32tOR2y0G.jpg" group-title="VOD - TERROR",The Monster (1925)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La niñera perfecta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edvKpKmsiUjLKA1Yoh3BVu5tibd.jpg" group-title="VOD - TERROR",La niñera perfecta (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los nuevos mutantes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg" group-title="VOD - TERROR",Los nuevos mutantes (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Night Before Halloween (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lwCXfPch7Rb9zPv9YOpazGk1U7.jpg" group-title="VOD - TERROR",The Night Before Halloween (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche del jabalí (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7NaKpVBpuVFUVP9IGeqn1TnzheH.jpg" group-title="VOD - TERROR",La noche del jabalí (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Puertas abiertas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNVR8EVu4TH2fCnBgyFfbgNnKQV.jpg" group-title="VOD - TERROR",Puertas abiertas (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Others (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKXWYLhagrR6JUOIdg7hX9HhbYP.jpg" group-title="VOD - TERROR",The Others (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Pack (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qe8Xue6kXAj4Cf42Phz7R165LAz.jpg" group-title="VOD - TERROR",The Pack (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sótano del miedo (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMfxuIUeCs6VcDwJgdQ5ACB4cZd.jpg" group-title="VOD - TERROR",El sótano del miedo (1991)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La perfección (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkXie4mkqAocng89nrYEcLBkhxw.jpg" group-title="VOD - TERROR",La perfección (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fantasma de la ópera (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie03D5WcIKW5AHXM59KTU6TRvmf.jpg" group-title="VOD - TERROR",El fantasma de la ópera (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Possession Experiment (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dt4tIacNVxemnJtaeH5MANe6YG1.jpg" group-title="VOD - TERROR",The Possession Experiment (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cadáver (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg" group-title="VOD - TERROR",Cadáver (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Skyline: El último crucero (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tl2QZ5jZuB3ohn42GW62aK9wFJc.jpg" group-title="VOD - TERROR",Skyline: El último crucero (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Prodigy (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCiRCxY8qbIi6adTCBzk9MmqBFF.jpg" group-title="VOD - TERROR",The Prodigy (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ángeles y demonios (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z56MonpplOTKur2KTz371RQrjr.jpg" group-title="VOD - TERROR",Ángeles y demonios (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anarchy: La noche de las bestias (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg" group-title="VOD - TERROR",Anarchy: La noche de las bestias (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Election: La noche de las bestias (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEpLdiISE6mLHXOc1iDnd3edfal.jpg" group-title="VOD - TERROR",Election: La noche de las bestias (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Purge: La noche de las bestias (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkK5kB1pYIwDPInmAnmDrLydOnj.jpg" group-title="VOD - TERROR",The Purge: La noche de las bestias (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cosecha (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0CM4rAwJU7Z3Faa9BkYCHTuSwH.jpg" group-title="VOD - TERROR",La cosecha (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ring (1927)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VeNRpyspVlJzkrNAyszdGtmy9e.jpg" group-title="VOD - TERROR",El ring (1927)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ring 2 (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvJd4jMK3gVPiErNdgHYKlshiXc.jpg" group-title="VOD - TERROR",The Ring 2 (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="WWE King of the Ring 1998 (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUWYAPDm3fVGz4ouYz66T0XM6Yf.jpg" group-title="VOD - TERROR",WWE King of the Ring 1998 (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ring 2 (La señal 2) (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDdD1Dufl9UhDhjVeWGaVstzpoR.jpg" group-title="VOD - TERROR",The Ring 2 (La señal 2) (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ritual (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHuJqzby593lmYmw1SzT0XYy99t.jpg" group-title="VOD - TERROR",El ritual (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Rocky Horror Picture Show (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNrNAHbtVaF6wXLLm7KwKsLpDCo.jpg" group-title="VOD - TERROR",The Rocky Horror Picture Show (1975)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Sandman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iak7mWZNIoYYS6KI4bzcIKONX2w.jpg" group-title="VOD - TERROR",The Sandman (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Scientist (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIkKM1nlzk8DThFT4vxgW1KoofL.jpg" group-title="VOD - TERROR",The Scientist (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Shining Hour (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdMSAH2qOt9CVXSqYUSFEGl8LNo.jpg" group-title="VOD - TERROR",The Shining Hour (1938)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="End The Silence (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3k0rTHUc1Iw5NQuvWiUTA8KxSi.jpg" group-title="VOD - TERROR",End The Silence (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La trampa (The Snare) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njA7M4yIKEdilFS2OdNAUK1Rd0w.jpg" group-title="VOD - TERROR",La trampa (The Snare) (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tierra de vampiros II (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dhYeltpxfYlEKX0uOGcEz0Fh0n.jpg" group-title="VOD - TERROR",Tierra de vampiros II (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los extraños: Cacería nocturna (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnaOYTchtKuAJ78Srw79qwXqvzH.jpg" group-title="VOD - TERROR",Los extraños: Cacería nocturna (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Super (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6V2or7jEQHSj9JbahLmldGAwd6c.jpg" group-title="VOD - TERROR",The Super (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOqMcW2TYN0WReTDpds93rkAYpR.jpg" group-title="VOD - TERROR",La matanza de Texas (1974)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIwa6T0pChP85HHduiDEgsf000R.jpg" group-title="VOD - TERROR",La matanza de Texas (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La matanza de Texas 2 (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LDUW8fYdDR5B1yJimZ1bAhqCl.jpg" group-title="VOD - TERROR",La matanza de Texas 2 (1986)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escalofrío (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDuKIccxR0lsdWlYuWiu03hkwnN.jpg" group-title="VOD - TERROR",Escalofrío (1959)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Otra vuelta de tuerca (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy588otBtZqI6UBsIrZmXS0nKCH.jpg" group-title="VOD - TERROR",Otra vuelta de tuerca (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Uninvited Guest (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95hytOpjVrz4f73FFxXnPrJz4WB.jpg" group-title="VOD - TERROR",The Uninvited Guest (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El velo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10xkcoVSGoxLCuJCHMv1yaMcUdr.jpg" group-title="VOD - TERROR",El velo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las brujas (de Roald Dahl) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PxbO8UzZ17dMcqs0YwAnKuwfHA.jpg" group-title="VOD - TERROR",Las brujas (de Roald Dahl) (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encontraron el Infierno (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7joTfZ0K5leltdwhHfBuHt1Dyn5.jpg" group-title="VOD - TERROR",Encontraron el Infierno (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="They Remain (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pCsB2IePfLj5eQXXziGb8Xyxblm.jpg" group-title="VOD - TERROR",They Remain (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thirteen Erotic Ghosts (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRykwQiqiLtjMioCxk35SJpCSUd.jpg" group-title="VOD - TERROR",Thirteen Erotic Ghosts (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiburón, la venganza (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uETv0BJHqHGRb2UhyaXeQZLl7ef.jpg" group-title="VOD - TERROR",Tiburón, la venganza (1987)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tokyo Ghoul, la película (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ayNwqNcpwco9hna8pDsF5EqHpG.jpg" group-title="VOD - TERROR",Tokyo Ghoul, la película (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Totem (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eMZjYxEGXS6xj4hRtxBmaPPi3z.jpg" group-title="VOD - TERROR",Totem (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toys of Terror (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlu8YdfUNRrxonk1fvgr2jyXkBm.jpg" group-title="VOD - TERROR",Toys of Terror (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tragedy Girls (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifngaBZDROgHz4sgSzL75TD90Ll.jpg" group-title="VOD - TERROR",Tragedy Girls (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trash Fire (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67csBYz0U2MfHf54FX0JTQ2ace3.jpg" group-title="VOD - TERROR",Trash Fire (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trauma (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q68nAvTX3oQL9aDbFPXF0X30R9l.jpg" group-title="VOD - TERROR",Trauma (1993)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tremors: Shrieker Island (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg" group-title="VOD - TERROR",Tremors: Shrieker Island (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Triangle (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",Triangle (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truth or Dare (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5FcN0P7YcSJUbnosxyU4GEG4br.jpg" group-title="VOD - TERROR",Truth or Dare (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tú eres el siguiente (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZvndcQki8vzj9CTGSqWqQYvgDA.jpg" group-title="VOD - TERROR",Tú eres el siguiente (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En los límites de la realidad (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s66HVGW0sxQWvh7APdzgEKF4XYP.jpg" group-title="VOD - TERROR",En los límites de la realidad (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Comedia Macabra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htaXyllu1Z1HjTvpMZg4rv4u7u3.jpg" group-title="VOD - TERROR",Una Comedia Macabra (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una libélula para cada muerto (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ngEh6IPXh6HoqUmNmjMQ70jlcCI.jpg" group-title="VOD - TERROR",Una libélula para cada muerto (1975)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo la sombra (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqlwBq0WFskXLEdL1QtL0Z2egvL.jpg" group-title="VOD - TERROR",Bajo la sombra (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underwater (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82fJYjmWTaolNP2Lne02JZZcuig.jpg" group-title="VOD - TERROR",Underwater (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underworld: Guerras de sangre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18sAGzRcoWKJjaarTZM3GYJyzZp.jpg" group-title="VOD - TERROR",Underworld: Guerras de sangre (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Underworld: La rebelión de los licántropos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTj7OsNUbNAerYs0AdhLXg3xNTt.jpg" group-title="VOD - TERROR",Underworld: La rebelión de los licántropos (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eliminado: Dark Web (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQM2LDOmolIGt7WzcHl6ZSUAdci.jpg" group-title="VOD - TERROR",Eliminado: Dark Web (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nosotros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg" group-title="VOD - TERROR",Nosotros (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V/H/S (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pfIa7DnOJxteBsrkePMY1TSlGL.jpg" group-title="VOD - TERROR",V/H/S (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vampariah (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIKcA3O8W14pNyRn4tHXDQEsLtY.jpg" group-title="VOD - TERROR",Vampariah (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vampiros contra el Bronx (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r55WHmiXzryJA0v5MlrwyFQXRTF.jpg" group-title="VOD - TERROR",Vampiros contra el Bronx (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Van Helsing (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Rbgp2re7qkkAH8IEvo1helZDAH.jpg" group-title="VOD - TERROR",Van Helsing (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Victor Crowley (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcZtqUStEvS9y0bFZrO80oIUhJk.jpg" group-title="VOD - TERROR",Victor Crowley (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viernes 13 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoahbWHgcnqOLqGds4pDHGcBbIV.jpg" group-title="VOD - TERROR",Viernes 13 (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viral (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Rul30PXj13zTAx9RgYZQ8fnlif.jpg" group-title="VOD - TERROR",Viral (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virus (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Np88iigCfnXvMlMKmCcbPVIbYQ.jpg" group-title="VOD - TERROR",Virus (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Visions (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZoaV2jaicOXn2ojuS5UJJfygP8.jpg" group-title="VOD - TERROR",Visions (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vivarium (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bk5xkiXc1msKwrRJ5WtisHui8xE.jpg" group-title="VOD - TERROR",Vivarium (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mimic (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3EW5nCETgm0lX5OKkvUs67Y7wG.jpg" group-title="VOD - TERROR",The Mimic (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vuelven (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlKmfWU6hvga3f9AinTsEGi2THU.jpg" group-title="VOD - TERROR",Vuelven (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La nueva pesadilla de Wes Craven (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9tvu6MoAKEsITQeGhBUQq9BmCk1.jpg" group-title="VOD - TERROR",La nueva pesadilla de Wes Craven (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo que te mantiene viva (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg" group-title="VOD - TERROR",Lo que te mantiene viva (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="What We Become (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dW0V1HIqruwJGo91dRqqAODZK1.jpg" group-title="VOD - TERROR",What We Become (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Where The Devil Dwells (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djSIXITnGEQLNwTXrWP2oYHTmYk.jpg" group-title="VOD - TERROR",Where The Devil Dwells (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Whiteout (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioXwyAvAV3N3Jz6oKSdjHD853RU.jpg" group-title="VOD - TERROR",Whiteout (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criaturas nocturnas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZQR6hKRUBqHRL4lfECFES68zGF.jpg" group-title="VOD - TERROR",Criaturas nocturnas (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Winchester 73 (1950)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOUQOJ0VR4MJwArDP3BJ8BMe757.jpg" group-title="VOD - TERROR",Winchester 73 (1950)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wish Upon (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - TERROR",Wish Upon (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La noche de la bruja (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYlHTdKFnhjNsJ0jvHMsJCIFG0l.jpg" group-title="VOD - TERROR",La noche de la bruja (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie duerme en el bosque esta noche (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RqOr2gap2iOtSQRClkxzFcHspo.jpg" group-title="VOD - TERROR",Nadie duerme en el bosque esta noche (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DEFY2 Wolves At The Door (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGf6ss9aXIJWM92kBkTxXWoKuSB.jpg" group-title="VOD - TERROR",DEFY2 Wolves At The Door (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Would You Rather (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufKrZp04U83SA2nrIzvV1jES4Go.jpg" group-title="VOD - TERROR",Would You Rather (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heridas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0GL9nAza9fuUVSj7m3qTMOD0DG.jpg" group-title="VOD - TERROR",Heridas (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Km. 666 II: Camino sangriento (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chskPoHeqWIiWzeZLpuQSeXLBtM.jpg" group-title="VOD - TERROR",Km. 666 II: Camino sangriento (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino sangriento 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CGNZk2HJHHFpnLdCJEe6JI6Fsi.jpg" group-title="VOD - TERROR",Camino sangriento 3 (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino sangriento 4: El origen (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4yyI3YLbcOApCT3KcEW6FCfzLM.jpg" group-title="VOD - TERROR",Camino sangriento 4: El origen (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino sangriento 5: Linaje caníbal (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rCVdIzSIDIALXArSjLyw44teD0.jpg" group-title="VOD - TERROR",Camino sangriento 5: Linaje caníbal (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino sangriento 6 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ks5ehO11dNfc3SQyXigCKmg0TmP.jpg" group-title="VOD - TERROR",Camino sangriento 6 (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Y Abrázame (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9LGv3p2xTYVbmfblaqBQBr9gC2.jpg" group-title="VOD - TERROR",Y Abrázame (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baba Yaga: El regreso del demonio (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EjUq3eqvDKU4EXh482IQcttcx4.jpg" group-title="VOD - TERROR",Baba Yaga: El regreso del demonio (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tren de las 3:10 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etmnvALqhRmG8oa061VUODSUiwK.jpg" group-title="VOD - WESTERN",El tren de las 3:10 (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre llamado Caballo (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frObHVH8sh7mvkHttNhpilakg15.jpg" group-title="VOD - WESTERN",Un hombre llamado Caballo (1970)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="blazing saddles 1974" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/frObHVH8sh7mvkHttNhpilakg15.jpg" group-title="VOD - WESTERN",blazing saddles 1974
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nevada Express (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Jt8JECxJUWgfJQmgR3tFDyMvHz.jpg" group-title="VOD - WESTERN",Nevada Express (1975)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brimstone. La hija del predicador (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwYqE1qifeMJphFINmvs9SrTS4S.jpg" group-title="VOD - WESTERN",Brimstone. La hija del predicador (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099960.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bullitt (1968)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hwFxbwhAmRoW62FyzcbDfKGKgG.jpg" group-title="VOD - WESTERN",Bullitt (1968)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casa de mi padre (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71pKGrwzk99CpIy2ncpgKHn5248.jpg" group-title="VOD - WESTERN",Casa de mi padre (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Damsel (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zr5K4sGtdYcBk6MNA2268NpqCs.jpg" group-title="VOD - WESTERN",Damsel (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bailando con lobos (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37494KV3kIck7moJ3JVEPAZQT68.jpg" group-title="VOD - WESTERN",Bailando con lobos (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El jinete del amanecer (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXc15iWmXoMf6bYIJfivljkjphq.jpg" group-title="VOD - WESTERN",El jinete del amanecer (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Again in Tombstone (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qCQLZWLRotE5BSUVMN4ZWSIshc.jpg" group-title="VOD - WESTERN",Dead Again in Tombstone (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Again in Tombstone (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qCQLZWLRotE5BSUVMN4ZWSIshc.jpg" group-title="VOD - WESTERN",Dead Again in Tombstone (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099967.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadwood: La película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crF3Q7tFEOeRWfmuSwj4ZkIryH9.jpg" group-title="VOD - WESTERN",Deadwood: La película (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099968.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diablo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uAVDyWhkXfaMo09hNpyqR0xkFp.jpg" group-title="VOD - WESTERN",Diablo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dodge, ciudad sin ley (1939)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHHJ83B8ij4oG78IrPB4fKCopSC.jpg" group-title="VOD - WESTERN",Dodge, ciudad sin ley (1939)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dorado (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCA1Zb1Kw1Zo6wSodCIlZPVfwpo.jpg" group-title="VOD - WESTERN",El Dorado (1966)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stghzuBSuhiBbvAIxrm8D0G8m1z.jpg" group-title="VOD - WESTERN",El Siete Machos (1951)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Topo (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAPQMH2TBBIcoGPQ7hf2jE0zL1l.jpg" group-title="VOD - WESTERN",El Topo (1970)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099973.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frontera (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/miAWbPJLzPRGP4QaJFkklSZe2gZ.jpg" group-title="VOD - WESTERN",Frontera (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frontier (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lQSV4unaYdFBE8iLi7JxSMGRIV.jpg" group-title="VOD - WESTERN",Frontier (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de demonios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg" group-title="VOD - WESTERN",Cazador de demonios (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infierno en la frontera (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlQURJswWQyJhjDeLCQQIOAgRkF.jpg" group-title="VOD - WESTERN",Infierno en la frontera (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hondo (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ID1Zl2TIflgd5yVErroaT3Podg.jpg" group-title="VOD - WESTERN",Hondo (1953)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hostiles (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FxhTzubzDdFE6ZyzbxgTwIyx7l.jpg" group-title="VOD - WESTERN",Hostiles (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy la ley (1938)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WMxoxWwXeKypqB3im2A6q3xgrD.jpg" group-title="VOD - WESTERN",Yo soy la ley (1938)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El bueno, el feo y el malo (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSWnIXsxA47smMLwRELSWkxbVJ.jpg" group-title="VOD - WESTERN",El bueno, el feo y el malo (1966)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El valle de la venganza (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/koXt9UM6AkK0XPMJrnXrGcdJiA0.jpg" group-title="VOD - WESTERN",El valle de la venganza (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indio Black - Adiós Sabata (1970)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHNrXCZxQByjOhWUsJc6casFzjG.jpg" group-title="VOD - WESTERN",Indio Black - Adiós Sabata (1970)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeepers Creepers 3 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVpJcOQsR2wBCY9xMJXWCURxSMS.jpg" group-title="VOD - WESTERN",Jeepers Creepers 3 (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Jeremiah Johnson (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFiA48c0pqDAv34r9TB4OVGntZz.jpg" group-title="VOD - WESTERN",Las aventuras de Jeremiah Johnson (1972)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jesse James, Jr. (1942)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/64hcwJuJPIM305yrIr7OBUje5ZA.jpg" group-title="VOD - WESTERN",Jesse James, Jr. (1942)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099986.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La balada de Buster Scruggs (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/voxl654m7p36y8FLu8oQD7dfwwK.jpg" group-title="VOD - WESTERN",La balada de Buster Scruggs (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La balada de Lefty Brown (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5IJMOUST8kTysFHaC05vnF5y4I.jpg" group-title="VOD - WESTERN",La balada de Lefty Brown (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lawman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIs4ykDjKD2zpDVO9AIy1FUyCBx.jpg" group-title="VOD - WESTERN",Lawman (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="McQuade, lobo solitario (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHXPDgkBUrT8FKs0VktfNjUo7vY.jpg" group-title="VOD - WESTERN",McQuade, lobo solitario (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los siete magníficos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6fvtfBKs83iVT9EZDcRPWLXCRU.jpg" group-title="VOD - WESTERN",Los siete magníficos (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luz (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14XhPx337J2qoJ7UiiDXVX4Lgph.jpg" group-title="VOD - WESTERN",Luz (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maverick (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/11cvSYvUALq0xHg9PKEtNXUqztS.jpg" group-title="VOD - WESTERN",Maverick (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mis demonios nunca juraron soledad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mWzMRgWNDaEZycAUnYZ8E4YcUY.jpg" group-title="VOD - WESTERN",Mis demonios nunca juraron soledad (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mexicano (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY0Yqsj4TwkjELkIHXJimjdbV8M.jpg" group-title="VOD - WESTERN",El mexicano (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pariente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tU4DcityKcI0NVLIYksgLb919tG.jpg" group-title="VOD - WESTERN",Pariente (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pistolero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iaKPX5RqBN0caYGFPzEkqXAFqLG.jpg" group-title="VOD - WESTERN",Pistolero (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Texas, 1870 (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4012O3AKnxkpirEjOhAdZ1SXmp4.jpg" group-title="VOD - WESTERN",Texas, 1870 (1971)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1099999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de los siete magníficos (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnt41Z5MXQ2PzgzKGpwgKIDQlke.jpg" group-title="VOD - WESTERN",El regreso de los siete magníficos (1966)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oro sangriento (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EZILJc75G61UMq5hpVwRmvRlIU.jpg" group-title="VOD - WESTERN",Oro sangriento (1969)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Santa Clara (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g89BTEUUeijo41M0OLIR753YutM.jpg" group-title="VOD - WESTERN",Santa Clara (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100002.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonora (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5JoieisiLZLm814K81oRK7pNBA.jpg" group-title="VOD - WESTERN",Sonora (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100003.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los comancheros (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnB9mmDipbfExU0cCJljqoQnnrc.jpg" group-title="VOD - WESTERN",Los comancheros (1961)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los cowboys (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPy99rk3Bxz9KcNzEwTz0iGa5Se.jpg" group-title="VOD - WESTERN",Los cowboys (1972)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dalton Gang (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV4dQgMfj47TK1TrUnrOB2XT0dZ.jpg" group-title="VOD - WESTERN",The Dalton Gang (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Dark Tower (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x03f5ZRe563wy43rGGTFoJzEE7c.jpg" group-title="VOD - WESTERN",The Dark Tower (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Duel (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uOnFN1WvhoWk6zdf7sWZmIyjuGl.jpg" group-title="VOD - WESTERN",The Duel (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misión de audaces (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z8vDRoSLzRCiOr34OPHcW3dg4fh.jpg" group-title="VOD - WESTERN",Misión de audaces (1959)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En defensa propia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XuVrzyFGPQw9pWWRocVqOZunY.jpg" group-title="VOD - WESTERN",En defensa propia (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los siete magníficos (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eu7dxZWlufFOkDV99IzS7Xd7tp.jpg" group-title="VOD - WESTERN",Los siete magníficos (1960)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El desafío de los siete magníficos (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nMFS7d8XxaNcoOUML0oAK9tbe8t.jpg" group-title="VOD - WESTERN",El desafío de los siete magníficos (1972)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fuera de la ley (1976)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/whduc0mVvMZLQ0dnxsAHHhZPZwd.jpg" group-title="VOD - WESTERN",El fuera de la ley (1976)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Quick and the Dead (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - WESTERN",The Quick and the Dead (1963)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Revenant (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bECzzYkRFlCZZAjQ9wboMGyWFcL.jpg" group-title="VOD - WESTERN",The Revenant (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Searchers (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Q7GIOvM1q5f6JbP6yLjbToak7M.jpg" group-title="VOD - WESTERN",The Searchers (1964)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ladrones de trenes (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpTsS2eO9XUZBpzdU7Z1mbjNpUH.jpg" group-title="VOD - WESTERN",Ladrones de trenes (1973)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="the wild bunch (1969)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpTsS2eO9XUZBpzdU7Z1mbjNpUH.jpg" group-title="VOD - WESTERN",the wild bunch (1969)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100018.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La verdadera historia de la banda de Kelly (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dumUhmSjAF4tDwejXkr39P1dcT.jpg" group-title="VOD - WESTERN",La verdadera historia de la banda de Kelly (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Valley of Bones (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRaOLJumjzBq6xFNZMVZdnKlI0W.jpg" group-title="VOD - WESTERN",Valley of Bones (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Almas de metal (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSk1lLjY479xtTC9GXCBb5ljZb.jpg" group-title="VOD - WESTERN",Almas de metal (1973)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wild Bill (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g5sQTDwc4BcvRCBAhnujhBPIEO1.jpg" group-title="VOD - WESTERN",Wild Bill (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intrépidos forajidos: Arma Joven II (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfZxNJiNepAV1Cy0P1b3RJohqkf.jpg" group-title="VOD - WESTERN",Intrépidos forajidos: Arma Joven II (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2 Guns (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTQlsFIqcL26eu73gJvau9a00pZ.jpg" group-title="VOD - COMEDIA",2 Guns (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="2 Minutes of Fame (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXzDyNVRMGinYFxblbIlpVY5nE6.jpg" group-title="VOD - COMEDIA",2 Minutes of Fame (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100027.mkv
+#EXTINF:-1 tvg-id="" tvg-name="3 idiotas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZB9NvNLcxdmoiAh58ZfG8vdXjf.jpg" group-title="VOD - COMEDIA",3 idiotas (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100028.mkv
+#EXTINF:-1 tvg-id="" tvg-name="3 Ninjas Contraatacan (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kIVvJJpzc4BNms8wBzB9GPvfdE.jpg" group-title="VOD - COMEDIA",3 Ninjas Contraatacan (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100029.mkv
+#EXTINF:-1 tvg-id="" tvg-name="5 Weddings (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftgiAskwz67dDg9a39204otCK1p.jpg" group-title="VOD - COMEDIA",5 Weddings (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100030.mkv
+#EXTINF:-1 tvg-id="" tvg-name="6 en la sombra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ug4XukdNLwD9Ygyw4V0L5DjoNAp.jpg" group-title="VOD - COMEDIA",6 en la sombra (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100031.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7 horas para enamorarte (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMU3x21O7NZT142Q65JCgSp01NI.jpg" group-title="VOD - COMEDIA",7 horas para enamorarte (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100032.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Milagro en la celda 7 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scxBIHaT1ZiPDPJu3vKd9Yn5gBA.jpg" group-title="VOD - COMEDIA",Milagro en la celda 7 (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100033.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 razones para odiarte (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugSquUOt4U0a6xsgWUiOZcr5plz.jpg" group-title="VOD - COMEDIA",10 razones para odiarte (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100034.mkv
+#EXTINF:-1 tvg-id="" tvg-name="16 deseos (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ej5vw4lbGdG8V5lbkP6mgXA6EcT.jpg" group-title="VOD - COMEDIA",16 deseos (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100035.mkv
+#EXTINF:-1 tvg-id="" tvg-name="17 otra vez (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fTexZp56ANG28Q6t5NFPeyeCsBo.jpg" group-title="VOD - COMEDIA",17 otra vez (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100036.mkv
+#EXTINF:-1 tvg-id="" tvg-name="20 años no importan (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lZiGVzM1j2HdXNjXsGOjy9YIVTW.jpg" group-title="VOD - COMEDIA",20 años no importan (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100037.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mujeres del siglo XX (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5dyHnqVCakXluzw5ZM81QZrNa7.jpg" group-title="VOD - COMEDIA",Mujeres del siglo XX (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche de marcha (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33g7cePX7F2BvvxfjrTwSVCseol.jpg" group-title="VOD - COMEDIA",Noche de marcha (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100039.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrados en clase (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnznvBLkpin6L8D4plfAS8EbJx3.jpg" group-title="VOD - COMEDIA",Infiltrados en clase (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="22 balas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dibfoJ21beM3IF9AR74NP5Wy5D3.jpg" group-title="VOD - COMEDIA",22 balas (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrados en la universidad (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg" group-title="VOD - COMEDIA",Infiltrados en la universidad (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="27 vestidos (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0v9lvloyAtIj2Hf8a6w6JlBxeI.jpg" group-title="VOD - COMEDIA",27 vestidos (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100043.mkv
+#EXTINF:-1 tvg-id="" tvg-name="27: El club de los malditos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AoiISMdxbHIG6jqp3pFNLd4O50M.jpg" group-title="VOD - COMEDIA",27: El club de los malditos (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="30 minutos o menos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkCO4bf8kDxF4wsUOMzhYk3Pgz2.jpg" group-title="VOD - COMEDIA",30 minutos o menos (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="40 días y 40 noches (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24RIC1zqkWn4YB1LagpczSFbKvY.jpg" group-title="VOD - COMEDIA",40 días y 40 noches (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="48 deseos de Navidad (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrcA62O9j8y4gsSpftMKVcvrzCI.jpg" group-title="VOD - COMEDIA",48 deseos de Navidad (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Límite: 48 horas (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QL19nliH4xLxQC55CwRalpnkuA.jpg" group-title="VOD - COMEDIA",Límite: 48 horas (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50 primeras citas (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tTqeVMNlpuukCiSM9n1uI5MK56Y.jpg" group-title="VOD - COMEDIA",50 primeras citas (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100049.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50 a 1 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIbniwxSlHyvGECiBMkTeWI0pib.jpg" group-title="VOD - COMEDIA",50 a 1 (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="68 Kill (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80ifMmWcNMQ8uD4DTyMFEuJbEJG.jpg" group-title="VOD - COMEDIA",68 Kill (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="100 cosas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdETd9rRfFawO6tVy2haKC0nV2m.jpg" group-title="VOD - COMEDIA",100 cosas (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100052.mkv
+#EXTINF:-1 tvg-id="" tvg-name="100 metros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tSFaWi4CGnwBMYD429ocKVeoIM.jpg" group-title="VOD - COMEDIA",100 metros (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="303 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUxVmctU9gZG7YEhUChpBZTYtrV.jpg" group-title="VOD - COMEDIA",303 (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100054.mkv
+#EXTINF:-1 tvg-id="" tvg-name="(500) días juntos (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHzgvcbLQxyym58r5N0VKL6c8RS.jpg" group-title="VOD - COMEDIA",(500) días juntos (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1941 (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/py82INBB23kuulFLvdcu9pAqqCr.jpg" group-title="VOD - COMEDIA",1941 (1941)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100056.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50/50 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZPvALAWTLwKB1RE1CDT3Npa0Am.jpg" group-title="VOD - COMEDIA",50/50 (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100057.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.R.C.H.I.E. 2: Mission Impawsible (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5B3mkYMxEq5PXiZHtAb2Js4NHVb.jpg" group-title="VOD - COMEDIA",A.R.C.H.I.E. 2: Mission Impawsible (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100058.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Consejos de una canguro para cazar monstruos (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJvuUUhHM3FtoXL0qlHPtsfwq8n.jpg" group-title="VOD - COMEDIA",Consejos de una canguro para cazar monstruos (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Bad Idea Gone Wrong (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGA4aQzypmHiAa1xmpCynwWFHcD.jpg" group-title="VOD - COMEDIA",A Bad Idea Gone Wrong (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100060.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran desmadre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cnuqww5UXvvcqGh4NuEWt9g2qJa.jpg" group-title="VOD - COMEDIA",El gran desmadre (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un niño grande (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AQlj4fIeZoDO74xhBKsEVPUa8m.jpg" group-title="VOD - COMEDIA",Un niño grande (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lz5PqgxoBVadfhB8GBxfT35Wbg.jpg" group-title="VOD - COMEDIA",Abracadabra (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Absolutamente todo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dV1aYFiTEnV9Hjco38bKE4ANRTq.jpg" group-title="VOD - COMEDIA",Absolutamente todo (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Absolutamente fabulosas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYyjy9MaHWPoFKPAJHhYhQfmWsz.jpg" group-title="VOD - COMEDIA",Absolutamente fabulosas (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En casa todo está bien (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j92GNi6ooPKEDj44VdrkVM6rV1f.jpg" group-title="VOD - COMEDIA",En casa todo está bien (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Accidentally in Love (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xB5mr7498U3hOJ1WRKcULFwy87w.jpg" group-title="VOD - COMEDIA",Accidentally in Love (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura Jr.: Detective de Mascotas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XPL9tqC0ux7lyLjYZdZ3F3llAX.jpg" group-title="VOD - COMEDIA",Ace Ventura Jr.: Detective de Mascotas (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100068.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ace Ventura: operación África (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/899yWih4ic8AyczedYiX41g7TvQ.jpg" group-title="VOD - COMEDIA",Ace Ventura: operación África (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100069.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cenicienta se enamora (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD4SvhjDKi7ppsceMbxXKgMBtUi.jpg" group-title="VOD - COMEDIA",Cenicienta se enamora (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Action Point (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg" group-title="VOD - COMEDIA",Action Point (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adam Sandler: 100% Fresh (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykIpbOWvqx3Jz6oMFss5ldIVkfU.jpg" group-title="VOD - COMEDIA",Adam Sandler: 100% Fresh (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una pizca de amor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rBuQPAO9RZmtrycr1n7ZI8ObsiH.jpg" group-title="VOD - COMEDIA",Una pizca de amor (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100073.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Addams: La tradición continúa (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZcXBJq9DRxEXHEtgZTiwBERqW4.jpg" group-title="VOD - COMEDIA",La familia Addams: La tradición continúa (1993)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100074.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una boda en diciembre (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSMbRlQkMrHyB71B4gA5oEK5Uh.jpg" group-title="VOD - COMEDIA",Una boda en diciembre (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu mejor amigo: Un nuevo viaje (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cq7oRDzpSSldtyUuhW8aDL53OCV.jpg" group-title="VOD - COMEDIA",Tu mejor amigo: Un nuevo viaje (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu mejor amigo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vz34upg09Hh9p4aV2Uau19g2bv.jpg" group-title="VOD - COMEDIA",Tu mejor amigo (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Síndrome postdivorcio (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iU5DZVXV8br0dnYl0ngu1Ih5WaS.jpg" group-title="VOD - COMEDIA",Síndrome postdivorcio (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adventureland (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8022LbeOnc4mlmtPcWW9rXdlj7.jpg" group-title="VOD - COMEDIA",Adventureland (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adventures in Babysitting (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Adventures in Babysitting (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un pez llamado Wanda (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXcUJZzfM4fl5X1bhywRQcBLoF7.jpg" group-title="VOD - COMEDIA",Un pez llamado Wanda (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100081.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A fondo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riPC6Zk6uvpfbVnExWGLRe754uQ.jpg" group-title="VOD - COMEDIA",A fondo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100082.mkv
+#EXTINF:-1 tvg-id="" tvg-name="After Everything (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5fwosV84f3BOV2h4kqcbpQplFLY.jpg" group-title="VOD - COMEDIA",After Everything (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un gesto estúpido e inútil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVExTwKXN8sbkBRYhaNcCCouuly.jpg" group-title="VOD - COMEDIA",Un gesto estúpido e inútil (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superagente Cody Banks (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4cXY2pPzRTR4e5sknVbVzJisJH.jpg" group-title="VOD - COMEDIA",Superagente Cody Banks (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superagente Cody Banks 2: Destino Londres (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iESxrWZcA43ljcgy6xIf4ckvZ0n.jpg" group-title="VOD - COMEDIA",Superagente Cody Banks 2: Destino Londres (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Age of Summer (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o5jloyTyJMJUSwK4zJYrphTIu1J.jpg" group-title="VOD - COMEDIA",Age of Summer (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100087.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosas de tíos (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpLNAkJqAxzkIChwOJyBLr2MJsB.jpg" group-title="VOD - COMEDIA",Cosas de tíos (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100088.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Happening of Monumental Proportions (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0OfNAgYtogZagFfpKTryDpk05I.jpg" group-title="VOD - COMEDIA",A Happening of Monumental Proportions (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100089.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ahí está el detalle (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WPBWuH2DuXICkmIYhCLN1eaoJ4.jpg" group-title="VOD - COMEDIA",Ahí está el detalle (1940)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100090.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ahí te encargo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v230KtHmd261EA4OSMMSC2TCiA8.jpg" group-title="VOD - COMEDIA",Ahí te encargo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100091.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cascarrabias (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTLMYDgnkvc3258HjJBGLAOF5vl.jpg" group-title="VOD - COMEDIA",Cascarrabias (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esperando al rey (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4yQmPvMtSrQTQlu43LIp8sMVJa.jpg" group-title="VOD - COMEDIA",Esperando al rey (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cabezas Huecas (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Us9yWtxAzl7WrcjXPZ9NrjaM3T.jpg" group-title="VOD - COMEDIA",Cabezas Huecas (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aterriza como puedas 2 (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmIDnlq8Q81OM4egSZ7Dn6Ea3uL.jpg" group-title="VOD - COMEDIA",Aterriza como puedas 2 (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100095.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A la mala (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqnrSonCqTpsCdI9a9I1IS0e3Gp.jpg" group-title="VOD - COMEDIA",A la mala (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100096.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alelí (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gtcPLk0qEGghqIW1g7DJ4Jydf3.jpg" group-title="VOD - COMEDIA",Alelí (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alexander y el día terrible, horrible, espantoso, horroroso (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNWPCQE48Vt2FMb77RMtzoebc66.jpg" group-title="VOD - COMEDIA",Alexander y el día terrible, horrible, espantoso, horroroso (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alex Strangelove (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OemqmvthXswt5KFmtXBCMMloJ4.jpg" group-title="VOD - COMEDIA",Alex Strangelove (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliens Ate My Homework (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5whmTsqUItnPkZDz4NGMLi0Ra8.jpg" group-title="VOD - COMEDIA",Aliens Ate My Homework (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Little Bit of Heaven (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",A Little Bit of Heaven (1940)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nina al desnudo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcOV7ALpm0CiIyeTxP3Ncjrc7HA.jpg" group-title="VOD - COMEDIA",Nina al desnudo (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Mejor Regalo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmRfayq8RxZzvAt5JO2Y77ZQisj.jpg" group-title="VOD - COMEDIA",El Mejor Regalo (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy todas ellas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAzX5TSKREp3Mhq7nqew4DcXjRZ.jpg" group-title="VOD - COMEDIA",Yo soy todas ellas (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100104.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casi Navidad (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oy7Hqtqb56x5zvfUOlaXPFZmvTa.jpg" group-title="VOD - COMEDIA",Casi Navidad (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aloha (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AmTchyxSeCWc24vZAYT37cSL1pa.jpg" group-title="VOD - COMEDIA",Aloha (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Y entonces llegó ella (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PlwxWjrxDauWM8h6XnHfzUvTSZ.jpg" group-title="VOD - COMEDIA",Y entonces llegó ella (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al son que me toquen bailo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAjLMeHzgVMy44XkUCTClzVpFkz.jpg" group-title="VOD - COMEDIA",Al son que me toquen bailo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin and the Chipmunks: Batmunk (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B0OhnECOGO6CMZ30JnAfZVlNFi.jpg" group-title="VOD - COMEDIA",Alvin and the Chipmunks: Batmunk (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100109.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin and the Chipmunks: Batmunk (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8B0OhnECOGO6CMZ30JnAfZVlNFi.jpg" group-title="VOD - COMEDIA",Alvin and the Chipmunks: Batmunk (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100110.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin y las ardillas 3 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lg6mc7D7QFB24rKoyQIeCa6En43.jpg" group-title="VOD - COMEDIA",Alvin y las ardillas 3 (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alvin y las ardillas: Fiesta sobre ruedas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IiWy0nfNSrQGuXDmAKf4eaTmc9.jpg" group-title="VOD - COMEDIA",Alvin y las ardillas: Fiesta sobre ruedas (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100112.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quizás para siempre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fk7AOg1gSt41FUUsW01v28jXhwO.jpg" group-title="VOD - COMEDIA",Quizás para siempre (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100113.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amalia, la secretaria (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4qbrUh7vXBXpgd0jOO46k1WJTy.jpg" group-title="VOD - COMEDIA",Amalia, la secretaria (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100114.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amanda & Jack Go Glamping (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmokEVZDkn9bofvJ0KjANtfZf5E.jpg" group-title="VOD - COMEDIA",Amanda & Jack Go Glamping (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100115.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amateur Night (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Amateur Night (1986)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100116.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amelie (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYvUib00miJWxWkiXhy3QnrCj96.jpg" group-title="VOD - COMEDIA",Amelie (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100117.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vCYQf5zQUFnG2dZptuvZlO0alE.jpg" group-title="VOD - COMEDIA",American Pie 2 (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100118.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Band Camp (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aH2DwyuUi63o65Ciw9sUfmNMFZg.jpg" group-title="VOD - COMEDIA",American Pie presenta: Band Camp (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100119.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Fraternidad Beta (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE99yrphO0UsQRd9bFn8zu4HXuc.jpg" group-title="VOD - COMEDIA",American Pie presenta: Fraternidad Beta (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Las chicas mandan (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UQOaKfjogSrfKFztgNOaDUKKVB.jpg" group-title="VOD - COMEDIA",American Pie presenta: Las chicas mandan (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: El libro del amor (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WDbcnxUdhBNtMv8BzO1agc1ozp.jpg" group-title="VOD - COMEDIA",American Pie presenta: El libro del amor (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie presenta: Una fiesta de pelotas (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18uUWwuAK4B56Cwf1sEY5OzYAUM.jpg" group-title="VOD - COMEDIA",American Pie presenta: Una fiesta de pelotas (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnuUgdlpB6gVEqieR7TrEtYL23T.jpg" group-title="VOD - COMEDIA",American Pie (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie: El reencuentro (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HyHcHP17VU5QCPbiFbZEtMKSis.jpg" group-title="VOD - COMEDIA",American Pie: El reencuentro (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100125.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Ultra (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bi2MCDYvrZQPf1uXyvfVYPE57Mz.jpg" group-title="VOD - COMEDIA",American Ultra (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100126.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Pie ¡Menuda boda! (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mUGNXTC3CelVZMFuV4DTEle2wO2.jpg" group-title="VOD - COMEDIA",American Pie ¡Menuda boda! (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La pareja del año (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pt8HQdE3LnskMip9FKjToqOgEJB.jpg" group-title="VOD - COMEDIA",La pareja del año (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos en apuros (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAgh4PBtTXHSjzd7Axly6Mz6tu9.jpg" group-title="VOD - COMEDIA",Amigos en apuros (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigo Undead (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dRdw20BUiiiOP9pdkkTMYzSWrD.jpg" group-title="VOD - COMEDIA",Amigo Undead (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mil maneras de morder el polvo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm0dutP6EqrVf1w7qZPYKkXpkn5.jpg" group-title="VOD - COMEDIA",Mil maneras de morder el polvo (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100131.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ammore e malavita (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49q4CTKlHX5Y8pzSsr27akt6lhR.jpg" group-title="VOD - COMEDIA",Ammore e malavita (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor de Película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYq7h1HmrbB5gfHKtVs5Rkox2v3.jpg" group-title="VOD - COMEDIA",Amor de Película (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100133.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juliet, desnuda (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8GRMGDB1yvVOMINsyo2WckkQSf.jpg" group-title="VOD - COMEDIA",Juliet, desnuda (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amores modernos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irhfIjrDiEQR8BSqIvFpn6CVkdZ.jpg" group-title="VOD - COMEDIA",Amores modernos (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor sin cita previa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fuThabdFimUj4G9zYib8TAduqzS.jpg" group-title="VOD - COMEDIA",Amor sin cita previa (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor urgente (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWflfNHdaDSijwrKlCYH0aq1FZa.jpg" group-title="VOD - COMEDIA",Amor urgente (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Viajero (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWflfNHdaDSijwrKlCYH0aq1FZa.jpg" group-title="VOD - COMEDIA",Amor Viajero (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una terapia peligrosa (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8H3BLEgmPFsRMHjUaCh3RkvxdlE.jpg" group-title="VOD - COMEDIA",Una terapia peligrosa (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre lobo americano en París (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49qfumITDLKoqfaovwVKujczpFf.jpg" group-title="VOD - COMEDIA",Un hombre lobo americano en París (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El reportero: la leyenda de Ron Burgundy (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zm3PZJgeqUgAt8Y4wZCaHmabZ54.jpg" group-title="VOD - COMEDIA",El reportero: la leyenda de Ron Burgundy (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ejecutivo agresivo (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUukygoCwJTbecqFdYLho7Zyr67.jpg" group-title="VOD - COMEDIA",Ejecutivo agresivo (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Movida en el Roxbury (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",Movida en el Roxbury (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A pesar de todo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",A pesar de todo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100146.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Second Chance: Rivals! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a01ADTGfR6Z8WjTzTohHDtlOBzm.jpg" group-title="VOD - COMEDIA",A Second Chance: Rivals! (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100147.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El pequeño espacio entre el odio y el amor (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",El pequeño espacio entre el odio y el amor (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A ti te quería encontrar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",A ti te quería encontrar (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A volar, joven (1947)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wo9AGi5LlFXZUj8MDPq3eKCUMpd.jpg" group-title="VOD - COMEDIA",A volar, joven (1947)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Crackers (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6h3mttgqxN2RJy3Oakrp7QZhOKX.jpg" group-title="VOD - COMEDIA",Animal Crackers (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animal Crossing: La película (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kEv6gX5a6ciVOqzDsdNBsqTF4qV.jpg" group-title="VOD - COMEDIA",Animal Crossing: La película (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ana y el apocalipsis (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" group-title="VOD - COMEDIA",Ana y el apocalipsis (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annie (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" group-title="VOD - COMEDIA",Annie (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annie Hall (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zsJ5bgIjOBc9YGFE7jVffDom0Z.jpg" group-title="VOD - COMEDIA",Annie Hall (1977)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annie, una aventura real (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXSZSwjHf8NZ0d6pnfS7dVhifVf.jpg" group-title="VOD - COMEDIA",Annie, una aventura real (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anomalisa (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DJ1zNr4Y6q7zQ27goEYla46VdO.jpg" group-title="VOD - COMEDIA",Anomalisa (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antboy 3 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wThFeVFNhZM5sSaPsIxN2hQ1KmP.jpg" group-title="VOD - COMEDIA",Antboy 3 (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwuE28gSXlLFLgueqMe9b7xKy1f.jpg" group-title="VOD - UNIVERSO MARVEL",Ant-Man (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100159.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man y la Avispa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nrbMKgCwOv5REZ7ou1DWXu3bSse.jpg" group-title="VOD - UNIVERSO MARVEL",Ant-Man y la Avispa (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Antz (Hormigaz) (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kFDqymFtThCysdUsCywYD8wj7nf.jpg" group-title="VOD - COMEDIA",Antz (Hormigaz) (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100161.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Archie (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYEEmFFlT5jVbe8xfCP6WVwhKN2.jpg" group-title="VOD - COMEDIA",Archie (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100162.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una casa patas arriba (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5O70oROEGcMa4ZMlThbMz6dtD69.jpg" group-title="VOD - COMEDIA",Una casa patas arriba (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100163.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arizona (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLqutab3wuUfPBu27rXcoaEd6WD.jpg" group-title="VOD - COMEDIA",Arizona (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La armadura de Dios (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNL0PmH0ksITHhUl5A7c5xCY5Tb.jpg" group-title="VOD - COMEDIA",La armadura de Dios (1986)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Army of One (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xxv6yHSNTGaf7aqwF1XdLVNpvpB.jpg" group-title="VOD - COMEDIA",Army of One (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arthur, el soltero de oro (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zXLSJmy3xTonKfqRaUb9KOgGIze.jpg" group-title="VOD - COMEDIA",Arthur, el soltero de oro (1981)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="As Good as It Gets? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdOmn4Z4HQeGPxteWqkwvSYA8ZW.jpg" group-title="VOD - COMEDIA",As Good as It Gets? (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ashby (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bij7LIvlhoLnMDmnsxOFrZ5ta94.jpg" group-title="VOD - COMEDIA",Ashby (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Así es mi tierra (1937)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUDvE0DYZwNs8GYNFj6wnzzdqaY.jpg" group-title="VOD - COMEDIA",Así es mi tierra (1937)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100170.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Así Nomas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h3wtGhM2Q1ybp0bPRPdn4M8Vsju.jpg" group-title="VOD - COMEDIA",Así Nomas (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100171.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Astérix y Obélix contra César (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/16tATLAUhXi0mq7IaqEp2xur5zJ.jpg" group-title="VOD - COMEDIA",Astérix y Obélix contra César (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100172.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Asu Mare! 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pnmyc46DrjSrm7See7WLmfkH1k.jpg" group-title="VOD - COMEDIA",¡Asu Mare! 2 (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100173.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Asu Mare! 3 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6wbref5yctlnTQqfLtquF6fO6f.jpg" group-title="VOD - COMEDIA",¡Asu Mare! 3 (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Asu Mare! (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xMRtfaygHhGfYGEyTBxEVIKiKk.jpg" group-title="VOD - COMEDIA",¡Asu Mare! (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asylum: Twisted Horror & Fantasy Tales (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rxKic2PDrheSXMCG82vm9LAm8e.jpg" group-title="VOD - COMEDIA",Asylum: Twisted Horror & Fantasy Tales (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrako por Joder (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dUZ55yHSLsvSOjc7KI1ndkYfOgL.jpg" group-title="VOD - COMEDIA",Atrako por Joder (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Austin Powers: La espía que me achuchó (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xncRyVPUP5cJWoVKiyqTtKZzwAg.jpg" group-title="VOD - COMEDIA",Austin Powers: La espía que me achuchó (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Austin Powers en Miembro de Oro (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikM7ofMJaQHG4IFuutahPWCMTRm.jpg" group-title="VOD - COMEDIA",Austin Powers en Miembro de Oro (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Austin Powers: Misterioso agente internacional (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6vUjqYh8hDh7pVIcdQySw3SN3SH.jpg" group-title="VOD - COMEDIA",Austin Powers: Misterioso agente internacional (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Ave, César! (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHJqorTolIJ21UGDlwuGJf4TDt5.jpg" group-title="VOD - COMEDIA",¡Ave, César! (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="बाघी (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dN3fwrFaSqg07ACvN6HZZYbwyQr.jpg" group-title="VOD - COMEDIA",बाघी (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100182.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babe (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nYvMnY9TUL9gXGlKCtuE5iOY4tE.jpg" group-title="VOD - COMEDIA",Babe (1975)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babe 2: El cerdito en la ciudad (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAajjfi6QxJubrIVD9lNV6KU3oV.jpg" group-title="VOD - COMEDIA",Babe 2: El cerdito en la ciudad (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby Driver (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eycDWupJWpAF7Pu8TIxNxGrS0Z.jpg" group-title="VOD - COMEDIA",Baby Driver (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby on Board (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnMhbKYEqNSOUOo30bD9M7JnR2e.jpg" group-title="VOD - COMEDIA",Baby on Board (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100186.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Back to School (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaY9HDfCDlb4ecyDBR23bAcOpcd.jpg" group-title="VOD - COMEDIA",Back to School (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100187.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWBGGFdDCVwjnJ3QCghdEfD4A7T.jpg" group-title="VOD - COMEDIA",Bad Boys (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys for Life (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur1wCiFEwZzjehqQM11FFN66rwL.jpg" group-title="VOD - COMEDIA",Bad Boys for Life (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La estafa (Bad Education) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/57H8KjN5qHYJjaq5SaUPsuVypPh.jpg" group-title="VOD - COMEDIA",La estafa (Bad Education) (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Furia y honor (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g05aWJdYKCwTbcLsYzjQvhQDBmm.jpg" group-title="VOD - COMEDIA",Furia y honor (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100191.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Santa 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdCxpHtqu4AICNtm3mEzTGPNWfc.jpg" group-title="VOD - COMEDIA",Bad Santa 2 (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100192.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad Teacher (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FDYf8zZYLJuDftdYalqVVSWHEi.jpg" group-title="VOD - COMEDIA",Bad Teacher (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juegos de palabras (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZOz1GTFsrfGZNziZHupOvqUdub.jpg" group-title="VOD - COMEDIA",Juegos de palabras (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ligera de equipaje (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56nXpFoibuO4uUvTMCaUR7Qra2K.jpg" group-title="VOD - COMEDIA",Ligera de equipaje (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Looney Cuento de Navidad (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD8JGIqxqoD9BxifuqnjbdQKnb.jpg" group-title="VOD - COMEDIA",El Looney Cuento de Navidad (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100196.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Balada triste de trompeta (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAQBUmTGOV5ejzkm5FZmMXKaWYf.jpg" group-title="VOD - COMEDIA",Balada triste de trompeta (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bolas Afuera (Balls Out) (Intramural) (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wpDiTuH242HdUUPp8U8OYiXFJk.jpg" group-title="VOD - COMEDIA",Bolas Afuera (Balls Out) (Intramural) (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bananas (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLt9ByexJF77faffBQqSUsV32An.jpg" group-title="VOD - COMEDIA",Bananas (1971)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Banana Split (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waWlvMTYLLiOC7jGkUDXDWq0nXv.jpg" group-title="VOD - COMEDIA",Banana Split (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Band Aid (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDYKhDkmvvPnYESr1yNG3K5oMZT.jpg" group-title="VOD - COMEDIA",Band Aid (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Banjo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWJLsCVU7MckdprbbQi8g02wRYr.jpg" group-title="VOD - COMEDIA",Banjo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bareilly Ki Barfi (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gGkq074z56JfXRBIQv5M043em2.jpg" group-title="VOD - COMEDIA",Bareilly Ki Barfi (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Barely Lethal (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8emz9dKW8KKIqG8WcFG1lJbr2ub.jpg" group-title="VOD - COMEDIA",Barely Lethal (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Battle of the Sexes (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RGpKZwf8BKjQ9FGWDAh5UqXP11.jpg" group-title="VOD - COMEDIA",The Battle of the Sexes (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch: Los vigilantes de la playa (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aPifsnK3ui76Cq7xMDe1AVlrA0k.jpg" group-title="VOD - COMEDIA",Baywatch: Los vigilantes de la playa (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bean, lo último en cine catastrófico (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xZY8uPJPtAGGuHKCzIQv5j90jC.jpg" group-title="VOD - COMEDIA",Bean, lo último en cine catastrófico (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beatriz at Dinner (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obOhjpLQ720cdJMdhprOLBMrJI1.jpg" group-title="VOD - COMEDIA",Beatriz at Dinner (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al diablo con el diablo (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY48qalNal5ZLxNVugll11bCAQl.jpg" group-title="VOD - COMEDIA",Al diablo con el diablo (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al diablo con el diablo (Mi amigo el diablo) (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x69qVj5Vi9SZbJBXHav2TBa7mGF.jpg" group-title="VOD - COMEDIA",Al diablo con el diablo (Mi amigo el diablo) (1967)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bedtime Stories (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Bedtime Stories (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beethoven: Uno más de la familia (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7GdQs5bc8feiPhgLZYOZ8fs8gsu.jpg" group-title="VOD - COMEDIA",Beethoven: Uno más de la familia (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bitelchús (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ap36MvDZbfX0vzPsNeYqYv29rrK.jpg" group-title="VOD - COMEDIA",Bitelchús (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Behaving Badly (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/quyjTvHPI4I05KX2iFmCX1Pih9c.jpg" group-title="VOD - COMEDIA",Behaving Badly (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo ser John Malkovich (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1seCNXVXigPVZV6q9v4WhuIWBdP.jpg" group-title="VOD - COMEDIA",Cómo ser John Malkovich (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Making of 'Be Kind Rewind' (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1seCNXVXigPVZV6q9v4WhuIWBdP.jpg" group-title="VOD - COMEDIA",The Making of 'Be Kind Rewind' (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bellezonismo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBgsoKRBq53dF4udLP1kzFYQUoZ.jpg" group-title="VOD - COMEDIA",Bellezonismo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Benchwarmers 2: Breaking Balls (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4TxdsFc149fntpR1ia8Ri8JQieb.jpg" group-title="VOD - COMEDIA",Benchwarmers 2: Breaking Balls (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bendita rebeldía (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzXMQ5M5ZcSpemqtmhAqci2w4te.jpg" group-title="VOD - COMEDIA",Bendita rebeldía (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quiero ser como Beckham (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fjTH8W40bR6GqdYM1fbXmO4e9k.jpg" group-title="VOD - COMEDIA",Quiero ser como Beckham (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Benji (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvmhEcqzN2bUZvEmEIh9SjhTkr6.jpg" group-title="VOD - COMEDIA",Benji (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Berlin, Berlin: la novia se fuga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7dbF4YXX5fMbxisAbQpwwknwa.jpg" group-title="VOD - COMEDIA",Berlin, Berlin: la novia se fuga (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Best Friends (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVdHPyF548pjl7EdMYE00K7ts3T.jpg" group-title="VOD - COMEDIA",Best Friends (1975)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre dos helechos: La película (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1LfFBxJznVKCloOol3N4iJMeKx.jpg" group-title="VOD - COMEDIA",Entre dos helechos: La película (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un chihuahua en Beverly Hills 2 (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8hN9OHkqqf0O2Adt2mju9Cll44.jpg" group-title="VOD - COMEDIA",Un chihuahua en Beverly Hills 2 (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superdetective en Hollywood (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8RtQuLStydGdJmHR4p8jNVssbv.jpg" group-title="VOD - COMEDIA",Superdetective en Hollywood (1984)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superdetective en Hollywood III (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szhFPC5FXN6YHGMqWuqaGR7EKk8.jpg" group-title="VOD - COMEDIA",Superdetective en Hollywood III (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superdetective en Hollywood II (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19fU9cD8nBp3riUgKZi6nLSMO88.jpg" group-title="VOD - COMEDIA",Superdetective en Hollywood II (1987)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bibi & Tina: Tohuwabohu total (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iZ9l7Z1xnPGKgFvZ3XM56Pp0HB.jpg" group-title="VOD - COMEDIA",Bibi & Tina: Tohuwabohu total (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQXlNnc6Ztyb6ocsXSiA0zDVD7s.jpg" group-title="VOD - COMEDIA",Big (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gordo mentiroso 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/agTN5Fo3P16ECRqG9OGkHKgUgBg.jpg" group-title="VOD - COMEDIA",Gordo mentiroso 2 (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Game (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPytx8xclrZckzHVUtuFHO8iSOA.jpg" group-title="VOD - COMEDIA",Big Game (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big Shot (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNUFt1aZLjhWb6YKo30iIKqA8Ve.jpg" group-title="VOD - COMEDIA",The Big Shot (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esta abuela es un peligro 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oipfIAfuGHL7Sv6yKSKJYo6qMvg.jpg" group-title="VOD - COMEDIA",Esta abuela es un peligro 2 (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esta abuela es mi padre (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFsUnWyqDGVyE5sY0zeIie5eB7R.jpg" group-title="VOD - COMEDIA",Esta abuela es mi padre (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esta abuela es un peligro (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svzVjVV8QUpfYItr3PH5bMzRPer.jpg" group-title="VOD - COMEDIA",Esta abuela es un peligro (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran Stan: El matón de la prisión (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAq6TJYIsi62xf5v2nGDAQwh0wY.jpg" group-title="VOD - COMEDIA",El gran Stan: El matón de la prisión (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Big Time Adolescence (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFjhHlHjiWouLmJWxGMHGn1MQKX.jpg" group-title="VOD - COMEDIA",Big Time Adolescence (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo Misterio en el circo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l6Cm4sBm1gzA94HuULtJFaFnSd.jpg" group-title="VOD - COMEDIA",Scooby-Doo Misterio en el circo (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bill y Ted salvan el universo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wg7zMOc3DtTJyEazjHCojIBKSrD.jpg" group-title="VOD - COMEDIA",Bill y Ted salvan el universo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El alucinante viaje de Bill y Ted (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovspKcx8UmWaurGYo0SaeUH999Q.jpg" group-title="VOD - COMEDIA",El alucinante viaje de Bill y Ted (1991)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las alucinantes aventuras de Bill y Ted (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w41jlAt7nXhOJPzXeJa24cdSetB.jpg" group-title="VOD - COMEDIA",Las alucinantes aventuras de Bill y Ted (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Billy Madison (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XV42Zu9taxluIKXMeV9OSpYCSq.jpg" group-title="VOD - COMEDIA",Billy Madison (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bingo: O Rei das Manhãs (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1XV42Zu9taxluIKXMeV9OSpYCSq.jpg" group-title="VOD - COMEDIA",Bingo: O Rei das Manhãs (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos pájaros a tiro (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnbSMZzdNIfPwX3dgyVGXnmSIUI.jpg" group-title="VOD - COMEDIA",Dos pájaros a tiro (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bitch (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnbSMZzdNIfPwX3dgyVGXnmSIUI.jpg" group-title="VOD - COMEDIA",Bitch (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El caballero negro (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMLWo2wPBt7SVR6Jz9dr8Sv9ekY.jpg" group-title="VOD - COMEDIA",El caballero negro (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Sheep (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMLWo2wPBt7SVR6Jz9dr8Sv9ekY.jpg" group-title="VOD - COMEDIA",Black Sheep (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Patinazo a la gloria (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pIxa7pfrdG6vz9AnTFATkIX9il.jpg" group-title="VOD - COMEDIA",Patinazo a la gloria (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cheque en blanco (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkkMdHvrAxqGK9qtPg5Acc8mY3B.jpg" group-title="VOD - COMEDIA",Cheque en blanco (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Accept: Metal Blast from the Past (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKI4Cwwzto79tLMtQ7BZIKP9shD.jpg" group-title="VOD - COMEDIA",Accept: Metal Blast from the Past (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sillas de montar calientes (1974)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp5akCwgXvIcGihHzOx30RLMoQ5.jpg" group-title="VOD - COMEDIA",Sillas de montar calientes (1974)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juntos y revueltos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVLm7uud6Oh1wmhiR4vOrngQKo8.jpg" group-title="VOD - COMEDIA",Juntos y revueltos (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blinded by the Light (Cegado por la luz) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBW8D0w6c3FUnJmZt1SvYI21Mhn.jpg" group-title="VOD - COMEDIA",Blinded by the Light (Cegado por la luz) (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blindspotting (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nBW8D0w6c3FUnJmZt1SvYI21Mhn.jpg" group-title="VOD - COMEDIA",Blindspotting (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brain Blockers (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaBiJ7UQoEkPI8QielUEBdqrUP9.jpg" group-title="VOD - COMEDIA",Brain Blockers (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blonde Ambition (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaBiJ7UQoEkPI8QielUEBdqrUP9.jpg" group-title="VOD - COMEDIA",Blonde Ambition (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Derribad al hombre (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIdKweqAhVsx2SRbrIExoBpbeck.jpg" group-title="VOD - COMEDIA",Derribad al hombre (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Iguana (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIdKweqAhVsx2SRbrIExoBpbeck.jpg" group-title="VOD - COMEDIA",Blue Iguana (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Mountain State: The Rise of Thadland (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZz8AmDvFqUY4tBcD69ou3OfiWx.jpg" group-title="VOD - COMEDIA",Blue Mountain State: The Rise of Thadland (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Streak (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Blue Streak (1971)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob the Builder: Mega Machines - The Movie (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5gi2BzunveBprK7A8U0sJUovhuN.jpg" group-title="VOD - COMEDIA",Bob the Builder: Mega Machines - The Movie (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boo! El Halloween de Madea (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82TLEZv1rOJNgllfYD22NkivGDH.jpg" group-title="VOD - COMEDIA",Boo! El Halloween de Madea (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Book Club (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVDNiewT3iB28AMxKDn1R034akk.jpg" group-title="VOD - COMEDIA",Book Club (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Súper empollonas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOTCGleMERuAUhNAq2MIYybrgnC.jpg" group-title="VOD - COMEDIA",Súper empollonas (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Borat, película film secuela (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0TRERSqgiPujFJqKaz9cskmqcx.jpg" group-title="VOD - COMEDIA",Borat, película film secuela (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Børning: Más rápido, más peligroso (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkR15HZB5C5pZuMmyhusQVGSmjy.jpg" group-title="VOD - COMEDIA",Børning: Más rápido, más peligroso (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boys and Girls (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vFW7GuhUtNhUhqcvSnkL1x7DqV.jpg" group-title="VOD - COMEDIA",Boys and Girls (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get Duked! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b52nqFj5XrBNA7MhqcnENvFsHtx.jpg" group-title="VOD - COMEDIA",Get Duked! (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Break (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwK4PMUppMKlm2CwspO8EKuhj7y.jpg" group-title="VOD - COMEDIA",Break (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A pedazos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNUPKCP7FN5apCbR7gn7aDlFtUM.jpg" group-title="VOD - COMEDIA",A pedazos (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breakfast at Tiffany's: The Making of a Classic (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNUPKCP7FN5apCbR7gn7aDlFtUM.jpg" group-title="VOD - COMEDIA",Breakfast at Tiffany's: The Making of a Classic (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guerra de novias (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2itzzviUObW3YkEN3WDBdV8q2ql.jpg" group-title="VOD - COMEDIA",Guerra de novias (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bridget Jones' Baby (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77XNNSI3MCoi3mMPgGmemAt5ulN.jpg" group-title="VOD - COMEDIA",Bridget Jones' Baby (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brigsby Bear (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QepAxHR9am4nKWZqIDpIQjuB5.jpg" group-title="VOD - COMEDIA",Brigsby Bear (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bring It On: Worldwide #Cheersmack (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNZnw3TXNFWv7KVhZIDOszZnUH9.jpg" group-title="VOD - COMEDIA",Bring It On: Worldwide #Cheersmack (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brittany Runs a Marathon (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9HwdRkw0w7wD8IykDgDAA1C05oe.jpg" group-title="VOD - COMEDIA",Brittany Runs a Marathon (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hermanos Políticos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEaUqbtlOvg0bfnPaPh1Bd0MoAu.jpg" group-title="VOD - COMEDIA",Hermanos Políticos (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como Dios (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vD0EfyAo5pz4kVqa8KHCfB9dZzC.jpg" group-title="VOD - COMEDIA",Como Dios (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bruno y Botas: Salto a la piscina (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDsvhWjw5QE06HijTumwXcALffd.jpg" group-title="VOD - COMEDIA",Bruno y Botas: Salto a la piscina (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bruno Motoneta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZpLOuW70XxMsXw0JETgwCdUjm5.jpg" group-title="VOD - COMEDIA",Bruno Motoneta (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Budapest (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lDG1Clxtxl2smirw9BRsddhQQP.jpg" group-title="VOD - COMEDIA",Budapest (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juegos de colegas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNCZh6YGg6r0GMyrctI14R0lHGL.jpg" group-title="VOD - COMEDIA",Juegos de colegas (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo escapar de Búfalo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWSWYYbJfCGjvIgO0nMTAjFk6Sk.jpg" group-title="VOD - COMEDIA",Cómo escapar de Búfalo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los 1001 cuentos de Bugs Bunny (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjQu1kbZHUWcPrK79lYQC7Men2N.jpg" group-title="VOD - COMEDIA",Los 1001 cuentos de Bugs Bunny (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bulletproof (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWF0T4mZCC848ZbI3MfyH2pwCJs.jpg" group-title="VOD - COMEDIA",Bulletproof (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buscando a Marcos Ramírez (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTVfvmNbm4kEkFIFCzv7LonHu4c.jpg" group-title="VOD - COMEDIA",Buscando a Marcos Ramírez (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busco novio para mi mujer (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydKCZGkg3wce5en3dc2R9aWI6nn.jpg" group-title="VOD - COMEDIA",Busco novio para mi mujer (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Café Society (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49GicflDvkHAIthE4DJKcKXBWam.jpg" group-title="VOD - COMEDIA",Café Society (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caída del cielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK4VyBlqQCKX0gAxgvaw0pv9kJn.jpg" group-title="VOD - COMEDIA",Caída del cielo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Calzones rotos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9uADl5l3GhdP5jDmOtvu6XngIe.jpg" group-title="VOD - COMEDIA",Calzones rotos (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camino a Marte (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvSLqu2RmdjgWVZmz1QBD2bWXhg.jpg" group-title="VOD - COMEDIA",Camino a Marte (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Campeones (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXLKmT6mtizYvweAgPXVHs0ApvR.jpg" group-title="VOD - COMEDIA",Campeones (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camp Rock 2: The Final Jam (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAlW1IxOPD2uLliqNIlq3x3ajV4.jpg" group-title="VOD - COMEDIA",Camp Rock 2: The Final Jam (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Canasta Uruguaya (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJNmV6Xcuo3QA51s5VzF6AlWmxD.jpg" group-title="VOD - COMEDIA",Canasta Uruguaya (1951)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Candy Jar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9PG1LG0zLnl6QQxw4WoRJEroXF.jpg" group-title="VOD - COMEDIA",Candy Jar (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No te lo vas a creer (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QtCOlHESPEYtFANmd4yLqsYKZ4.jpg" group-title="VOD - COMEDIA",No te lo vas a creer (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cansada de besar sapos (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ao5ZnjodOiBcYicex6cw2b3vxLg.jpg" group-title="VOD - COMEDIA",Cansada de besar sapos (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cantantes en guerra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHUW1tUUy5QRbko8Btm14uboGFO.jpg" group-title="VOD - COMEDIA",Cantantes en guerra (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Captain Fantastic (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kZHOnykzKPuEVldrzZKqvsNG7sL.jpg" group-title="VOD - COMEDIA",Captain Fantastic (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carter & June (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSpuv5CLGG2WgQo38nzDpxFuKUG.jpg" group-title="VOD - COMEDIA",Carter & June (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi gran boda griega (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSH8ZNE8sMbvJwetK5DC87bhqd2.jpg" group-title="VOD - COMEDIA",Mi gran boda griega (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cásese quien pueda (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQWtOngnl0w5KGsVCkhUlIcoF82.jpg" group-title="VOD - COMEDIA",Cásese quien pueda (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casi fiel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3seEJqWPOpRUOG9dPRA4LEVr4gD.jpg" group-title="VOD - COMEDIA",Casi fiel (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casi leyendas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySp07i0wzkCfRUFnr6jGUYTPutS.jpg" group-title="VOD - COMEDIA",Casi leyendas (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aprendiz de gigoló (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQU2odR5FEhRkR6dnyv0MzuXVqM.jpg" group-title="VOD - COMEDIA",Aprendiz de gigoló (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Casper (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ah8fNJFZVU3vcXhU5xfAYi2eym.jpg" group-title="VOD - COMEDIA",Casper (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrápame si puedes (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxX5KGDO4lf2yyBJn2IxBx3F4cO.jpg" group-title="VOD - COMEDIA",Atrápame si puedes (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Catfight (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3kLVDNJlU6IIMmtMmFjtSBat7y.jpg" group-title="VOD - COMEDIA",Catfight (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos: La patrulla unida (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5I9ZSO42I9Rl3aXh7nMaTLWiUaz.jpg" group-title="VOD - COMEDIA",Como perros y gatos: La patrulla unida (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como perros y gatos: La venganza de Kitty Galore (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBpVURWeSkkI7zTAJGLhMElRvF7.jpg" group-title="VOD - COMEDIA",Como perros y gatos: La venganza de Kitty Galore (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nuestra vida en la Borgoña (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gI6WjLHr41K59wPTbZjXSS7Rkr6.jpg" group-title="VOD - COMEDIA",Nuestra vida en la Borgoña (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Herencia navideña (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvJMNDSizLT7cEyeJmnzKvMCRvJ.jpg" group-title="VOD - COMEDIA",Herencia navideña (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Christopher Robin (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yFTnOaszS1xnnnx2jOTPwIsQIqk.jpg" group-title="VOD - COMEDIA",Christopher Robin (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mujer explosiva (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Mv2FE516JfpLwy8teQOKi1MESS.jpg" group-title="VOD - COMEDIA",La mujer explosiva (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="50 sombras muy oscuras (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXxEz9GNVzbSUFvO5cEbpVsJbpw.jpg" group-title="VOD - COMEDIA",50 sombras muy oscuras (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cinderelo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arQ836mAto1bhN47piUWHdRVmbw.jpg" group-title="VOD - COMEDIA",Cinderelo (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cindy la regia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uxcuX1Rx0wQQDSozriasW3M61vI.jpg" group-title="VOD - COMEDIA",Cindy la regia (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CineBasura: la peli (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7wiUBOYg4VmJAYtU3p54UwlAFz.jpg" group-title="VOD - COMEDIA",CineBasura: la peli (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudad muy caliente (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bTLxnQRwcXgdH91DgWHjamUKvIb.jpg" group-title="VOD - COMEDIA",Ciudad muy caliente (1984)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luces de la ciudad (1931)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxW2UZapaGSlycekS8ON5yQeldZ.jpg" group-title="VOD - COMEDIA",Luces de la ciudad (1931)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ciudades de papel (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kala11GwSTYQ2yL7rIxVrdsayRa.jpg" group-title="VOD - COMEDIA",Ciudades de papel (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clara's Ghost (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxzYb31A8Q5pGdJCCYJiqx9GmDo.jpg" group-title="VOD - COMEDIA",Clara's Ghost (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Claudia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmoUclDEnDkbgorX9LzLL6c6EFk.jpg" group-title="VOD - COMEDIA",Claudia (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clear history (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eezkRS0yGZuw1yZrNSZDpHWvccm.jpg" group-title="VOD - COMEDIA",Clear history (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Click (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l06jMu0V4cp1DuQdI9ptSJjV01q.jpg" group-title="VOD - COMEDIA",Click (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coche policial (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vctchuhLkObVFZJVmpPrCtBhEjQ.jpg" group-title="VOD - COMEDIA",Coche policial (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cocoon (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/osyR4zl0hBivH7leFTy11vFGjhX.jpg" group-title="VOD - COMEDIA",Cocoon (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cocoon: El retorno (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRbsVnyVKWmbeG4m20I1Fr44g5C.jpg" group-title="VOD - COMEDIA",Cocoon: El retorno (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código negro (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbT6u0CN8oh08x4vf7roQun0qMG.jpg" group-title="VOD - COMEDIA",Código negro (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dios los cría y ellos... (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9jU0sGmwssDeBuk9A4EZUQ6AHV.jpg" group-title="VOD - COMEDIA",Dios los cría y ellos... (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coffee & Kareem (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" group-title="VOD - COMEDIA",Coffee & Kareem (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colao (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3q4BQrQcuT8UvKfeVSK5IyTav8.jpg" group-title="VOD - COMEDIA",Colao (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza bajo cero (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tfZClfVlLJI6RWjKlMBiuvosYEy.jpg" group-title="VOD - COMEDIA",Venganza bajo cero (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colossal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklJUOhmGZ43yXY1LpA2mxzVPpc.jpg" group-title="VOD - COMEDIA",Colossal (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cometa: Él, su perro y su mundo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYLvVI4zkMkV3Vlvrq4LqdgxZFW.jpg" group-title="VOD - COMEDIA",Cometa: Él, su perro y su mundo (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Cómo andamos por casa? (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAZztdJ8JfyNJY7i0sNGgSX1f0P.jpg" group-title="VOD - COMEDIA",¿Cómo andamos por casa? (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como caído del cielo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg" group-title="VOD - COMEDIA",Como caído del cielo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo cortar a tu patán (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arpcxmLCXyYQWfb1MuMDfl2Dhuo.jpg" group-title="VOD - COMEDIA",Cómo cortar a tu patán (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como é Cruel Viver Assim (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9U14Dip0WmvEUMrU8cCcqipoHZF.jpg" group-title="VOD - COMEDIA",Como é Cruel Viver Assim (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despedida de soltera (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6A4yGd6j9tdSS9IJYYOnP7MkNvQ.jpg" group-title="VOD - COMEDIA",Despedida de soltera (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Cómo matar a un esposo muerto? (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZQbSUZTSL8jO8DN12XI2uhjAAV.jpg" group-title="VOD - COMEDIA",¿Cómo matar a un esposo muerto? (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como novio de pueblo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzfEOHREJ6k63CJe6vypvgC0fzB.jpg" group-title="VOD - COMEDIA",Como novio de pueblo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como si fuera la primera vez (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2KxzTS4eUS01tK3IjZWNie62jq.jpg" group-title="VOD - COMEDIA",Como si fuera la primera vez (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Compadres (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fs166jcsSkRhOvblIEPnFs04aXS.jpg" group-title="VOD - COMEDIA",Compadres (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómplices (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CHg7tCS8oPdKszDUWw5RnDLKrC.jpg" group-title="VOD - COMEDIA",Cómplices (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Condorito: la película (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7yTRWLgJdvOFQPhwSJF1s4BwbQ.jpg" group-title="VOD - COMEDIA",Condorito: la película (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confesiones de una mente peligrosa (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYw84Loq93ocFxSy7UU5WQbTGsr.jpg" group-title="VOD - COMEDIA",Confesiones de una mente peligrosa (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confesiones de una compradora compulsiva (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzGlXNrecqcLnYhKRlzU7lk97vA.jpg" group-title="VOD - COMEDIA",Confesiones de una compradora compulsiva (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Conoces a Tomás? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OfdMLI6eQvwGuuc3lBJo5a2nTV.jpg" group-title="VOD - COMEDIA",¿Conoces a Tomás? (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adivina quién (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFOqwa0gXtiTSNcJGnuJ53t8v3H.jpg" group-title="VOD - COMEDIA",Adivina quién (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cook-Off! (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZW0qabQHbSo89Qm5fNusCLqL2W.jpg" group-title="VOD - COMEDIA",Cook-Off! (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cool Runnings: The Reggae Movie (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZW0qabQHbSo89Qm5fNusCLqL2W.jpg" group-title="VOD - COMEDIA",Cool Runnings: The Reggae Movie (1986)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cool World (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9P7JNaj6G099iRcdf5blx7ItlT.jpg" group-title="VOD - COMEDIA",The Cool World (1963)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cooties (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gv18iqlKrDLSfYqYC8zFjeBL0Q.jpg" group-title="VOD - COMEDIA",Cooties (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazón loco (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg" group-title="VOD - COMEDIA",Corazón loco (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ejecutivos agresivos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbybvPuDm7WcqhhNV1ALivoRqwS.jpg" group-title="VOD - COMEDIA",Ejecutivos agresivos (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosas de hombres (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPxV7aZzYjU2HhXkuJzBgOEnfpR.jpg" group-title="VOD - COMEDIA",Cosas de hombres (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crazy, Stupid, Love (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBFzkVslmiHVuwwjJ8cl9JZGrmg.jpg" group-title="VOD - COMEDIA",Crazy, Stupid, Love (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creep (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35HrfAuVmpFibPeeRzlRUXHOaJ1.jpg" group-title="VOD - COMEDIA",Creep (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delitos y faltas (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptBljoTY9KrAIOZcULsIs2J3fGc.jpg" group-title="VOD - COMEDIA",Delitos y faltas (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crown for Christmas (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2i3TDhOpG3z9RQiWI3R1fyDs1q.jpg" group-title="VOD - COMEDIA",Crown for Christmas (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crowning Jules (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK9c54AuRJwQ1NxjX1h7ZUNKg8R.jpg" group-title="VOD - COMEDIA",Crowning Jules (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuando los hijos regresan (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A32jM9IB3UFDQuAk2nbHnqxsZue.jpg" group-title="VOD - COMEDIA",Cuando los hijos regresan (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro bodas y un funeral (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpPe7zVnNuqfzDy3bzXnWnJWA83.jpg" group-title="VOD - COMEDIA",Cuatro bodas y un funeral (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Four Rooms (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/owych7bZ6AaaebBc6hFn9VYiGog.jpg" group-title="VOD - COMEDIA",Four Rooms (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una cuestión de tiempo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8k9KMzZGYgg2f5i8pKj23VMNPZ.jpg" group-title="VOD - COMEDIA",Una cuestión de tiempo (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cupid's Proxy (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajDsbrY0hJv9NdupoBwvcbWfjq7.jpg" group-title="VOD - COMEDIA",Cupid's Proxy (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cyrus (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v13d1KKluNa4xIKn0YrFfRqIhr7.jpg" group-title="VOD - COMEDIA",Cyrus (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vuelven los mejores (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w9YOPeoQ4mT1DpuyYWhUSEDY3O7.jpg" group-title="VOD - COMEDIA",Vuelven los mejores (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de los mejores (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wltMr1loUKSCaEV4EDgh21eCRI3.jpg" group-title="VOD - COMEDIA",El regreso de los mejores (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daddy Cool (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqLgwRoIBgQrb80tRzd7IOh4Neh.jpg" group-title="VOD - COMEDIA",Daddy Cool (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grand-Daddy Day Care (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmHY1i7aZFCofqGKSLrUDS4TU5c.jpg" group-title="VOD - COMEDIA",Grand-Daddy Day Care (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daddy's Home (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m85xIFmmCKUKcpQnWhcLihWqnev.jpg" group-title="VOD - COMEDIA",Daddy's Home (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daddy's Home (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m85xIFmmCKUKcpQnWhcLihWqnev.jpg" group-title="VOD - COMEDIA",Daddy's Home (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dad's Army: El pelotón rechazado (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAfPUF8TvSVm27CXmVpGjIba5iO.jpg" group-title="VOD - COMEDIA",Dad's Army: El pelotón rechazado (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El pato Lucas en la isla fantástica (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VG5EwIFjYTybYII3fMilhGitUs.jpg" group-title="VOD - COMEDIA",El pato Lucas en la isla fantástica (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Damsel (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zr5K4sGtdYcBk6MNA2268NpqCs.jpg" group-title="VOD - COMEDIA",Damsel (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Damiselas en apuros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbCLG2kgr9k7MdrBr54JGDPBMuR.jpg" group-title="VOD - COMEDIA",Damiselas en apuros (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daniel Sosa: Maleducado (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/21utT8MgNgXVHcjktlfWWBhW85X.jpg" group-title="VOD - COMEDIA",Daniel Sosa: Maleducado (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como la vida misma (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qzAwS3p3Y43GTw3Bw5FH4OXZQk.jpg" group-title="VOD - COMEDIA",Como la vida misma (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nunca es tarde (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyOom18HaNzvfexThfI6CMj1leN.jpg" group-title="VOD - COMEDIA",Nunca es tarde (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daphne & Velma (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGykHr7DXKasZ75X5bu8DCeIsnU.jpg" group-title="VOD - COMEDIA",Daphne & Velma (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darrow & Darrow (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDqblF7BvThoOGwaMnxnUTjFfr2.jpg" group-title="VOD - COMEDIA",Darrow & Darrow (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi mejor amigo gay (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ieLOyHzoJKyflqGdfj82S1MMm5A.jpg" group-title="VOD - COMEDIA",Mi mejor amigo gay (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Ant (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2NoqvEpApbcnSWFpbHAswOYufSQ.jpg" group-title="VOD - COMEDIA",Dead Ant (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcZT1Ouq99dY6J2iGXjMxw16x6o.jpg" group-title="VOD - COMEDIA",Deadpool (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 - The Super Duper Cut (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QYjjpcVLDEcbTkM1lFsllcU3La.jpg" group-title="VOD - COMEDIA",Deadpool 2 - The Super Duper Cut (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jx3URmImNMCZuXcfdLM7S5Pivzy.jpg" group-title="VOD - COMEDIA",Deadpool 2 (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DeadTectives (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DTcWoo8wWl2f2YPp21hfGAAD7O.jpg" group-title="VOD - COMEDIA",DeadTectives (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor y otras drogas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzXczujSYdsddv9FZBmVhPUN65z.jpg" group-title="VOD - COMEDIA",Amor y otras drogas (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dean (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cEQV6zMkk7Wfe8NKeuyYLD34b2.jpg" group-title="VOD - COMEDIA",Dean (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear Eleanor (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMG1e83PHqtjQLgXZhy2IMn3eX0.jpg" group-title="VOD - COMEDIA",Dear Eleanor (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Querida gente blanca (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jH3851P2DjjnBsrjphbR1CWRzm6.jpg" group-title="VOD - COMEDIA",Querida gente blanca (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La muerte os sienta tan bien (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cat0ytQRnwNuK0pBTY3AOhLYfzb.jpg" group-title="VOD - COMEDIA",La muerte os sienta tan bien (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death Race 2050 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEieVCgbVCs3ww6AAvbyLrqoMiz.jpg" group-title="VOD - COMEDIA",Death Race 2050 (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un vecino con pocas luces (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icToXS9r12hEXERVBYHBR0kKCeO.jpg" group-title="VOD - COMEDIA",Un vecino con pocas luces (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dedicada a mi ex (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/riAooJrFvVhotyaOgoI0WR7okSe.jpg" group-title="VOD - COMEDIA",Dedicada a mi ex (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Definitivamente, quizás (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1gHgF4PJeCObC4gXB5JVvr9GF6.jpg" group-title="VOD - COMEDIA",Definitivamente, quizás (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deidra y Laney asaltan un tren (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c3F4vxkbUBXqS8DxEfTn6lrUBNF.jpg" group-title="VOD - COMEDIA",Deidra y Laney asaltan un tren (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delincuente (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4u7BgoLZQBFdfibEL0x1xoVCru.jpg" group-title="VOD - COMEDIA",Delincuente (1984)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mañana empieza todo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kdTXiFswJJZl4JFvIQi6DMdiqr.jpg" group-title="VOD - COMEDIA",Mañana empieza todo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daniel el travieso (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qOrWcrLtyGiATTWEv6yYRYlIW1.jpg" group-title="VOD - COMEDIA",Daniel el travieso (1993)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Daniel el travieso ataca de nuevo (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c6fxRpHNdSA3yv8prMo1sNzOcgF.jpg" group-title="VOD - COMEDIA",Daniel el travieso ataca de nuevo (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De patitas a la calle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Jq7Ra5DBueK98zPf1fMmqdbITc.jpg" group-title="VOD - COMEDIA",De patitas a la calle (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coco, el pequeño dragón. Aventuras en la Jungla (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYLiyeoRBwNosk0NNh5uoqeEgEj.jpg" group-title="VOD - COMEDIA",Coco, el pequeño dragón. Aventuras en la Jungla (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Roma con amor (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs1nm3j8SHgi6lJnOg7tCnkNGyn.jpg" group-title="VOD - COMEDIA",A Roma con amor (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El camino de vuelta (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHoQ0xjDJ5sJZNca7QyFa6ZeXxg.jpg" group-title="VOD - COMEDIA",El camino de vuelta (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapa ese email (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLM1mMby4jTdsQm8ImCRMY0BXLz.jpg" group-title="VOD - COMEDIA",Atrapa ese email (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Despido procedente (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RII7rlh6tbonKLE60E3FuO91cc.jpg" group-title="VOD - COMEDIA",Despido procedente (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destined to Ride (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGOkZLH4vApt24ZFyt4xVZvefWd.jpg" group-title="VOD - COMEDIA",Destined to Ride (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino de un capricho (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNluzMyQ5eqnS2WeYUmJFjL2oPL.jpg" group-title="VOD - COMEDIA",Destino de un capricho (1972)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon Detective Pikachu (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chgaG2mUPGZ0Wj6YS9SbCNEiLnL.jpg" group-title="VOD - COMEDIA",Pokémon Detective Pikachu (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devuélveme mi suerte (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yAj4jh26FWNxGA7d9XVNTk4Kbd.jpg" group-title="VOD - COMEDIA",Devuélveme mi suerte (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diario de Greg 2: La ley de Rodrick (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZJlvzMMttnvCHYbEdj1NCyP5ZT.jpg" group-title="VOD - COMEDIA",El diario de Greg 2: La ley de Rodrick (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diario de Greg 3: Días de perros (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv6YHpQl2rrynA8G2FUx01KURo7.jpg" group-title="VOD - COMEDIA",El diario de Greg 3: Días de perros (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diario de Greg (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rOfWbnyuVswAzdSU4VkuPkHCxH0.jpg" group-title="VOD - COMEDIA",El diario de Greg (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Greg: Carretera y manta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKgNyw5muEC929hdfiTbe8dbxSn.jpg" group-title="VOD - COMEDIA",Diario de Greg: Carretera y manta (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diario de Greg: Carretera y manta (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKgNyw5muEC929hdfiTbe8dbxSn.jpg" group-title="VOD - COMEDIA",Diario de Greg: Carretera y manta (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descansa En Paz Dick Johnson (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnfI34kmi3fcdgP7HZjIgGOJHGY.jpg" group-title="VOD - COMEDIA",Descansa En Paz Dick Johnson (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diecisiete (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhKF93ctN4JGI29W3J55PpInoPv.jpg" group-title="VOD - COMEDIA",Diecisiete (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzOkddFfLexWtTozMMvPDUNe0AK.jpg" group-title="VOD - COMEDIA",Dinosaurios (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Grandpa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwOgOFPBhGVWZTvXI3rG1TtFt7s.jpg" group-title="VOD - COMEDIA",Dirty Grandpa (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doble (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jF3iEFqFV43JEAaAcUeSP42mroQ.jpg" group-title="VOD - COMEDIA",Doble (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nyjsUPtUKJMPvOzR6Gcutblg2yE.jpg" group-title="VOD - UNIVERSO MARVEL",Doctor Strange (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dog Days (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0h70jkSpaZV48cYOmdoCjFjJMM.jpg" group-title="VOD - COMEDIA",Dog Days (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo soy Dolemite (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5GgrsNkdyJeEFiqckBKd4voaxU.jpg" group-title="VOD - COMEDIA",Yo soy Dolemite (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras del Doctor Dolittle (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aodZLzbl7JaKSsdV6EJzl86EjcX.jpg" group-title="VOD - COMEDIA",Las aventuras del Doctor Dolittle (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Donaire Y Esplendor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bn6XVspFYBwef9KiqvATdmLJOdn.jpg" group-title="VOD - COMEDIA",Donaire Y Esplendor (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don Jon (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/asp3YRMj24YV5x0QChTvkFIChu9.jpg" group-title="VOD - COMEDIA",Don Jon (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don Quijote cabalga de nuevo (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMOfdS5xk1mDjue4MRM9wlgIFDK.jpg" group-title="VOD - COMEDIA",Don Quijote cabalga de nuevo (1973)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los colegas del barrio (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCgKRs1qMRCc2wx0VG7ONEOj2MJ.jpg" group-title="VOD - COMEDIA",Los colegas del barrio (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don't Think Twice (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8PuoewhI3qeROdfXSw2Utjf1On.jpg" group-title="VOD - COMEDIA",Don't Think Twice (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dope (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6u00imN7AX2NiyWUc5kTgHXmEf.jpg" group-title="VOD - COMEDIA",Dope (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="dora and the lost city of gold 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6u00imN7AX2NiyWUc5kTgHXmEf.jpg" group-title="VOD - COMEDIA",dora and the lost city of gold 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos gallos en palenque (1960)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AinXckJXUEYEcfPYF9AtT8ZzLuq.jpg" group-title="VOD - COMEDIA",Dos gallos en palenque (1960)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos policías en apuros (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeLheRsqqnuUq7ArWEoRr1T40JX.jpg" group-title="VOD - COMEDIA",Dos policías en apuros (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos tipos de cuidado (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86WaWg7M6M9HKEl1CWodmC5VJHQ.jpg" group-title="VOD - COMEDIA",Dos tipos de cuidado (1953)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bucky Larson: Nacido para ser una estrella (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avCsg52549PHT5nVXIW7c3BEZ7b.jpg" group-title="VOD - COMEDIA",Bucky Larson: Nacido para ser una estrella (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dobles vidas (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smuEMXM38APTVRDn7O75dkJKqB1.jpg" group-title="VOD - COMEDIA",Dobles vidas (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una vida a lo grande (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpOWb2nUHno4FBzpl6UWo0M1tFK.jpg" group-title="VOD - COMEDIA",Una vida a lo grande (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drácula, un muerto muy contento y feliz (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKsVJpQGhhuqJybXurxuxOOi87.jpg" group-title="VOD - COMEDIA",Drácula, un muerto muy contento y feliz (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 2 (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEzgdEPLDJBPUj47sobRKzmuETc.jpg" group-title="VOD - COMEDIA",Dr. Dolittle 2 (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Driven (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQzAuANZi8pmiN2Fi0EKGolgFoM.jpg" group-title="VOD - COMEDIA",Driven (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Drop Dead Gorgeous (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z21f6VuCtcAYO2Q5VtR3gRqEjYc.jpg" group-title="VOD - COMEDIA",Drop Dead Gorgeous (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos padres en apuros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBdnhbKAot9UwRAnPdH53pK9nkW.jpg" group-title="VOD - COMEDIA",Dos padres en apuros (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Duck Butter (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQkNvLOudRFzpmLfDY8q2fcSOtE.jpg" group-title="VOD - COMEDIA",Duck Butter (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dude: así es la vida (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPLirq1p9rALSuECwEL6N0zxrl8.jpg" group-title="VOD - COMEDIA",Dude: así es la vida (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colega, ¿dónde está mi coche? (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3dfiofjoBRb90ByAbQpBPeXj8a.jpg" group-title="VOD - COMEDIA",Colega, ¿dónde está mi coche? (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos chalados y muchas curvas: El comienzo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1kqpqfIhCvuPRqNuH0ox3T5MBHZ.jpg" group-title="VOD - COMEDIA",Dos chalados y muchas curvas: El comienzo (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dulce familia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lyaM4QT30eh7ok0hBb13UtWoY.jpg" group-title="VOD - COMEDIA",Dulce familia (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos tontos todavía más tontos (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsm4tAiPire8ZlmosySZqywxCvY.jpg" group-title="VOD - COMEDIA",Dos tontos todavía más tontos (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Momia Dummie y la Tumba de Achne (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzUAZxIU2gVtKJWElfTYqN7jQWt.jpg" group-title="VOD - COMEDIA",La Momia Dummie y la Tumba de Achne (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Easter Under Wraps (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4nYhxwnH2aOLpvI8swok1fiQtQ.jpg" group-title="VOD - COMEDIA",Easter Under Wraps (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rumores y mentiras (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1c64dtFHYLzeGaia4MuDoR4lNE.jpg" group-title="VOD - COMEDIA",Rumores y mentiras (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Come, reza, ama (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHvxdzwUyHajBqcmx4EgfFDA7Qm.jpg" group-title="VOD - COMEDIA",Come, reza, ama (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eighth Grade (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg" group-title="VOD - COMEDIA",Eighth Grade (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="el abuelo sinverguenza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTa9cLhGHfQ7084UvoPQ2bBXKqd.jpg" group-title="VOD - COMEDIA",el abuelo sinverguenza
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El alien y yo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNLetImXPLSb2Qr4tX7x2bkDPrM.jpg" group-title="VOD - COMEDIA",El alien y yo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El amor es lo que tiene (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kduP0T4xs7mW0uhUwhOfSAEN86l.jpg" group-title="VOD - COMEDIA",El amor es lo que tiene (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El amor menos pensado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU55miG5GYeLi5K1pC6DNiT3DEB.jpg" group-title="VOD - COMEDIA",El amor menos pensado (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Baile de la Gacela (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH0OcGqtXObGnejmxZuKXnUsSPW.jpg" group-title="VOD - COMEDIA",El Baile de la Gacela (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El barrendero (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRi5BXDpBRKFhHQYUKvUGS3Y5D0.jpg" group-title="VOD - COMEDIA",El barrendero (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El bombero atómico (1952)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnJkrWd5ydRGumy4qimvAYIwFnV.jpg" group-title="VOD - COMEDIA",El bombero atómico (1952)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidades en el camino (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znu68FaoridWriGdGUsXIyMomMY.jpg" group-title="VOD - COMEDIA",Navidades en el camino (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El candidato (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFzpdX2hgfoUMTiorrrwnf9tSrg.jpg" group-title="VOD - COMEDIA",El candidato (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Chanfle (1979)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x76WV946xbdfwnSw22RhB1r2VOP.jpg" group-title="VOD - COMEDIA",El Chanfle (1979)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El chanfle 2 (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1DIJWaUbC7mr5BT8ka9FEaWFjP.jpg" group-title="VOD - COMEDIA",El chanfle 2 (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malas madres (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/maSBYcMxVeeIuHVcEkILuNGxZ4Q.jpg" group-title="VOD - COMEDIA",Malas madres (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Complot Mongol (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3C9oEpe4aIgqqSypYaif8rIiFz.jpg" group-title="VOD - COMEDIA",El Complot Mongol (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cuento de las comadrejas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wcAHJpXWOOLukNW7nSe5snBt0xK.jpg" group-title="VOD - COMEDIA",El cuento de las comadrejas (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo viste de Prada (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0FiGt44M7rveQYnYkIO3UttbTP.jpg" group-title="VOD - COMEDIA",El diablo viste de Prada (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día de los enamorados (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qq6m8OyvcZqHJicIPYmXEAe7PlY.jpg" group-title="VOD - COMEDIA",El día de los enamorados (1959)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día que me muera (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyGlJqKud8KvQqYr2hjaoUegPce.jpg" group-title="VOD - COMEDIA",El día que me muera (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Princesa por sorpresa (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4DYhsEnziYlJy91bbxv1ZhTJFG.jpg" group-title="VOD - COMEDIA",Princesa por sorpresa (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Princesa por sorpresa 2 (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndsSUCSqwe8nqdTqJXX4aDrsNM0.jpg" group-title="VOD - COMEDIA",Princesa por sorpresa 2 (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El dictador (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oQZGHRqZnVAMYCVKjWFoyszINqj.jpg" group-title="VOD - COMEDIA",El dictador (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El dilema (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMxZ6Bg7J0EtJA5mN9Gp9EUW53E.jpg" group-title="VOD - COMEDIA",El dilema (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Election (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OetgQOUc4VRhj2tgjOUWwywh9K.jpg" group-title="VOD - COMEDIA",Election (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El empleado del mes (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zfqiSEvoT84mGfc1o7ohGKQmIU.jpg" group-title="VOD - COMEDIA",El empleado del mes (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Equipito (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFTGgK8Eaa4WMGwkzeOv6Tp8YTG.jpg" group-title="VOD - COMEDIA",El Equipito (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The D Train (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3X4ea0xirJRiHGRtk47fSrmH9I.jpg" group-title="VOD - COMEDIA",The D Train (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Extra (1962)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gvrFgYWXABlUd69HfPyNBImc279.jpg" group-title="VOD - COMEDIA",El Extra (1962)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elf (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zI0gC2bEue41i5FeoanYVL2jnMg.jpg" group-title="VOD - COMEDIA",Elf (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fantasma de mi novia - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8wqnTvgaM2Yhvtf9bPIGNBYxJya.jpg" group-title="VOD - COMEDIA",El fantasma de mi novia - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fútbol o yo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwKUS69UvdWUdr4ADeqCPv9lFih.jpg" group-title="VOD - COMEDIA",El fútbol o yo (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pedro Infante: El gavilán pollero (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/46nO015yZhRC1ss1y0JuEacriHD.jpg" group-title="VOD - COMEDIA",Pedro Infante: El gavilán pollero (1951)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran hotel Budapest (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4YNtHjlGDmTDMNoq4W4d3XCGrh.jpg" group-title="VOD - COMEDIA",El gran hotel Budapest (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran Lebowski (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/EJFkJD9BH400jfzKz3W5xLYHQa.jpg" group-title="VOD - COMEDIA",El gran Lebowski (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Grinch (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg" group-title="VOD - COMEDIA",El Grinch (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zooloco (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LAQu2Duelc6cYtg19uT6DAYR56.jpg" group-title="VOD - COMEDIA",Zooloco (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hijo Perdido (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMdlEqnG7OIEUQ9WFbnVhh1N6a5.jpg" group-title="VOD - COMEDIA",El Hijo Perdido (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre de la casa (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1YPw863cCXqo3bEjpD7PPmzADs.jpg" group-title="VOD - COMEDIA",El hombre de la casa (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hubiera sí existe (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uefuCRunhO2knh0dqb12ziskhMc.jpg" group-title="VOD - COMEDIA",El hubiera sí existe (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El increíble Burt Wonderstone (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRUnMedYNuZD71FNPoCJFHgR4Kf.jpg" group-title="VOD - COMEDIA",El increíble Burt Wonderstone (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Jeremías (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLJ817Xa8TuZsGRghuPmtkVdV4k.jpg" group-title="VOD - COMEDIA",El Jeremías (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Juego (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TrqCLNItnWf4MF5bKMlSTXAG3f.jpg" group-title="VOD - COMEDIA",El Juego (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100520.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El man del porno (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZlVsvnjIaLnWlrIDnXhHoLJsSx.jpg" group-title="VOD - COMEDIA",El man del porno (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100521.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Manual del Pisado (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xGwI7H0ZGRpDTcSdT0Ol4hETTaB.jpg" group-title="VOD - COMEDIA",El Manual del Pisado (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100522.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ministro y yo (1977)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibgXsi4lJZIsRJ2cap6HIUjEpvj.jpg" group-title="VOD - COMEDIA",El ministro y yo (1977)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100523.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El muerto cuenta su historia (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoZDBnz0AQygpOawf7XjcN7bKN.jpg" group-title="VOD - COMEDIA",El muerto cuenta su historia (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100524.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mundo es tuyo (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xbFKhqrTQ25cbTXfbU321YFjhv.jpg" group-title="VOD - COMEDIA",El mundo es tuyo (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100525.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El nuevo exótico hotel Marigold (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7HapwnFlrCMOhQRjMEuZGUkzz2J.jpg" group-title="VOD - COMEDIA",El nuevo exótico hotel Marigold (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100526.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Padrecito (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVmRErtcEHvFZGWx5nkVNSux4kO.jpg" group-title="VOD - COMEDIA",El Padrecito (1964)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100527.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Paseo 5: El Paseo de Oficina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAZ5WNNdgQr2dk2PixcZkWbgezA.jpg" group-title="VOD - COMEDIA",El Paseo 5: El Paseo de Oficina (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Patrullero 777 (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvKNyUKczXCWA9dg5IoHfOIfj2e.jpg" group-title="VOD - COMEDIA",El Patrullero 777 (1978)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El peluquero romántico (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6IrjBZdFZrnTYs0BpAT35tY69J.jpg" group-title="VOD - COMEDIA",El peluquero romántico (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perro al rescate (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6wm2pmx8WiYrNa1vbCaabCUDcD.jpg" group-title="VOD - COMEDIA",Perro al rescate (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Plan Perfecto (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1Nebn3yTUYtToYpa932mkWzYl5.jpg" group-title="VOD - COMEDIA",El Plan Perfecto (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El que busca, encuentra (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lh9Ggc5HimfN9ATxIiUZ3hCtzrA.jpg" group-title="VOD - COMEDIA",El que busca, encuentra (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100533.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El que no cae se encima (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhtD5beFTPUElnICSBvrWeOpo27.jpg" group-title="VOD - COMEDIA",El que no cae se encima (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El que se enamora pierde (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJp6ES9hEBGPHM2JoLivmSGn3So.jpg" group-title="VOD - COMEDIA",El que se enamora pierde (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El reality (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xIYQLNwGxX4N91lMYR1fKmB3OWR.jpg" group-title="VOD - COMEDIA",El reality (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey del Once (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpGHSU4UJfMexrhblHoVJToVlL3.jpg" group-title="VOD - COMEDIA",El rey del Once (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey del sapo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKOZID4nBALexiJsIoG7BTLIyTN.jpg" group-title="VOD - COMEDIA",El rey del sapo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Señor Doctor (1965)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRkaHVK8qPuG0ckmp1lgtoFeid1.jpg" group-title="VOD - COMEDIA",El Señor Doctor (1965)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El señor fotógrafo (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV3GNFLdR4Gi1ZORfoEEn4psS7N.jpg" group-title="VOD - COMEDIA",El señor fotógrafo (1953)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entourage. El séquito (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLujhsgBMVvDKsoGeyEKsZcYK8X.jpg" group-title="VOD - COMEDIA",Entourage. El séquito (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Siete Machos (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/stghzuBSuhiBbvAIxrm8D0G8m1z.jpg" group-title="VOD - COMEDIA",El Siete Machos (1951)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sistema Solar (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKmAvd1zzG4NkL6OW9qHdJwUNZt.jpg" group-title="VOD - COMEDIA",El sistema Solar (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El soborno del cielo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNoRK9bNMfffqdIqFhO78OkAEWy.jpg" group-title="VOD - COMEDIA",El soborno del cielo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100544.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Supersabio (1948)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvwIm6TwYAeruu02vgCk6V4FVxu.jpg" group-title="VOD - COMEDIA",El Supersabio (1948)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100545.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tatuaje (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIIJEJFuQafdkerAVhGx4bzZrOG.jpg" group-title="VOD - COMEDIA",El tatuaje (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100546.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El testamento de la abuela (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j14V3viuh0BUbR2upgn81V6tTdL.jpg" group-title="VOD - COMEDIA",El testamento de la abuela (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100547.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan en Las Vegas (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19NrCtVSb6aWKyC4VesOeA0Giqg.jpg" group-title="VOD - COMEDIA",Plan en Las Vegas (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100548.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El viaje de Keta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/erEwhDtc81Bba9AwcCKn2M7UgF9.jpg" group-title="VOD - COMEDIA",El viaje de Keta (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elvis & Nixon (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wA1Hf3JIIeFEdHBUtHraqBzVVHU.jpg" group-title="VOD - COMEDIA",Elvis & Nixon (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Embarazada por obra y gracia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uAU9YqozKlrnMUUUvl9VNpiyAb.jpg" group-title="VOD - COMEDIA",Embarazada por obra y gracia (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emma (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hd5YQjsIPuLmZuvWfdv36apz8tE.jpg" group-title="VOD - COMEDIA",Emma (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gaPq2uwKxdHnInkGT9M1XA2Ytfz.jpg" group-title="VOD - COMEDIA",Em Nome da Lei (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Empeliculados (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uI48VWmquPo1z0URRJqfxPkXPnL.jpg" group-title="VOD - COMEDIA",Empeliculados (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enchufe sin visa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNmPPQqIqZ2h1wqpervJUfGKtzc.jpg" group-title="VOD - COMEDIA",Enchufe sin visa (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La voz de una generación (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqSAuhokqDQDFmhhdlaWlOYMQer.jpg" group-title="VOD - COMEDIA",La voz de una generación (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En dónde están los ladrones? (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsJWJlj2YCEE4mZnwZpISXQbZ9z.jpg" group-title="VOD - COMEDIA",En dónde están los ladrones? (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En el bosque (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sedxbHoP13xEbzCtdXsWpyQv2y.jpg" group-title="VOD - COMEDIA",En el bosque (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bleeding Steel (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVkZaPOlSnoxkAPtYQzCmsTzz1z.jpg" group-title="VOD - COMEDIA",Bleeding Steel (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un verano en Islandia (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deIZdpChcS6wljQ0RSAAGvHMvqT.jpg" group-title="VOD - COMEDIA",Un verano en Islandia (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En man som heter Ove - showen (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/838e2Vurz2GxMtPzV8xdQxwsVfp.jpg" group-title="VOD - COMEDIA",En man som heter Ove - showen (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enola Holmes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwPM8NOFccH2nwwp5EP7Qg3O4lT.jpg" group-title="VOD - COMEDIA",Enola Holmes (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre pillos anda el juego (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dNdmSODv2kVcCsLEOEOjRSBMVjs.jpg" group-title="VOD - COMEDIA",Entre pillos anda el juego (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Cásate Conmigo! Por favor (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FCURvwd9oyHfuNgTnH8A1fZubi.jpg" group-title="VOD - COMEDIA",¡Cásate Conmigo! Por favor (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eres mi pasión (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ma0qb9IHHMtDYGK7NSDMn6wbQr.jpg" group-title="VOD - COMEDIA",Eres mi pasión (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escalofríos (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WBsedQJwuQ3JGiBugl0E4xK6WC.jpg" group-title="VOD - COMEDIA",Escalofríos (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gran estafa americana (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RKWeBKsn0dMgknx6cxco1nIyIJ.jpg" group-title="VOD - COMEDIA",La gran estafa americana (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuela de miedo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6syuH9H6hbRFBcvphINTVDlghYQ.jpg" group-title="VOD - COMEDIA",Escuela de miedo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuela nocturna (1981)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGFnK1Npjth1iYm3Kq2gqjC0Ceb.jpg" group-title="VOD - COMEDIA",Escuela nocturna (1981)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Escuela para seductores (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgbDYeMwW88IDV8YotdOcSCKEvQ.jpg" group-title="VOD - COMEDIA",Escuela para seductores (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blancanieves (Mirror, Mirror) (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p89fw8XQPc82fKJCwvydnpAupFy.jpg" group-title="VOD - COMEDIA",Blancanieves (Mirror, Mirror) (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esperando la carroza (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qkSThbNiC6kimvLlWrgeTNYLCeq.jpg" group-title="VOD - COMEDIA",Esperando la carroza (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Es por tu bien (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6G59UxqW2iDgvwnOcRGDJptNnk6.jpg" group-title="VOD - COMEDIA",Es por tu bien (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100573.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Este cuerpo no es el mío! (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5ffGrKTcRrKQ59Wg3vMmg7QFN.jpg" group-title="VOD - COMEDIA",¡Este cuerpo no es el mío! (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100574.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juerga hasta el fin (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZytJbOBvnNk5Yq8aR7k1pCaEGp.jpg" group-title="VOD - COMEDIA",Juerga hasta el fin (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100575.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Esto es la guerra (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/goBcQAm5ESa6cjfNo99yXQonujY.jpg" group-title="VOD - COMEDIA",Esto es la guerra (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100576.mkv
+#EXTINF:-1 tvg-id="" tvg-name="That's What I Am (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEVN6PW7cBW4JytulTtQNtRV1T8.jpg" group-title="VOD - COMEDIA",That's What I Am (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100577.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Olvídate de mí! (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bHEXzzccUsBNOS6rn9uvi3vAGW.jpg" group-title="VOD - COMEDIA",¡Olvídate de mí! (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100579.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eu Fico Loko (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qAB1pfwi92gkblvL4gwoSRuNoSp.jpg" group-title="VOD - COMEDIA",Eu Fico Loko (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100580.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eurotrip (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDFAxb6Z5mofQaokS6rzMg4mIEf.jpg" group-title="VOD - COMEDIA",Eurotrip (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100581.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eurotrip (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDFAxb6Z5mofQaokS6rzMg4mIEf.jpg" group-title="VOD - COMEDIA",Eurotrip (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Festival de la Canción de Eurovisión: La historia de Fire Saga (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wi7rpl9Ge1fxwArw9dP2BgkUi7.jpg" group-title="VOD - COMEDIA",Festival de la Canción de Eurovisión: La historia de Fire Saga (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sigo como Dios (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGYbia49LHLpURfYcCdhZVrDS1z.jpg" group-title="VOD - COMEDIA",Sigo como Dios (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100584.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todos están bien (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIhQ41lBeYGIc3Css86TCetqM0g.jpg" group-title="VOD - COMEDIA",Todos están bien (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100585.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Excess Baggage (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uIV3V5wKXYYjtybO9wkZy4njx9h.jpg" group-title="VOD - COMEDIA",Excess Baggage (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100586.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Expertos en crisis (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rem3GC2FtHCItfKqnfzb67YrcrG.jpg" group-title="VOD - COMEDIA",Expertos en crisis (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100587.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los exterminadores del más allá contra la rubia del baño (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLsVyAJuFZPlQQPaC3LFpK750k1.jpg" group-title="VOD - COMEDIA",Los exterminadores del más allá contra la rubia del baño (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Faith, Hope & Love (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2hkZoeL9urftGeF8dN1RBafZsN.jpg" group-title="VOD - COMEDIA",Faith, Hope & Love (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100589.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Faith, Love & Chocolate (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7MwwGKuNTKjATv5hbci2zeJjXW.jpg" group-title="VOD - COMEDIA",Faith, Love & Chocolate (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor en obras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNKGZ6RB6SlA4Vd00gZM9dfvSC2.jpg" group-title="VOD - COMEDIA",Amor en obras (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Addams (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/307Y96L1iJ6gujCfuGPWNTqgbBd.jpg" group-title="VOD - COMEDIA",La familia Addams (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran Alberto (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMZJ7QG5ZTKvjKYE1kdQsradzDd.jpg" group-title="VOD - COMEDIA",El gran Alberto (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fat Camp (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vE3ArQ3KyG9ZkMxp6zmH4VvaQIl.jpg" group-title="VOD - COMEDIA",Fat Camp (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Father Figures (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6l0FQgO9e5RSvA5mEJXywrJ3c8B.jpg" group-title="VOD - COMEDIA",Father Figures (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100595.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El padre del año (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rY9uVHQdvCDx38pUhImA4ZGVc1.jpg" group-title="VOD - COMEDIA",El padre del año (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100596.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre Ellas (2017) (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OKORTVYYGdjyBYWCFkFuBmqb5P.jpg" group-title="VOD - COMEDIA",Entre Ellas (2017) (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intrépido (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1vJlGnkkZDJxnpOoH9dIT5u0mX.jpg" group-title="VOD - COMEDIA",Intrépido (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fe de etarras (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQROx7XKH0iaQrBAEuGimMxpwK0.jpg" group-title="VOD - COMEDIA",Fe de etarras (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100599.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Feliz Año Tijuana (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qr8gCF5dHB4RJ7qmHSfDpFjgqUG.jpg" group-title="VOD - COMEDIA",Feliz Año Tijuana (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100600.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Feo pero Sabroso (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zywEJpSeYGY9hb7IOmdsdvjP0oE.jpg" group-title="VOD - COMEDIA",Feo pero Sabroso (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo en un día (1986)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI14Q2Eve7WAKdAxjUAIHJ38bDt.jpg" group-title="VOD - COMEDIA",Todo en un día (1986)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fever Pitch (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97ReSU7VMHjUkWtlbCQ7UcQvBaI.jpg" group-title="VOD - COMEDIA",Fever Pitch (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peleando en familia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vkwKmg5dYBA1z4VaO4jWU9xxO2.jpg" group-title="VOD - COMEDIA",Peleando en familia (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bailando la vida (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RRfSWTQ7ynfoXV1LpwBYLYtTSW.jpg" group-title="VOD - COMEDIA",Bailando la vida (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100605.mkv
+#EXTINF:-1 tvg-id="" tvg-name="fishermans friends 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RRfSWTQ7ynfoXV1LpwBYLYtTSW.jpg" group-title="VOD - COMEDIA",fishermans friends 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100606.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fist Fight (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Fist Fight (1964)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Five (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/20WSLvExcsjv8wDBePiVpYeAgav.jpg" group-title="VOD - COMEDIA",Five (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A dos metros de ti (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZNKu4TfGgACD1D3kibI5Pgmqe4.jpg" group-title="VOD - COMEDIA",A dos metros de ti (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fletch, el camaleón (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg6oabui8x6DtGQEU1HgpaaSKRx.jpg" group-title="VOD - COMEDIA",Fletch, el camaleón (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flipped (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uCm8PoC3n0F5XtYq0aAcqUCdP6.jpg" group-title="VOD - COMEDIA",Flipped (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Florence Foster Jenkins (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7EttYwg63m5oHDIpcpCrvZxuZk.jpg" group-title="VOD - COMEDIA",Florence Foster Jenkins (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flower (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYTI11qFnmx39LRhDOsGEabfqtp.jpg" group-title="VOD - COMEDIA",Flower (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flubber y el profesor chiflado (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvpoHSUkjERCTk0V8BYa9MLknsA.jpg" group-title="VOD - COMEDIA",Flubber y el profesor chiflado (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Focus (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Nfl7nbruxF1z01GxExUO0GYujm.jpg" group-title="VOD - COMEDIA",Focus (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fools, Gold (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIJNX1OiqAQFQlVkEkGOv22vfV.jpg" group-title="VOD - COMEDIA",Fools, Gold (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Footloose (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzTuPCtIBuL4LPJBbNA5RnXDzPZ.jpg" group-title="VOD - COMEDIA",Footloose (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forever Young (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CpL3QI78Fwu5LhMwCRyCB0LFVR.jpg" group-title="VOD - COMEDIA",Forever Young (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Forrest Gump (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azV6hV99lYkdhydsQbJCI6FqMl4.jpg" group-title="VOD - COMEDIA",Forrest Gump (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="For the Love of George (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tslC7OMSZEIwQxDLMSdxhScKTI6.jpg" group-title="VOD - COMEDIA",For the Love of George (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Franco Escamilla: bienvenido al mundo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Bn3Hr2mSRRRhuzspv9Ywj1Bbq.jpg" group-title="VOD - COMEDIA",Franco Escamilla: bienvenido al mundo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Franco Escamilla: Por la Anécdota (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4iwq1hkcAS9xkUGtpeDBVnhfFb.jpg" group-title="VOD - COMEDIA",Franco Escamilla: Por la Anécdota (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frank and Cindy (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVcBnJkjLKwZKhJ30bOy09GghUs.jpg" group-title="VOD - COMEDIA",Frank and Cindy (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Freaks of Nature (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Freaks of Nature (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ponte en mi lugar (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFKp6BLCnauoYLuOzRoAIRx5fA6.jpg" group-title="VOD - COMEDIA",Ponte en mi lugar (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ponte en mi lugar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rXX1ASL9rq8qbBFuGbN6bvJ77F.jpg" group-title="VOD - COMEDIA",Ponte en mi lugar (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fred Claus, el hermano gamberro de Santa Claus (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipkhAexxfaTXEInrNzlhIeuel8p.jpg" group-title="VOD - COMEDIA",Fred Claus, el hermano gamberro de Santa Claus (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asalta como puedas (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rthoTWBsSiaSdtQGwgvr1HcAweT.jpg" group-title="VOD - COMEDIA",Asalta como puedas (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="French Kiss (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vLcyNQmf5RoD7CIcGPjnwxKjqI.jpg" group-title="VOD - COMEDIA",French Kiss (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Friends (With Benefits) (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXzszA9hJk9cPiP0Wynum057x8A.jpg" group-title="VOD - COMEDIA",Friends (With Benefits) (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juerga de mamis (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0UqjWOBEf1zE7aIVNa4RLEefZl.jpg" group-title="VOD - COMEDIA",Juerga de mamis (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Funny People II (1983)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g8BApT83ZGal8oQ1BzAdyMuPpMb.jpg" group-title="VOD - COMEDIA",Funny People II (1983)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diversión XL (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MyIn4VWGXVI5z0GFjbdWojwJJD.jpg" group-title="VOD - COMEDIA",Diversión XL (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dick y Jane, ladrones de risa (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtUvZea8Uxou8ydgKr1x5H6nvKQ.jpg" group-title="VOD - COMEDIA",Dick y Jane, ladrones de risa (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En pata de guerra (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CiiwQsbxIbUldeN1ehl27IQZIP.jpg" group-title="VOD - COMEDIA",En pata de guerra (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un gesto estúpido e inútil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nVExTwKXN8sbkBRYhaNcCCouuly.jpg" group-title="VOD - COMEDIA",Un gesto estúpido e inútil (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un plan perfecto (Gambit) (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UCh4rmXPhhoJJ2kgTxUVLlIyg5.jpg" group-title="VOD - COMEDIA",Un plan perfecto (Gambit) (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game Night (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Game Night (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="PWG: Game Over, Man (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foVrfw3wPIvlSlh8D2qryJfedRY.jpg" group-title="VOD - COMEDIA",PWG: Game Over, Man (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zombiology: Enjoy Yourself Tonight (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aS4UqKiuFKfIQPQUGxOGk3KQucf.jpg" group-title="VOD - COMEDIA",Zombiology: Enjoy Yourself Tonight (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gangsterdam (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ew4ThBsYb5xHIDIVXKRKgH10uln.jpg" group-title="VOD - COMEDIA",Gangsterdam (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garfield 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n10AuSUxcJQEPtRw0uNdukpKQ1G.jpg" group-title="VOD - COMEDIA",Garfield 2 (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garfield en la vida real (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihHivwXz3zZR0R2jkcuXuHTOlKC.jpg" group-title="VOD - COMEDIA",Garfield en la vida real (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garfield: la película (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMQKL3Dx40au9e172ARVUWsT4qH.jpg" group-title="VOD - COMEDIA",Garfield: la película (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un chiflado encantador (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ox9dgopLvKV3v7ov5J1TXT2rYAd.jpg" group-title="VOD - COMEDIA",Un chiflado encantador (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gente que viene y bah (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nHaZbu9rtmDheImnkKz1kLHM86I.jpg" group-title="VOD - COMEDIA",Gente que viene y bah (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros las prefieren rubias (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO6aAcPxQp6i6a2Zeh4zDvZrqiM.jpg" group-title="VOD - COMEDIA",Los caballeros las prefieren rubias (1953)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="George de la jungla 2 (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMJbCWC9EpkVNKM3KaIOElCQIrT.jpg" group-title="VOD - COMEDIA",George de la jungla 2 (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="George de la jungla (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oBSAKp65I9Xjmk7jZqJ2HmllTj.jpg" group-title="VOD - COMEDIA",George de la jungla (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get a Job (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGjY8GRSY36hzWMK8tPCmA8XJIg.jpg" group-title="VOD - COMEDIA",Get a Job (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dale duro (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jg6x8XO1Avu6aJVy8otVgb5AXqn.jpg" group-title="VOD - COMEDIA",Dale duro (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Get Santa (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gW4FX4DFRnKlGINzB4UdZJnSdgE.jpg" group-title="VOD - COMEDIA",Get Santa (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100652.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superagente 86 de película (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKSOh8Sm0iFLeT5zmf2HyhBwfiF.jpg" group-title="VOD - COMEDIA",Superagente 86 de película (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100653.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gzodU7MbxcgsOCa0LFZScFkyvK.jpg" group-title="VOD - COMEDIA",Los Cazafantasmas (1984)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100654.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Cazafantasmas II (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqFgvP61lOFegzsCiJOaeRfkogJ.jpg" group-title="VOD - COMEDIA",Los Cazafantasmas II (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100655.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazafantasmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gG8Tv060zoUwmeGEk8lGBULO9hw.jpg" group-title="VOD - COMEDIA",Cazafantasmas (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Equipo paranormal (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0jR5wMHF3mmPkiDxsT3QSe0vNK.jpg" group-title="VOD - COMEDIA",Equipo paranormal (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gibby (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sE18ZQ2mciDp8lEqcYE5XI1eNV5.jpg" group-title="VOD - COMEDIA",Gibby (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gigoló (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AchGgEoS0l6DAJuXDYzhwP9STt.jpg" group-title="VOD - COMEDIA",Gigoló (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El día de la novia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zK4SWyi2M8BQ37pF8XnGXClBDk.jpg" group-title="VOD - COMEDIA",El día de la novia (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan de chicas (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmOBCUhGdfeKnMyjUHPWaLZAv7.jpg" group-title="VOD - COMEDIA",Plan de chicas (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Going For Golden Eye (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCERsSVN4p2qnaW6SOl9wsWe3iV.jpg" group-title="VOD - COMEDIA",Going For Golden Eye (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Going the Distance (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shmF571Ph6U5E03ahuuzOPi6rl9.jpg" group-title="VOD - COMEDIA",Going the Distance (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El clan de los rompehuesos (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcMixkRxjwDIiISEC0l11U8YnRG.jpg" group-title="VOD - COMEDIA",El clan de los rompehuesos (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confidential Assignment (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61ZXVq9I2nzC9kcgTga7DYPegeG.jpg" group-title="VOD - COMEDIA",Confidential Assignment (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicos buenos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zqptFnq7GhpVEXzfOnNxWbN0U2.jpg" group-title="VOD - COMEDIA",Chicos buenos (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100666.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Good Burger (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Lxw2CCPceBzViBsA00za4oP6OZ.jpg" group-title="VOD - COMEDIA",Good Burger (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100667.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Goodbye Berlin (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dz7MaZzqfocMz8OW9z98JBJXzK.jpg" group-title="VOD - COMEDIA",Goodbye Berlin (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100668.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adiós Mundo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73Ek4bvUOUD0eHakQ8MTVxRbsJZ.jpg" group-title="VOD - COMEDIA",Adiós Mundo (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100669.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Good Kids (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2VSrYwNKqXzsjIy7fWsrhVJlE7.jpg" group-title="VOD - COMEDIA",Good Kids (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100670.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Good Morning, Vietnam (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsh0fhNQZ6O1ZYsDIt3THtBxoeP.jpg" group-title="VOD - COMEDIA",Good Morning, Vietnam (1987)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100671.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El buen Sam (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aikRqgZnOgjtwjxMJRGXCATzV8J.jpg" group-title="VOD - COMEDIA",El buen Sam (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100672.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Goon: el último de los Enforcers (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emio9KDrLXqqX4wXa4YTacBQXG.jpg" group-title="VOD - COMEDIA",Goon: el último de los Enforcers (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100673.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muérete bonita (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dtV18jcYTaHw32WnVCT6IDIglA3.jpg" group-title="VOD - COMEDIA",Muérete bonita (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100674.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grace (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/96Ya0EXzfzsUk50hKnpn2q0xFdg.jpg" group-title="VOD - COMEDIA",Grace (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor sin control (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjvx4WyGo6WsXUTEvEPbcREEWgW.jpg" group-title="VOD - COMEDIA",Amor sin control (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100676.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapado en Grand Isle (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/OQf805zU1G5W1fAFc5pWTsvSCn.jpg" group-title="VOD - COMEDIA",Atrapado en Grand Isle (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100677.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grandma (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJvN5i2jrZGpfl9oALafGbrbpN6.jpg" group-title="VOD - COMEDIA",Grandma (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100678.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grease (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cI2Dq5sD1rEVjf5zz1KAQMqLQ7.jpg" group-title="VOD - COMEDIA",Grease (1978)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Greed (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZPmDFlVp1BSGQD4QCKHOwbXLfv.jpg" group-title="VOD - COMEDIA",Greed (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los codiciosos (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oudSxVZiyMVf0HzOfkHYBRug2K3.jpg" group-title="VOD - COMEDIA",Los codiciosos (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Green Book (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/od2A7qPtpimcYfqfKXkpHqoKyuS.jpg" group-title="VOD - COMEDIA",Green Book (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adivina quién viene esta noche (1967)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ENXtJTXiKC3TUPGUJlx7Xpoeuj.jpg" group-title="VOD - COMEDIA",Adivina quién viene esta noche (1967)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guest House (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joSZjIzoXWqdtb2tRGlIlibscv8.jpg" group-title="VOD - COMEDIA",Guest House (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guns Akimbo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Q2Ft1FSvcEh4MdusX5XVihhtaZ.jpg" group-title="VOD - COMEDIA",Guns Akimbo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Érase una vez Deadpool (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSFps0AIeRiO1OAf0IDTbQyI1kg.jpg" group-title="VOD - COMEDIA",Érase una vez Deadpool (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Medio flipado (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14TmEac4bquNaEld9t0uIliYoKE.jpg" group-title="VOD - COMEDIA",Medio flipado (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pase Libre (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgeAE9a5Vucq9ZLAhWHK9WEez3e.jpg" group-title="VOD - COMEDIA",Pase Libre (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Handsome: Una película de misterio de Netflix (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3REuVj3PhfL1TL3WjZGHOCTMSNw.jpg" group-title="VOD - COMEDIA",Handsome: Una película de misterio de Netflix (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100689.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannah Montana: La película (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xywrlinKKOhdEHeaOkLNE38Vetw.jpg" group-title="VOD - COMEDIA",Hannah Montana: La película (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100690.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy Anniversary (1959)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqeMrG8ybS2eu2rIATSsPqSypZH.jpg" group-title="VOD - COMEDIA",Happy Anniversary (1959)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happy Gilmore (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RnCeRzvI1xk5tuNWjpDKzSnJDk.jpg" group-title="VOD - COMEDIA",Happy Gilmore (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Scooby! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg" group-title="VOD - COMEDIA",¡Scooby! (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100693.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salvajemente tiernos (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEswYdWlg7pV9CR7yHcQVM5QePT.jpg" group-title="VOD - COMEDIA",Salvajemente tiernos (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hardball (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RMcwwnK8a9WCt8dVlwmtNsFCg3.jpg" group-title="VOD - COMEDIA",Hardball (2001)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Harpoon (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36zt0v54vRmgn1Zgvlfw0azQK9h.jpg" group-title="VOD - COMEDIA",Harpoon (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta que la boda nos separe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bkz7ZoqJMFziqF8yQzkmfMRUEG.jpg" group-title="VOD - COMEDIA",Hasta que la boda nos separe (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ahí os quedáis (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7taM3GRs0Buh6KiQoTLicbtIaAh.jpg" group-title="VOD - COMEDIA",Ahí os quedáis (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100698.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta que la muerte nos separe (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qc0YlkNq4UOgyQ3jo2zDIS5rd1t.jpg" group-title="VOD - COMEDIA",Hasta que la muerte nos separe (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100699.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hazlo como hombre (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBGKQRwj21s5dT6FjjU4ostqGaa.jpg" group-title="VOD - COMEDIA",Hazlo como hombre (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazones y almas (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ZzWtwtTxRWxE8rDVQvRQre5UR5.jpg" group-title="VOD - COMEDIA",Corazones y almas (1993)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La hechicera blanca (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMIzVvZs1dtw2WOIcFm7EeFkxcJ.jpg" group-title="VOD - COMEDIA",La hechicera blanca (1953)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Héctor y el secreto de la felicidad (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbuqgDyFtTzRvSrKxDWlzpTlbhm.jpg" group-title="VOD - COMEDIA",Héctor y el secreto de la felicidad (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta tiene tus ojos (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gchjqLpQUO4cVyRokWGbGJe4sD.jpg" group-title="VOD - COMEDIA",Hasta tiene tus ojos (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hola, mi nombre es Doris (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AujnHhniriDLPiAeLUhYO29XyxX.jpg" group-title="VOD - COMEDIA",Hola, mi nombre es Doris (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡He matado a mi marido! (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3A5jolVYMkQyYnrVYEnNkWWENKL.jpg" group-title="VOD - COMEDIA",¡He matado a mi marido! (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="He Never Died (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vzqwe4uuINJhbPqvlbVShBnCvHv.jpg" group-title="VOD - COMEDIA",He Never Died (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Herbie: A tope (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fGR6XeSLh9fdwG1OYE1hlcQ7YA.jpg" group-title="VOD - COMEDIA",Herbie: A tope (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peso pesado (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNxilhwnRmkzt7CaOF1vSVzNKEu.jpg" group-title="VOD - COMEDIA",Peso pesado (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hermanos (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xh8D5KUupEqJDkLlYKckuUw8rdN.jpg" group-title="VOD - COMEDIA",Hermanos (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dulce persuasión (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTbmRS9OBqACIlgRkTqHIc1n6lO.jpg" group-title="VOD - COMEDIA",Dulce persuasión (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Héroe a la fuerza (1941)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqEUgHX4QAGhQQ7qfv3G9bnimS5.jpg" group-title="VOD - COMEDIA",Héroe a la fuerza (1941)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superpoli de centro comercial (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC7BSAlGAOZt5XWEU2kyw1VW7RJ.jpg" group-title="VOD - COMEDIA",Superpoli de centro comercial (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Héroes, el asilo contra la opresión (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fb3uwevCZ5yZsI6qXrteTYuxC3j.jpg" group-title="VOD - COMEDIA",Héroes, el asilo contra la opresión (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qué les pasa a los hombres (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xA1V7JmGeGbXYaLxh3wLdTIwZ0.jpg" group-title="VOD - COMEDIA",Qué les pasa a los hombres (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical: El Musical: Especial Fiestas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Rc4mm0spGZ0wDGU2mCYV6wPZ7a.jpg" group-title="VOD - COMEDIA",High School Musical: El Musical: Especial Fiestas (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High School Musical (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRJsxMkKbDzys1BCcFPDnNyubd7.jpg" group-title="VOD - COMEDIA",High School Musical (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias lamentables (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vijoU09NBYoQ5VpawXj2AfGOmCw.jpg" group-title="VOD - COMEDIA",Historias lamentables (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hitch (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kH0kEKmrDtxxJh0rSUtecJYOpK.jpg" group-title="VOD - COMEDIA",Hitch (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hocus Pocus 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8nWP32MoCFowhET23peq5r0rrUF.jpg" group-title="VOD - COMEDIA",Hocus Pocus 2 (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor de calendario (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrrVDbl02FKuGoinanB0Y1aBr5W.jpg" group-title="VOD - COMEDIA",Amor de calendario (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad, loca Navidad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xKrI2vIIvJH4C4JbtYajFQGZZzC.jpg" group-title="VOD - COMEDIA",Navidad, loca Navidad (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Holmes & Watson (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61JOUNb35q6NRYoX4wgnrO3E3EH.jpg" group-title="VOD - COMEDIA",Holmes & Watson (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irrational Man (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jArBM3zbNwcdzjDIR9CTtkZCPH9.jpg" group-title="VOD - COMEDIA",Irrational Man (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Again (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEcfHyB7G4DdrOpRTXBN34bG4um.jpg" group-title="VOD - COMEDIA",Home Again (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100725.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Home Alone (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTmJSG2pXArGXBP1LSDysWfGKzJ.jpg" group-title="VOD - COMEDIA",Home Alone (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 2: Perdido en Nueva York (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sdiRUyc0ANHJptPhsgb1KL6hoq.jpg" group-title="VOD - COMEDIA",Solo en casa 2: Perdido en Nueva York (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vacas Vaqueras (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/merEoWh2Ju8AoYedYCW0faW9e9O.jpg" group-title="VOD - COMEDIA",Vacas Vaqueras (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cariño, he agrandado al niño (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ackCpY0MBMGKXhHRyRXUlS2P7qW.jpg" group-title="VOD - COMEDIA",Cariño, he agrandado al niño (1992)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cariño, he encogido a los niños (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LrMCqBGvOZtIUsSCSAdaPlgdyD.jpg" group-title="VOD - COMEDIA",Cariño, he encogido a los niños (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100730.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cariño, nos hemos encogido a nosotros mismos (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmikC90ioTTRGDtu7KtvVGUwu5o.jpg" group-title="VOD - COMEDIA",Cariño, nos hemos encogido a nosotros mismos (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terapia sexual (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEeDgvtvuTAoEoQbKl2VYWlTxnG.jpg" group-title="VOD - COMEDIA",Terapia sexual (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hope Springs Eternal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eo28MSJ50erE1oPg9XGk8yu9Cn1.jpg" group-title="VOD - COMEDIA",Hope Springs Eternal (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hop (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY6BhCR0YmVlnkcWkn28D45UYXp.jpg" group-title="VOD - ANIMACION",Hop (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo acabar con tu jefe (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rajhPyFtH3EJkb9S09d56cn3JiM.jpg" group-title="VOD - COMEDIA",Cómo acabar con tu jefe (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un engaño de lujo (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnv8Wgc7AkAuVG0WZiNXIo3wHCE.jpg" group-title="VOD - COMEDIA",Un engaño de lujo (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Horse Camp: A Love Tail (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l1KjWs1mrLlDWNBdhCHVOej0eS.jpg" group-title="VOD - COMEDIA",Horse Camp: A Love Tail (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Bot (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RDA2lNABrzve1FaeNfyrLKNhye.jpg" group-title="VOD - COMEDIA",Hot Bot (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hotel para perros (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YRcVjYVDaFdgqdnqvryLLDrkAm.jpg" group-title="VOD - COMEDIA",Hotel para perros (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Paraíso (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4XM7brrg5dleDrMyzdFupiVTD8.jpg" group-title="VOD - COMEDIA",Hotel Paraíso (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvania: Perrito (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg" group-title="VOD - COMEDIA",Hotel Transilvania: Perrito (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Pursuit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Hot Pursuit (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Shots! (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFhJA8CAl5rxH9zrfgj01SB5fNg.jpg" group-title="VOD - COMEDIA",Hot Shots! (1991)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Shots! 2 (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJ2XmBJP1f4mOKeVT2mKaGQQcy0.jpg" group-title="VOD - COMEDIA",Hot Shots! 2 (1993)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100744.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jacuzzi al pasado (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5U3qVbyhogGjP5so5zu0wgmvVUy.jpg" group-title="VOD - COMEDIA",Jacuzzi al pasado (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Prisionero en casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0xy56TzoZfA3x0BS5InDToTG6d.jpg" group-title="VOD - COMEDIA",Prisionero en casa (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100746.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How High 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mvqY71MAVMgUHILMVCdp64ymxLw.jpg" group-title="VOD - COMEDIA",How High 2 (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How the Grinch Stole Christmas!: Documentary (1966)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",How the Grinch Stole Christmas!: Documentary (1966)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100748.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo ser un latin lover (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oOgvJx8D1myuRRyUaTCDCNOYUA.jpg" group-title="VOD - COMEDIA",Cómo ser un latin lover (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100749.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El marido de mi hermana (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v510NMC15C5nQyLYYxq1JGwt6Xp.jpg" group-title="VOD - COMEDIA",El marido de mi hermana (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cómo entrenar a tu dragón: vuelta a casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n12wESAYZNqa88h4EzdD25bJRYR.jpg" group-title="VOD - COMEDIA",Cómo entrenar a tu dragón: vuelta a casa (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How to Train Your Husband (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bMgBzayFwhUIz2f5uQvyzfCilY.jpg" group-title="VOD - COMEDIA",How to Train Your Husband (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Halloween de Hubie (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHH1TvTUJT6P4n8qgFYrYpAZPdt.jpg" group-title="VOD - COMEDIA",El Halloween de Hubie (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El abuelo que saltó por la ventana y se largó (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qLspQ1VFWeR4tFPnXCZwih2qjBv.jpg" group-title="VOD - COMEDIA",El abuelo que saltó por la ventana y se largó (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A la caza de los ñumanos (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzu1NT7TXVY1DBxfHEX5yaeOFkC.jpg" group-title="VOD - COMEDIA",A la caza de los ñumanos (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Estafadoras de Wall Street (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAfcqDeRsuZ6pMko9PWm3ShxdnJ.jpg" group-title="VOD - COMEDIA",Estafadoras de Wall Street (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ibiza (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwGasekLyHjVFc1j99uTaxd6AmN.jpg" group-title="VOD - COMEDIA",Ibiza (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ice Princess (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",The Ice Princess (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ich war noch niemals in New York (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNmIkKRoOCK2w1Dnsx4svKEZSmo.jpg" group-title="VOD - COMEDIA",Ich war noch niemals in New York (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una familia ideal (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo7MrLQJYDa8PpkoPhyFlbV7J2h.jpg" group-title="VOD - COMEDIA",Una familia ideal (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diablo metió la mano (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTxy4Y6Ik4fMPi7dTyf7paGn5kB.jpg" group-title="VOD - COMEDIA",El diablo metió la mano (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ya no me siento a gusto en este mundo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83F2VoxKPxVxXIB5YaxLIf5g8H0.jpg" group-title="VOD - COMEDIA",Ya no me siento a gusto en este mundo (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Do... Until I Don't (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hA1n7s4dM734QqxtAwMhDUL7ns.jpg" group-title="VOD - COMEDIA",I Do... Until I Don't (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Qué guapa soy! (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgUdIs0UmxakUO8Go6BwgxEW9x8.jpg" group-title="VOD - COMEDIA",¡Qué guapa soy! (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I'll Be Home for Christmas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jecVCKLA2rttDps4jiFdtd0pA3n.jpg" group-title="VOD - COMEDIA",I'll Be Home for Christmas (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100765.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rhys Darby Live - Imagine That! (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJZiPXy0X4liL6zDirt2eoTz4Cz.jpg" group-title="VOD - COMEDIA",Rhys Darby Live - Imagine That! (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No estoy preparada para la Navidad (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjos0Ijhp2w2AhDtVhN4vrwCmMS.jpg" group-title="VOD - COMEDIA",No estoy preparada para la Navidad (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100767.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Imparables Una Batalla Para Morirse de Risa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axjf30DnOh4ijvQRBdKn9xRywKu.jpg" group-title="VOD - COMEDIA",Imparables Una Batalla Para Morirse de Risa (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100768.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agárralos como puedas: La película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="VOD - COMEDIA",Agárralos como puedas: La película (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100769.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Activity (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PbXUA62YnV2VN493t3TYEbu3zz.jpg" group-title="VOD - COMEDIA",Paranormal Activity (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100770.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiltrado en el KKKlan (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYVHHvrflaszZ6sy2vmEol5fNuF.jpg" group-title="VOD - COMEDIA",Infiltrado en el KKKlan (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ingrid cambia de rumbo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzzTHAeKleos0xDlYCos6uxS7Z9.jpg" group-title="VOD - COMEDIA",Ingrid cambia de rumbo (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Familia al instante (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVxmxH7IYL7hnioTBOAPIw2vbr1.jpg" group-title="VOD - COMEDIA",Familia al instante (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100773.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intercambiadas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/59U94ktSczYkAxPsfMKGr2OxriZ.jpg" group-title="VOD - COMEDIA",Intercambiadas (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cambio de princesa (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKnrPXQp3sHeweARJ2oWFZNdjP5.jpg" group-title="VOD - COMEDIA",Cambio de princesa (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intocable (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edPWyHqknFuxFY3sdmC3LtJITWC.jpg" group-title="VOD - COMEDIA",Intocable (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100776.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In Vino (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld8lrK4met4hhGKRUATTAppBsXF.jpg" group-title="VOD - COMEDIA",In Vino (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo, yo mismo e Irene (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Jx2FzdKUYqF3BojG65xjqIG9aj.jpg" group-title="VOD - COMEDIA",Yo, yo mismo e Irene (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Y nadie más que tú (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AirCG0NgNf2BkMsIcgSEHj5I8VP.jpg" group-title="VOD - COMEDIA",Y nadie más que tú (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Irresistible (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDY7wy3eXV9zrkakIsftmxJkOdM.jpg" group-title="VOD - COMEDIA",Irresistible (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Isi & Ossi (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7siFsEYnwCQfAezhupnjogPMoM.jpg" group-title="VOD - COMEDIA",Isi & Ossi (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿No es romántico? (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvLtW2LPRYbyaXgoC0UA2RsK68T.jpg" group-title="VOD - COMEDIA",¿No es romántico? (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It Came from the Desert (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZsLtCJW1eJabOxlZrZfaalGIki.jpg" group-title="VOD - COMEDIA",It Came from the Desert (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100783.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Es un desastre (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZEHuBDBiN7GkjUT2nXN2kIsPtU.jpg" group-title="VOD - COMEDIA",Es un desastre (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jab Harry Met Sejal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGLhePoB4ysy61AnVSW7ptKNR2y.jpg" group-title="VOD - COMEDIA",Jab Harry Met Sejal (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100785.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tgyA4EhIp3XrWCgo2Q12UfJJNba.jpg" group-title="VOD - COMEDIA",Jack (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100786.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Frost (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7le9wfR8Au81orwMSTvO2KCji7c.jpg" group-title="VOD - COMEDIA",Jack Frost (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armas invencibles (Police Story) (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3k1bbd1q4GubtFJZ3reHlr5IUjw.jpg" group-title="VOD - COMEDIA",Armas invencibles (Police Story) (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Love You, A Divorce Comedy (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJXrPk8NawiTXmFkeK1k83iXeUW.jpg" group-title="VOD - COMEDIA",I Love You, A Divorce Comedy (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fierce (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZeo5M4S8g6SjJMtquTz0nyKNVU.jpg" group-title="VOD - COMEDIA",Fierce (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Japy Ending (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fB8AM27TOgFRGC08G0GHSPMXauS.jpg" group-title="VOD - COMEDIA",Japy Ending (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100791.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jawbreaker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NdTAWPFluR4DRVdrSztLiVx91R.jpg" group-title="VOD - COMEDIA",Jawbreaker (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100792.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jay y Bob el silencioso: El reboot (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUZxdGtU6BDgvQQDScaawvm7EhI.jpg" group-title="VOD - COMEDIA",Jay y Bob el silencioso: El reboot (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100793.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Jasmine (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zLdLiUJfueZBctdv8OvkmGXEHEC.jpg" group-title="VOD - COMEDIA",Blue Jasmine (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100794.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jeff y los suyos (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oArALbnUOOXzwO7XGwIkmpQV3kt.jpg" group-title="VOD - COMEDIA",Jeff y los suyos (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No soy un hombre fácil (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lyvClxJIl815HaBVBZK9RQsysCO.jpg" group-title="VOD - COMEDIA",No soy un hombre fácil (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jerry Maguire (1996)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyEECX6JopQfJPbfVi4sRVLKGpy.jpg" group-title="VOD - COMEDIA",Jerry Maguire (1996)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jexi, Un Celular Sin Filtros (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag2UqdvJMZxVlGJLoZhH1tdNKgu.jpg" group-title="VOD - COMEDIA",Jexi, Un Celular Sin Filtros (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jingle All the Way (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4kgOZ3OAhwORbYhJRHlY3iy1rC.jpg" group-title="VOD - COMEDIA",Jingle All the Way (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jingle All the Way (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4kgOZ3OAhwORbYhJRHlY3iy1rC.jpg" group-title="VOD - COMEDIA",Jingle All the Way (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjC6Rez0CiqHAX3JgeDh1Rsshmv.jpg" group-title="VOD - COMEDIA",Johnny English (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny English (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjC6Rez0CiqHAX3JgeDh1Rsshmv.jpg" group-title="VOD - COMEDIA",Johnny English (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100802.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5S9XtXSfSZg0G6ulZHQuzSF6DH.jpg" group-title="VOD - COMEDIA",Jojo Rabbit (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jolly LLB 2 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTU9iXeQNuGdpFLrsktC3pkETYG.jpg" group-title="VOD - COMEDIA",Jolly LLB 2 (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viaje al Oeste: La conquista de los Demonios (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJhzymkkH6ZqDoj4rZOPH2cOnMU.jpg" group-title="VOD - COMEDIA",Viaje al Oeste: La conquista de los Demonios (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teen Titans Go! La película (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmzo3AWNkXgcGJOk8plAyK5II7h.jpg" group-title="VOD - COMEDIA",Teen Titans Go! La película (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Joy (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/drHYguFkQO4nQQFUhRYqIbl45oT.jpg" group-title="VOD - COMEDIA",Joy (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juego de armas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwBcQXp7WgYgrcANpnuLCCfLpkK.jpg" group-title="VOD - COMEDIA",Juego de armas (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jugando a bailar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khbWEbYoJfEbXLSHl0LSgrIV9wP.jpg" group-title="VOD - COMEDIA",Jugando a bailar (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100809.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda del luchador borracho (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBcsGcLuDXYQCZGEjyRd8QM0Xmm.jpg" group-title="VOD - COMEDIA",La leyenda del luchador borracho (1994)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100810.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: siguiente nivel (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1bTpxh0lRfw7kwRrWPeMOo7jbY.jpg" group-title="VOD - COMEDIA",Jumanji: siguiente nivel (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100811.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: Bienvenidos a la jungla (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg" group-title="VOD - COMEDIA",Jumanji: Bienvenidos a la jungla (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jungle Beat: la película (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6IjiO9J0QtbN6O5VCwhCXxlR01.jpg" group-title="VOD - COMEDIA",Jungle Beat: la película (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juno (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNsTyFMwttq3Ag55fXNhTpFDH9R.jpg" group-title="VOD - COMEDIA",Juno (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bienvenidos a Villa Capri (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg" group-title="VOD - COMEDIA",Bienvenidos a Villa Capri (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Just Like Heaven (1930)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vQ5dESyBFEwas8wsx6Ks9GlIjlX.jpg" group-title="VOD - COMEDIA",Just Like Heaven (1930)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Just Before I Go (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEwXZIOh3CLVA5JJmxT5kaYY6ff.jpg" group-title="VOD - COMEDIA",Just Before I Go (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un chico como todos (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQiBDkTvspSGxDfNSjTuBP4bsZX.jpg" group-title="VOD - COMEDIA",Un chico como todos (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="K (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34JN5ZW3J9dlaIs4UmBL3YjPQqv.jpg" group-title="VOD - COMEDIA",K (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="K (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34JN5ZW3J9dlaIs4UmBL3YjPQqv.jpg" group-title="VOD - COMEDIA",K (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="K (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34JN5ZW3J9dlaIs4UmBL3YjPQqv.jpg" group-title="VOD - COMEDIA",K (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Canguro Jack: trinca y brinca (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEJ6J0NqToxw9g4CDaY9JQMHVx5.jpg" group-title="VOD - COMEDIA",Canguro Jack: trinca y brinca (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Keanu (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zztcso1bq32yzns0RI7fWYGF6yS.jpg" group-title="VOD - COMEDIA",Keanu (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kick-Ass: Listo para machacar (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/GPiMXaDC2NdDIldLgtijHFTeKH.jpg" group-title="VOD - COMEDIA",Kick-Ass: Listo para machacar (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kick-Ass 2: Con un par (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUPNbrTpHkxIr7HZcvxFxvAWPbC.jpg" group-title="VOD - COMEDIA",Kick-Ass 2: Con un par (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100825.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesinos internacionales (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnMzySwb7LXciqWnGsTexNO8mgM.jpg" group-title="VOD - COMEDIA",Asesinos internacionales (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Don't Kill Your Friends (1943)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",Don't Kill Your Friends (1943)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kim Possible (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t37Xa74GFO1R3kebocqSV4hFrPO.jpg" group-title="VOD - COMEDIA",Kim Possible (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poli de guardería 2 (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j973UIvDfA9dskJKpij6rwMnyla.jpg" group-title="VOD - COMEDIA",Poli de guardería 2 (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poli de guardería (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zfA1yS6ytVSZAbtvY96Sse5w8ah.jpg" group-title="VOD - COMEDIA",Poli de guardería (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100830.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kingpin (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ernXGwiQXfnbYFWifcbCbXY43IT.jpg" group-title="VOD - COMEDIA",Kingpin (1985)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Besando a Jessica Stein (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b2g8QZRLTJMYyzc3HirTSRQpLW.jpg" group-title="VOD - COMEDIA",Besando a Jessica Stein (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los juegos del desmadre (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crBaf3upWbYAozPKfuqym7BxnwB.jpg" group-title="VOD - COMEDIA",Los juegos del desmadre (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Knock (1951)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWDYV3ixNiAr3wkNIlLDvDgvjGm.jpg" group-title="VOD - COMEDIA",Knock (1951)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100834.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lío embarazoso (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPavVkWLZSfWDt1r4ao9NvJHTk4.jpg" group-title="VOD - COMEDIA",Lío embarazoso (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100835.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Sion (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cMVfbypyu34ckTBgMsoRT92j2pN.jpg" group-title="VOD - COMEDIA",Kung Fu Sion (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100836.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gJlyA7f4kMus9xK1ZUzq98rwcmz.jpg" group-title="VOD - COMEDIA",Kung Fu Yoga (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100837.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La barbería (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykItJVBuFgGD1e4E5hSmhu5vKBg.jpg" group-title="VOD - COMEDIA",La barbería (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100838.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La boda de la abuela (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eA0QVLSymgfTgqAtB6AdWAU5t6Q.jpg" group-title="VOD - COMEDIA",La boda de la abuela (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100839.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La boda de mi mejor amigo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waiJHHLu3nYllYFGKsq47SXGGSS.jpg" group-title="VOD - COMEDIA",La boda de mi mejor amigo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100840.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Boda de Valentina (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sD6o09KA4KyxWvvB8rKn8bQuuD5.jpg" group-title="VOD - COMEDIA",La Boda de Valentina (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100841.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La hoja de la caleta (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2xXTL1fA3SLOVJEXEFfKWkWTp8.jpg" group-title="VOD - COMEDIA",La hoja de la caleta (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100842.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La chica de mis sueños (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqJLJ9MdAawaGR5LfwQrKcKUq5r.jpg" group-title="VOD - COMEDIA",La chica de mis sueños (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100843.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El castigo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPLPweckMeuC7VmqflRrGvcTedQ.jpg" group-title="VOD - COMEDIA",El castigo (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cruda realidad (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81eqmgy7KaozQSMtO2OeGwwSsiL.jpg" group-title="VOD - COMEDIA",La cruda realidad (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La dictadura perfecta (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pjNWekSbafFIPLBNZQ9gUaX3tkV.jpg" group-title="VOD - COMEDIA",La dictadura perfecta (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ice Age: La edad de hielo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg" group-title="VOD - COMEDIA",Ice Age: La edad de hielo (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ice Age 2: El deshielo (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnBEdWq5gplaAgTmYFg4cq89mWi.jpg" group-title="VOD - COMEDIA",Ice Age 2: El deshielo (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ice Age 3: El origen de los dinosaurios (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OiDvlOXSyXB90pl4c3Qcl2w5yR.jpg" group-title="VOD - COMEDIA",Ice Age 3: El origen de los dinosaurios (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ice Age Continental Drift: Scrat Got Your Tongue (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLSqfBLi1mfICheuNUSN4Kc2HIb.jpg" group-title="VOD - COMEDIA",Ice Age Continental Drift: Scrat Got Your Tongue (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Bélier (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mU5y9kc6Zkg4FMf3KRzL1kCCzV.jpg" group-title="VOD - COMEDIA",La familia Bélier (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia de mi ex (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGP2DxJqvPQ8gUF48KDFvdufw23.jpg" group-title="VOD - COMEDIA",La familia de mi ex (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La flor de mi secreto (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyubZkd8Kuq4tsyF7DNJ8qMqx5M.jpg" group-title="VOD - COMEDIA",La flor de mi secreto (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la boda de mi hermana (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJ9iDHCkrVrW4Xm7pTOimLSZWh2.jpg" group-title="VOD - COMEDIA",En la boda de mi hermana (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gran boda (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uLBXjYsjHpQrbXu6GxlBqO3tKFi.jpg" group-title="VOD - COMEDIA",La gran boda (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Vaya clase! (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycEch0xv8EaiKeXiGfIcAA7oiOq.jpg" group-title="VOD - COMEDIA",¡Vaya clase! (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gran seducción (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yMWOzmJ8WYoFe78h6Zg3Ui4qVFM.jpg" group-title="VOD - COMEDIA",La gran seducción (2003)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La herencia (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - COMEDIA",La herencia (1964)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La vida secreta de Walter Mitty (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eE50Pvy1RZXZwR7DN9AK9DiF5Q.jpg" group-title="VOD - COMEDIA",La vida secreta de Walter Mitty (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La jaula del pajaro (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9eE50Pvy1RZXZwR7DN9AK9DiF5Q.jpg" group-title="VOD - COMEDIA",La jaula del pajaro (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Es la jefa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6FBH7uJXmnFYxBmeZokd20eLB4.jpg" group-title="VOD - COMEDIA",Es la jefa (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA LA Land (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmdBXLTDzTaWzxcY32vz8CSpzbQ.jpg" group-title="VOD - COMEDIA",LA LA Land (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ley de Herodes (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1rlZ7v5Rj5pYaDMzRr9BaeRhMU9.jpg" group-title="VOD - COMEDIA",La ley de Herodes (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Limpia, la Chancha y la Santa María (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mORQ2m1raomHfq1pDA5BRBriNl0.jpg" group-title="VOD - COMEDIA",La Limpia, la Chancha y la Santa María (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La llamada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HvtsruMolE6w59HETXMfInc2DA.jpg" group-title="VOD - COMEDIA",La llamada (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maldición del guapo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ABPIUINn2zZWtyW8xPsCppT7OB.jpg" group-title="VOD - COMEDIA",La maldición del guapo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Maravilla (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pIRia9ZqoGbzNRlJujsxnvg4mXW.jpg" group-title="VOD - COMEDIA",La Maravilla (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El chico ideal (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzDJ7QqogUYa5pVAMHdq6HHFLjQ.jpg" group-title="VOD - COMEDIA",El chico ideal (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Santa Claus & Cia (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ows7ZifPJZZtoHT9mqK9yj3wXhe.jpg" group-title="VOD - COMEDIA",Santa Claus & Cia (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un acuerdo original (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF9EpblPjHUYr2RbUbmHT0TpUoR.jpg" group-title="VOD - COMEDIA",Un acuerdo original (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La muerte de Stalin (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f1zi3RFvzG1otZPsmTovnF9YKk.jpg" group-title="VOD - COMEDIA",La muerte de Stalin (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matrimonio compulsivo (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mA31BQikiOOUT4mMQaSfzGrrrGW.jpg" group-title="VOD - COMEDIA",Matrimonio compulsivo (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos colgaos muy fumaos en Navidad (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yCztYSVwTfkgzQFNWhQAD1r2jWg.jpg" group-title="VOD - COMEDIA",Dos colgaos muy fumaos en Navidad (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rosas rojas (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zTZoOV61Gc7UMjMHRzY9yCEljY.jpg" group-title="VOD - COMEDIA",Rosas rojas (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La odisea de los giles (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rVakDWkFn1G0z6e1tRRY5IZ3aa.jpg" group-title="VOD - COMEDIA",La odisea de los giles (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La pantera rosa (1963)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v9yCA2YBRvdfVlwGuvDJGJGBMrX.jpg" group-title="VOD - COMEDIA",La pantera rosa (1963)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La pantera rosa 2 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVUZfXbq473EIyJKpUkG3TfU8tC.jpg" group-title="VOD - COMEDIA",La pantera rosa 2 (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Relatos salvajes - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg" group-title="VOD - DRAMA",Relatos salvajes - 2014
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La puntuación perfecta (The Perfect Score) (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSgYv79YJpIlcMk7OOe4G5XtIRJ.jpg" group-title="VOD - COMEDIA",La puntuación perfecta (The Perfect Score) (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ascenso (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpcoSp9vAU6xi45ZPhSoObn0TgL.jpg" group-title="VOD - COMEDIA",El ascenso (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Agente contrainteligente (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayiquxEI0ZluC5GyV2FjwaFPJyW.jpg" group-title="VOD - DRAMA",Agente contrainteligente (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Gringo (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM2bXInHW0CQdRDgM5GiJjAV1QQ.jpg" group-title="VOD - DRAMA",El Gringo (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terapia sexual de grupo (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIm2mHK892iPQlCAoLoNcDUMzl.jpg" group-title="VOD - DRAMA",Terapia sexual de grupo (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grown-Ups (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU8oXIXh6W94vTKJrzNFc7ibGNx.jpg" group-title="VOD - DRAMA",Grown-Ups (1980)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grown-Ups - 1980" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU8oXIXh6W94vTKJrzNFc7ibGNx.jpg" group-title="VOD - DRAMA",Grown-Ups - 1980
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1100888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kimi (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im91Ho4WkhVroehZJiIUoOF6UIl.jpg" group-title="VOD - CIENCIA FICCION",Kimi (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The King's Man: La Primera Misión (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euaYmyoNEr3SKl5YumLIBnzUL8n.jpg" group-title="VOD - ACCION",The King's Man: La Primera Misión (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Especiales (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PNYpe8iqI9wxAoZRZvJaOdQDV.jpg" group-title="VOD - COMEDIA",Especiales (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al viento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2lylZT9Czehopiln1D9hc1Bb84.jpg" group-title="VOD - COMEDIA",Al viento (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bigbug (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eh6OYVImLCHKMjtBQZRH4hauaND.jpg" group-title="VOD - COMEDIA",Bigbug (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quiero que vuelvas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/an4HVcLT4Ce2aXgxuSEnJ1UDdfp.jpg" group-title="VOD - COMEDIA",Quiero que vuelvas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Into the Wind (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM9m2JH9TFMfFxDERW9pufJ5szR.jpg" group-title="VOD - DOCUMENTALES",Into the Wind (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cásate conmigo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WdURWXQCsVpwy4OfA2uxk4Jkci.jpg" group-title="VOD - ROMANCE",Cásate conmigo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tall Girl 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyKkLdst2vFRjCC89C3NqGCLpNE.jpg" group-title="VOD - DRAMA",Tall Girl 2 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cielo está en cualquier lugar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7gkTKPJ5lssacKTrhA3gOU1n0s.jpg" group-title="VOD - MUSICALES",El cielo está en cualquier lugar (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El estafador de Tinder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9nRmgoxc0gQkTmKbtIJL9imvq1.jpg" group-title="VOD - DOCUMENTALES",El estafador de Tinder (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amarrados al amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDQOXcUs4hJvLlpkYn5VK0szzZF.jpg" group-title="VOD - ROMANCE",Amarrados al amor (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anne+: La película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ch6G66SUe80YWEvTFe6mAKAwmdt.jpg" group-title="VOD - ROMANCE",Anne+: La película (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tácticas en el amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKlw8J7qJxOFyQYkLIPCAb1iYUp.jpg" group-title="VOD - ROMANCE",Tácticas en el amor (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belfast (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7eUyUe3yLWsvx9yYfqwg4wQXeng.jpg" group-title="VOD - DRAMA",Belfast (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eiffel (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o55rQ68NAwCON1Xlcj14NwpzPbR.jpg" group-title="VOD - DRAMA",Eiffel (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Happily (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNa1S8TQrloNM7IUNatP8O3DaL8.jpg" group-title="VOD - COMEDIA",Happily (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hide and Seek (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4osu6px7spCjIP8ZkS4IJ8K0ZyW.jpg" group-title="VOD - SUSPENSO",Hide and Seek (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor Artificial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIJzuZpCzsCTcHISMWbAwDt2LGc.jpg" group-title="VOD - COMEDIA",Amor Artificial (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dating & New York (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lktpcVcrDHH3RWCvY2URYuKN0VC.jpg" group-title="VOD - ROMANCE",Dating & New York (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La panelista: el circo de la realidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecOg2VBXG9cBDyarB6nECr8s7Fk.jpg" group-title="VOD - SUSPENSO",La panelista: el circo de la realidad (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Hating Game (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLZhgPtOLHr2dmr2mHS0DbHYvv2.jpg" group-title="VOD - ROMANCE",The Hating Game (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Young Hearts (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmuOgRtErXA3tkeN2efUB3Wb0EO.jpg" group-title="VOD - COMEDIA",Young Hearts (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Underdog (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3iXpvLPG4DbmuNY9yPjn1Ei54.jpg" group-title="VOD - DRAMA",American Underdog (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cruzando la Línea (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znyk4uvq9eduQCVMOSDJwJBMRdF.jpg" group-title="VOD - CRIMEN",Cruzando la Línea (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Other Lamb (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2ggOQfdEqKJcK206I30rqF2Q1T.jpg" group-title="VOD - TERROR",The Other Lamb (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las locuras de Dick y Jane (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtUvZea8Uxou8ydgKr1x5H6nvKQ.jpg" group-title="VOD - COMEDIA",Las locuras de Dick y Jane (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadlock (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uiSoCt2DxNQmzrLtgV54DfYOkyH.jpg" group-title="VOD - ACCION",Deadlock (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venganza a golpes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pOdSYjmnX61Nh9sMyztwnPJe98.jpg" group-title="VOD - ACCION",Venganza a golpes (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perdona nuestras ofensas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1cc4VckkOaQD9KMKUPxfCRVBky.jpg" group-title="VOD - DRAMA",Perdona nuestras ofensas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madres paralelas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxp4W9QtHOOdi2VfgUmB9AtljvA.jpg" group-title="VOD - DRAMA",Madres paralelas (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIgmdAhesIqn2ykJfbNFMQYdxkO.jpg" group-title="VOD - TERROR",Scream (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Matanza de Texas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg" group-title="VOD - TERROR",La Matanza de Texas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Non mi uccidere (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V65tNvVB5pcABiYohOEKy5ghvU.jpg" group-title="VOD - TERROR",Non mi uccidere (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119612.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ride the Eagle (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLQk1rKQ6dZOle3ElEFIIche6O4.jpg" group-title="VOD - COMEDIA",Ride the Eagle (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119613.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Años de sequía (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdzomeynhbMqIm8vjYCrLCBMlt2.jpg" group-title="VOD - CRIMEN",Años de sequía (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El buen patrón (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfUBHRYmbzkIw7lQZ3ZcptbW3VI.jpg" group-title="VOD - COMEDIA",El buen patrón (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La sombra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRln20Ry2dRJgBTGgpZg0yzccCU.jpg" group-title="VOD - DRAMA",La sombra (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No me mates (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1V65tNvVB5pcABiYohOEKy5ghvU.jpg" group-title="VOD - TERROR",No me mates (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted K (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPSPiHnhcZUshGC1CV5JcJpcIzB.jpg" group-title="VOD - CRIMEN",Ted K (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Licorice Pizza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ASO5vN6tImSLqw2BhLBxnrwVPd.jpg" group-title="VOD - COMEDIA",Licorice Pizza (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Later Days (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHonJ5xeVVAW6oJ0mjLoorTuRoj.jpg" group-title="VOD - COMEDIA",Later Days (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119620.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pursuit (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SerAlGoQl1hNSyDumBMCqZ6Zd9.jpg" group-title="VOD - ACCION",Pursuit (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119621.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monday (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4Gc5quiCBtiW6mgkPvDWKAiFVs.jpg" group-title="VOD - DRAMA",Monday (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119622.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La intervención (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyhigFBUp0uqPztHwIB4IolQjA5.jpg" group-title="VOD - ACCION",La intervención (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119623.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OVNI (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMtKov3q8stWGcy7UFuRzpMliUy.jpg" group-title="VOD - DRAMA",OVNI (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119624.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Géminis: El planeta oscuro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LgnqXsOWsAvyLyhzsZhFS0jwu7.jpg" group-title="VOD - CIENCIA FICCION",Géminis: El planeta oscuro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desesperada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6Pg9eTklhg6Aa7kXaxrfdE1Chi.jpg" group-title="VOD - SUSPENSO",Desesperada (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A House on the Bayou (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qCUy997QKgZDieby5sF6mMHAsB.jpg" group-title="VOD - TERROR",A House on the Bayou (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Refugee (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isAGLrCGprcmYrpFLX0Amr4g6AS.jpg" group-title="VOD - SUSPENSO",American Refugee (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El final de la verdad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qtSTajNZQAlRnOIYfd6IpRb3PF.jpg" group-title="VOD - DRAMA",El final de la verdad (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Natural Disasters (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4tDqbdcyhjro61AWbIwDVNVsQb.jpg" group-title="VOD - COMEDIA",Natural Disasters (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119638.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la tormenta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSzXGKL7mXPabcbRf7d4vKFlrXd.jpg" group-title="VOD - SUSPENSO",En la tormenta (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119639.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin respiro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RbvTtVXwmjJqB9cZXBtM5uz5ou.jpg" group-title="VOD - ACCION",Sin respiro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="West Side Story (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzF4FS20N7UZUMHw7dsfPk8dS8Q.jpg" group-title="VOD - DRAMA",West Side Story (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desperate Riders (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pYYGm1dWZGkbJuhcuaHD6nE6k7.jpg" group-title="VOD - WESTERN",Desperate Riders (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Allí me encontrarás (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDMT90p0KaqMqIPCqPi8u631RqS.jpg" group-title="VOD - ROMANCE",Allí me encontrarás (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="#Aquíestoy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldjLaSK3TMcAoCN5114jUnluHHI.jpg" group-title="VOD - ROMANCE",#Aquíestoy (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi maravillosa vida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32FStOrYlaKTitw9m4ue3WmQTRX.jpg" group-title="VOD - COMEDIA",Mi maravillosa vida (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ocupación (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZAKMXiWAMusygBQYIFBW9hEb3u.jpg" group-title="VOD - ACCION",Ocupación (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso a casa de Madea (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a98l9jruh8MuquTe6hrd8vSieN1.jpg" group-title="VOD - COMEDIA",El regreso a casa de Madea (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Our Ladies (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXEoyuaNoDAJwvftQhVBhDo8HpK.jpg" group-title="VOD - COMEDIA",Our Ladies (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119648.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin escapatoria (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/of2o1X7fgxWpux2fVjk4iqsqTvh.jpg" group-title="VOD - CRIMEN",Sin escapatoria (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Overrun (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MvkScPKwLBhTLj6RRIyIlDE4cM.jpg" group-title="VOD - ACCION",Overrun (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hoax (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hK7s0dsNLGyEFokHyvyyTj1KCYL.jpg" group-title="VOD - TERROR",Hoax (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ida Red: el precio de la libertad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsahbEsbg9roi4sfwZb5pNXZu42.jpg" group-title="VOD - CRIMEN",Ida Red: el precio de la libertad (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119682.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Percy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uCUkbZ34pQyyCOpT3DTypWI8ivP.jpg" group-title="VOD - DRAMA",Percy (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fin de semana en Croacia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MS0QEl7UK2gdFFbHfNwuYlsq4H.jpg" group-title="VOD - SUSPENSO",Fin de semana en Croacia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belle (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uboCDV8S5qOfV1PLyKXb9Wc4EL0.jpg" group-title="VOD - ANIMACION",Belle (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cursed - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYobaxr1JHhmOSszqQh5Aj4Viiu.jpg" group-title="VOD - TERROR",The Cursed - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Matanza de Texas - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VnuxwgdMBEgVO7VKvkW6nmYfaM.jpg" group-title="VOD - TERROR",La Matanza de Texas - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Proyecto Adam - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5waciRFMN5bwudDrgFLffoAorm.jpg" group-title="VOD - AVENTURA",El Proyecto Adam - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Bunker Game - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UT5YTxwGPhHsK4dJ3CAOhqlCAi.jpg" group-title="VOD - ACCION",The Bunker Game - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119969.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doce en casa - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGYAfIqMiTtNUMrtOPgWLxYKTrE.jpg" group-title="VOD - COMEDIA",Doce en casa - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUupIkIKPpNLYniPGRxRpEQFrX3.jpg" group-title="VOD - ANIMACION",Red (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1119971.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aguas Profundas - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aarAi6bp8Cl3RYXy2lpeLc1hGS7.jpg" group-title="VOD - DRAMA",Aguas Profundas - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cangrejo negro - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDpOsSN8mHL4iIxs9trPRFtekWx.jpg" group-title="VOD - ACCION",Cangrejo negro - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Al 3er día - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IC0oLKeDrGEUVxkYK2D0Nsa3o7.jpg" group-title="VOD - TERROR",Al 3er día - 2020
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hoy se arregla el mundo - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QFiRicoeI9uvOgEPvRFciuhOUM.jpg" group-title="VOD - DRAMA",Hoy se arregla el mundo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eternals - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wPZ5n5LlzFFdO5lFJbi2qmaE6w7.jpg" group-title="VOD - UNIVERSO MARVEL",Eternals - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jackass Forever (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3drKDbiGXA8LVpDAkqhLXnwgcRP.jpg" group-title="VOD - COMEDIA",Jackass Forever (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bang! Bang! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aK4gFQC46DLxjttqWU22WX5St32.jpg" group-title="VOD - ACCION",Bang! Bang! (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chacun chez soi - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8gJptfJcqUHy1Wq7oeN0UIV2U1.jpg" group-title="VOD - CINE LATINO",Chacun chez soi - 2000
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dolphin Kick (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYQQP7fDjfKqL7MXapZioPbuPkt.jpg" group-title="VOD - AVENTURA",Dolphin Kick (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ecos de un crimen (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ilviUUwqRzWDgOYqjZTmlUFbxR.jpg" group-title="VOD - SUSPENSO",Ecos de un crimen (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="S.O.S. Mamis: La película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dubFxWUiXW4QzOygVsChYYIuzfx.jpg" group-title="VOD - COMEDIA",S.O.S. Mamis: La película (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sex Appeal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg" group-title="VOD - COMEDIA",Sex Appeal (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La abuela (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kwW0Dl0pl50Uq1MHuWuIwTehjsm.jpg" group-title="VOD - TERROR",La abuela (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One Piece: Estampida (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyDaLADqd2BUUk0kRDtmaX3sjQV.jpg" group-title="VOD - ANIMACION",One Piece: Estampida (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un lugar seguro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsVvFYZ0HqZsXinbPd2f4lo2bPC.jpg" group-title="VOD - DRAMA",Un lugar seguro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boonie Bears: Aventura en la prehistoria (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56trXlUg8JZp5sLzL7kF2q8kFNd.jpg" group-title="VOD - ANIMACION",Boonie Bears: Aventura en la prehistoria (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pasajero 666 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/im1sYcEskurUCIknzAcytaLoPzE.jpg" group-title="VOD - TERROR",Pasajero 666 (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tooth Fairy: The Last Extraction (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfOQDFtmuzkqsiTcGepIw7P3ywS.jpg" group-title="VOD - TERROR",Tooth Fairy: The Last Extraction (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scarlett (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDOxuzoRcDa9RoNDu8zNdLUtTeX.jpg" group-title="VOD - ACCION",Scarlett (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="1942: La Gran Ofensiva (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgUaucXoVmNdI2SyeJyPCxm0Psr.jpg" group-title="VOD - DRAMA",1942: La Gran Ofensiva (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apocalipsis ártico (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yOakcmbhgV0PXaUvL6iCzxeeb3.jpg" group-title="VOD - ACCION",Apocalipsis ártico (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Efímera como la flor del cerezo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tAECviEBRWNQb2Q0ykJMyQrvKmp.jpg" group-title="VOD - ROMANCE",Efímera como la flor del cerezo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vaiana - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6wkgEH1gTWAafH9Bc7cNNut0Kf.jpg" group-title="VOD - ANIMACION",Vaiana - 2016
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120518.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OLIVIA RODRIGO: driving home 2 u (a SOUR film) - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8tVvNTIDL2KP7a5iLDtqF2NhNL.jpg" group-title="VOD - MUSICALES",OLIVIA RODRIGO: driving home 2 u (a SOUR film) - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El experimento (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6t4i4JjUQ9GdcPekVJi01w5DJzQ.jpg" group-title="VOD - SUSPENSO",El experimento (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noe4dNuEbqj7xIjgOFkTOohRsNC.jpg" group-title="VOD - ACCION",Moonfall (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="War of the Worlds: Annihilation (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5m2OdCIJA3nRpXY8PTiZ8OgjHdb.jpg" group-title="VOD - ACCION",War of the Worlds: Annihilation (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paper Spiders (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7DP29dGmnvpoHDTXIoIXJCysGZe.jpg" group-title="VOD - DRAMA",Paper Spiders (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jinetes de la justicia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SfoAbAcXCcNb1V3GpPPJG6OLFB.jpg" group-title="VOD - ACCION",Jinetes de la justicia (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monica Y Sus Amigos Lecciones (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ksQfIiWmyu9x4FbNBW5aNclVqu.jpg" group-title="VOD - AVENTURA",Monica Y Sus Amigos Lecciones (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte en el Nilo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWB5i8r8EprS75q7rSGCszOrOH0.jpg" group-title="VOD - CRIMEN",Muerte en el Nilo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Granizo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg" group-title="VOD - COMEDIA",Granizo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="FRANCO ESCARAMILLA" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - DOCUMENTALES",FRANCO ESCARAMILLA
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120957.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Contractor - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJPGPZ5soaG27MK90oKpioSiJE2.jpg" group-title="VOD - ACCION",The Contractor - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Burbuja - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edYk5TSowZIDv138bCpF5ls3XI5.jpg" group-title="VOD - COMEDIA",La Burbuja - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moonshot - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nchaDv1TpVNAATnYoW2mrncGsKV.jpg" group-title="VOD - COMEDIA",Moonshot - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sueño de Nate - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4j5q0XIzsOKgnFB06ztsqxaaaC3.jpg" group-title="VOD - COMEDIA",El sueño de Nate - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batalla: Freestyle - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdgUNCruHI6jX9TU4vvplgpDtL7.jpg" group-title="VOD - ROMANCE",Batalla: Freestyle - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moonfall - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noe4dNuEbqj7xIjgOFkTOohRsNC.jpg" group-title="VOD - ACCION",Moonfall - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1120996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Caballo soñador (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNMl35wMYOPXv5SqBUSurb89HhS.jpg" group-title="VOD - COMEDIA",Caballo soñador (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121120.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Competencia Oficial (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTS9GzhfHbof7LeR9GYZWKi8L5F.jpg" group-title="VOD - COMEDIA",Competencia Oficial (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121121.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Captain Nova (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/prINReSbCkoktcRbrIgmbY4f0tp.jpg" group-title="VOD - AVENTURA",Captain Nova (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121122.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siempre en el mejor momento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g6m5UVvNimtafCkDOM8heiWvnlK.jpg" group-title="VOD - ROMANCE",Siempre en el mejor momento (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121123.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batalla: Freestyle (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdgUNCruHI6jX9TU4vvplgpDtL7.jpg" group-title="VOD - ROMANCE",Batalla: Freestyle (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121124.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Apolo 10 Y Medio: Una Infancia Espacial (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBShWJhX4oMlDicPHocQc7wDPlt.jpg" group-title="VOD - ANIMACION",Apolo 10 Y Medio: Una Infancia Espacial (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Rezador - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zBOkcAwoXlYIZeDOhRmnQOOeq3.jpg" group-title="VOD - SUSPENSO",El Rezador - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karem, La Posesion (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFjccRxU8aYj2NJIOit42zDNd7T.jpg" group-title="VOD - TERROR",Karem, La Posesion (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gintama 2: Okite wa Yaburu tame ni koso Aru (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBW3Z7OKwpOSXfL4CLcPS71veMD.jpg" group-title="VOD - COMEDIA",Gintama 2: Okite wa Yaburu tame ni koso Aru (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kimi wa Kanata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRM4B3rh7Fm5Ima1TeUvFpnKste.jpg" group-title="VOD - ANIMACION",Kimi wa Kanata (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Petite maman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olnyyF671yxpZagYfnvfpI3TGft.jpg" group-title="VOD - DRAMA",Petite maman (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un romance con Fígaro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIZsmmzQuWPOImkQdfA3CzlaVL6.jpg" group-title="VOD - ROMANCE",Un romance con Fígaro (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg" group-title="VOD - DRAMA",Alice (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Furia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFURJnWv5qW58x4OOrXt1GQEyr1.jpg" group-title="VOD - DRAMA",Furia (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shorta. El peso de la ley (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N4ZaszcJC3A9SkmTURdQChZBHU.jpg" group-title="VOD - ACCION",Shorta. El peso de la ley (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una cita con el pasado - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxiCJUFKpsAI5zYfghC1c8FkXmX.jpg" group-title="VOD - SUSPENSO",Una cita con el pasado - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una cita con el pasado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRavSsrDC2L5d2FBCTMRBkWhcZ4.jpg" group-title="VOD - SUSPENSO",Una cita con el pasado (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bull Shark (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGE4ImqYjJZQi3xFu4I2OLm8m0w.jpg" group-title="VOD - DRAMA",Bull Shark (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121535.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corre y dispara (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0lDOmGmHZBLGXMDGaUA3005nt6.jpg" group-title="VOD - ACCION",Corre y dispara (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121536.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sastre de la mafia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoMyXY1ReK5I1kkMMQfqod7YhXh.jpg" group-title="VOD - CRIMEN",El sastre de la mafia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zola (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bJLCPROp9bmNndurwZpVnOioVpB.jpg" group-title="VOD - COMEDIA",Zola (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las niñas de cristal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOwVER4qb7ScN9uUgMsW0fhcPJ7.jpg" group-title="VOD - DRAMA",Las niñas de cristal (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Metal Lords (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvCmMvlDvReOawCkkZ6JN5GEfAn.jpg" group-title="VOD - COMEDIA",Metal Lords (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre la vida y la muerte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ak7YNWmkrLKXaj5VW7nuONBP47v.jpg" group-title="VOD - DRAMA",Entre la vida y la muerte (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yaksha: Ruthless Operations (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOYyuJ2mNo6RWsFsTwApEyG3F4J.jpg" group-title="VOD - ACCION",Yaksha: Ruthless Operations (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Three Months (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTD5TXjNbQ9c0BawMquBCO667yE.jpg" group-title="VOD - DRAMA",Three Months (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121826.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viddana (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xV1k8zRTrJ9SZos61Kqofkxitg1.jpg" group-title="VOD - ROMANCE",Viddana (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Polaroid - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ExDhZAqaSQaUNka4CDkvEaI72L.jpg" group-title="VOD - TERROR",Polaroid - 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1121930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Batman - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hME3AVfVT3dCaHgNSEAeLCORZBm.jpg" group-title="VOD - CRIMEN",The Batman - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gold (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2F4Eo37q9LAmmALoq9h4XwrSQVH.jpg" group-title="VOD - ACCION",Gold (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="CATO (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTCsGvAjqBbqp7T5ziK28SeDfVT.jpg" group-title="VOD - DRAMA",CATO (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Trigonal: Fight for Justice (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZKSpoJb808Fn2WMbETH5gzlETq.jpg" group-title="VOD - ACCION",The Trigonal: Fight for Justice (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122707.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amálgama (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YZjJDXztkxeHXGDCOtRyamGNE.jpg" group-title="VOD - TERROR",Amálgama (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122708.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elige o muere (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydUhcaO8MFrlakuAdNBxmjVBEcq.jpg" group-title="VOD - SUSPENSO",Elige o muere (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122709.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Descarrilados (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wOBGqCbydP1Hst6fCzP0gSPbYQP.jpg" group-title="VOD - COMEDIA",Descarrilados (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122710.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infinite Storm (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4B34NKfHCFVHriYfKhbsunHYl4x.jpg" group-title="VOD - DRAMA",Infinite Storm (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Knuckledust (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKRShifZ4bb4TkaMUCGWnOhELRJ.jpg" group-title="VOD - ACCION",Knuckledust (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fierecilla indomable (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JXsbuWTHWy9KieVRef5CmrzDN6.jpg" group-title="VOD - COMEDIA",La fierecilla indomable (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tutti per Uma (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akS3yzKcjvD0rpoPmbNoakF52LM.jpg" group-title="VOD - COMEDIA",Tutti per Uma (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1122714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Virus :32 - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZiF79hbhLK1U2Pj9bF67NAKXQR.jpg" group-title="VOD - TERROR",Virus :32 - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FiWi61YRbkN95xmH668iq5sCo1.jpg" group-title="VOD - ACCION",Uncharted - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Osa Polar - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nCRUQcbBs6Ix6YaBeCgC9OwE0mt.jpg" group-title="VOD - DOCUMENTALES",Osa Polar - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa da Yakuza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suBKrr8Vt782Poht7R5TUr9cYBu.jpg" group-title="VOD - ACCION",A Princesa da Yakuza (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Punto de inflexión (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h96hjpOEfSuQwAhYzK4kxO53o0Z.jpg" group-title="VOD - DRAMA",Punto de inflexión (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fourth Grade (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpSUNJvl800x6MQb5UnIYXA1vos.jpg" group-title="VOD - DRAMA",Fourth Grade (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mystery of Her (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C7reRuXqAgjGdfjqY7Mq6hmHlk.jpg" group-title="VOD - DRAMA",The Mystery of Her (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juntos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63PnLRQT6xhRTk8HSKu51vYVc0d.jpg" group-title="VOD - DRAMA",Juntos (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8FiWi61YRbkN95xmH668iq5sCo1.jpg" group-title="VOD - ACCION",Uncharted (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Devil You Know (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/veEFWCpgtTmUs5dT5jU3aZn59Hm.jpg" group-title="VOD - CRIMEN",The Devil You Know (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Legend of Jack and Jill (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1EZ3EAxPxCZbZnj8s32fqW8Z4D.jpg" group-title="VOD - TERROR",The Legend of Jack and Jill (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gundala (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohONagShzXKYZ7H9wrwnwQcaF3k.jpg" group-title="VOD - ACCION",Gundala (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Electric Jesus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c77hjPV0ufG96DvwynBrrgWd0Qv.jpg" group-title="VOD - COMEDIA",Electric Jesus (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Swan Song (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvjlNWpwtAwVksnMirtNKohf1kh.jpg" group-title="VOD - COMEDIA",Swan Song (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Sadness - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhjLvPWcdFoCatk8rMhOYfAT44Q.jpg" group-title="VOD - ACCION",The Sadness - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salem’s Lot (2004)" tvg-logo="https://unsoloclic.info/wp-content/uploads/2021/02/MV5BMTQzMzQ2Nzg5M15BMl5BanBnXkFtZTYwOTU1Mjk2._V1_FMjpg_UX404_1.jpg" group-title="VOD - TERROR",Salem’s Lot (2004)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salem’s Lot (1979)" tvg-logo="https://r3.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic3.abc.es%2Fmedia%2Fpeliculas%2F000%2F046%2F792%2Fel-misterio-de-salems-lot-1.jpg&nuevoancho=690&medio=abc" group-title="VOD - TERROR",Salem’s Lot (1979)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Biggest Little Farm: The Return - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vr49JzmeybfTaASKfglYA9dZBfs.jpg" group-title="VOD - DOCUMENTALES",The Biggest Little Farm: The Return - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="365 días: Aquel día - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg" group-title="VOD - ROMANCE",365 días: Aquel día - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Steve y la liga de los monstruos - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sP2KYsRWbWNpviJ99ZzhwNwX5Vm.jpg" group-title="VOD - COMEDIA",Steve y la liga de los monstruos - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123675.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor de madre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJnldu7WjrGdZnFZMacaoguKX48.jpg" group-title="VOD - COMEDIA",Amor de madre (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rumspringa - Ein Amish in Berlin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPmr7R2Zq66SXhFcXZiFSJ0Afx8.jpg" group-title="VOD - COMEDIA",Rumspringa - Ein Amish in Berlin (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="14 días, 12 noches (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jRl5en1AHzPOj2S41Ch6CTiQ2J.jpg" group-title="VOD - DRAMA",14 días, 12 noches (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Medium - Menotti (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKxyQlDqmJF9zbcdpldyCIvCia.jpg" group-title="VOD - SUSPENSO",The Medium - Menotti (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vault (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EPjLuxcT8Ilo8YNexh2NXgFx0v.jpg" group-title="VOD - CRIMEN",Vault (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Burbuja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edYk5TSowZIDv138bCpF5ls3XI5.jpg" group-title="VOD - COMEDIA",La Burbuja (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aileen Wuornos: American Boogeywoman (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9g1ZUcVDEOTsS9U1ifRMCgSVoH6.jpg" group-title="VOD - TERROR",Aileen Wuornos: American Boogeywoman (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="365 días: Aquel día (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg" group-title="VOD - ROMANCE",365 días: Aquel día (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123722.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death of a Telemarketer (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tk0P3vLvLSeM00qiJV9SdDm7riY.jpg" group-title="VOD - COMEDIA",Death of a Telemarketer (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123723.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asedio de Silverton (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lNfiU8VrSXyp2hhZNlJyk4dm04R.jpg" group-title="VOD - CRIMEN",El asedio de Silverton (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JFK: Caso revisado - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWwEWzjkmuNGXpMhpVsrhNNB0NV.jpg" group-title="VOD - DOCUMENTALES",JFK: Caso revisado - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encantada: La historia de Giselle - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6CnQbQNX1vsQKqXzBwMpj9RS2I.jpg" group-title="VOD - COMEDIA",Encantada: La historia de Giselle - 2007
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intensa - mente (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sG3bHZWCMOZwhUq71WbPG9Vrrwc.jpg" group-title="VOD - ANIMACION",Intensa - mente (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fortress: Sniper's Eye (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9y2ymS09bqTSM7L2DZJi7aIxor6.jpg" group-title="VOD - CRIMEN",Fortress: Sniper's Eye (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jockey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1wi5QVH3XBIQzcbhh5FqNIOULEW.jpg" group-title="VOD - DRAMA",Jockey (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Police (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gIRezCW9VOz2zlIZkl0I0t1ZcLf.jpg" group-title="VOD - DRAMA",Police (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Qué despadre! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IkdBm3dDA11pNFlbkLcU5WdESn.jpg" group-title="VOD - COMEDIA",¡Qué despadre! (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Tipos Malos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3R16rGnEytYkJOyao9JOFUuvu8.jpg" group-title="VOD - ANIMACION",Los Tipos Malos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123982.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Contractor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJPGPZ5soaG27MK90oKpioSiJE2.jpg" group-title="VOD - ACCION",The Contractor (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123983.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hard Luck Love Song (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWUbYGT0zTJoEZVyc2SvsenoHPF.jpg" group-title="VOD - ROMANCE",Hard Luck Love Song (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123984.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Rite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCbNhmJj5pAlhy11xbtmmmWBWw.jpg" group-title="VOD - SUSPENSO",The Last Rite (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1123985.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Twin - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9NTnzSFuzZQLONda4IMTHHXnuh.jpg" group-title="VOD - TERROR",The Twin - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Mouthful of Air (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuBA3LxAwlzo1a90PHredvnPfRg.jpg" group-title="VOD - DRAMA",A Mouthful of Air (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Déjate llevar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5spmLeGR9kxBRQ6qxCFad1ljvT.jpg" group-title="VOD - ROMANCE",Déjate llevar (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baby Money (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3iOCrLEfdqHqlb9njbwLY5hYdY.jpg" group-title="VOD - SUSPENSO",Baby Money (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Claw (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jdabkPU69SllGHrkLsbeF5VB05j.jpg" group-title="VOD - TERROR",Claw (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Digimon Adventure: Last Evolution Kizuna (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f38RqBo56RTyFRSnfwmELOKDcya.jpg" group-title="VOD - ANIMACION",Digimon Adventure: Last Evolution Kizuna (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marmaduke (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvhX4QQnMyMjlFeShLCXovvbf0c.jpg" group-title="VOD - ANIMACION",Marmaduke (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matky (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waOzrhvN8MeZkKta351kLhrYiQn.jpg" group-title="VOD - COMEDIA",Matky (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Redeeming Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDc2HxQtC0MlKD4QfRvmKREEyhc.jpg" group-title="VOD - DRAMA",Redeeming Love (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El taller (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/utmUPnlWiW5uF7p2vQnK8nPKbeG.jpg" group-title="VOD - DRAMA",El taller (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spree (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJUA4wfvw0A6l3niOfxourqpERA.jpg" group-title="VOD - TERROR",Spree (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tarsilinha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szoK1qZ0YThXajLnkE8l7wygXpG.jpg" group-title="VOD - ANIMACION",Tarsilinha (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Incompatibles 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y22kargXqjLyPrtWOATshqwnQDL.jpg" group-title="VOD - ACCION",Incompatibles 2 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Windstorm: The Great Hurricane (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZjlNwH0huMWUo7gnkrQVjyvzN4.jpg" group-title="VOD - INFANTILES",Windstorm: The Great Hurricane (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caraconos (1993)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zsVoSPQGFyxGiSD4Tmsqul54A.jpg" group-title="VOD - ROMANCE",Los caraconos (1993)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghost in the Shell: SAC_2045: Guerra sostenible (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5b1c4BKXexVstOBzrBRAWMBj3V.jpg" group-title="VOD - ANIMACION",Ghost in the Shell: SAC_2045: Guerra sostenible (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Night of the Sicario (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7h2ndK3XyaeZJ02HKW1EbcooaaH.jpg" group-title="VOD - ACCION",Night of the Sicario (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las fantasías (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9KAV8Djljk3fR1FQ17oC6LgfkCW.jpg" group-title="VOD - ROMANCE",Las fantasías (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animales Fantásticos: Los Secretos de Dumbledore - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" group-title="VOD - AVENTURA",Animales Fantásticos: Los Secretos de Dumbledore - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fin de los días (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTp90Ejc3fjTOSP0LPnpNxyF5qb.jpg" group-title="VOD - ACCION",El fin de los días (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Fairy Tale After All (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXq56XNfgRgBdCW65K6goiMUr3o.jpg" group-title="VOD - CIENCIA FICCION",A Fairy Tale After All (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124601.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Psych 3: This Is Gus (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwabAxbqMLt6uNWjGE6KpRyeoDS.jpg" group-title="VOD - COMEDIA",Psych 3: This Is Gus (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124602.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Accursed (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEXkhekQd7W1S9gZ9EawXNkaEF.jpg" group-title="VOD - TERROR",The Accursed (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124603.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre del Norte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg" group-title="VOD - ACCION",El Hombre del Norte (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124604.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El arma del engaño (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7xsqU7P6YY8hbgsi4T3ISMqWz.jpg" group-title="VOD - DRAMA",El arma del engaño (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Getaway King (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjTRUbxd8dAsLhtPNJAEwFjSN2v.jpg" group-title="VOD - COMEDIA",The Getaway King (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124643.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two Deaths of Henry Baker (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDtmZ24oi6kc20eV4v4EG2rPVlY.jpg" group-title="VOD - CRIMEN",Two Deaths of Henry Baker (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124644.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Original Gangster (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rYaAtAfKkXhgx4FAepplAidZIV.jpg" group-title="VOD - CRIMEN",Original Gangster (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124645.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sneakerella: Cenicienta en zapatillas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAETfXoNMJGK1aKqNkp4OUEDcfX.jpg" group-title="VOD - COMEDIA",Sneakerella: Cenicienta en zapatillas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vuelta al insti (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UqbcDQhCYpxboK58Z0eVfdeHcT.jpg" group-title="VOD - COMEDIA",Vuelta al insti (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1124647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ojos de fuego - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWHe42Fc8TKzvirq19AsfLfbGaX.jpg" group-title="VOD - SUSPENSO",Ojos de fuego - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Ciudad Perdida - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEVYkBAVIzQ4JmZ7ydceN9DFQR.jpg" group-title="VOD - ACCION",La Ciudad Perdida - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La historia interminable - 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHZ3HmN294z2ri1KyWFwBORFOd7.jpg" group-title="VOD - CIENCIA FICCION",La historia interminable - 1984
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shark Bait - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ac3zYMyqdLefjYdNFHyAYGnS59S.jpg" group-title="VOD - TERROR",Shark Bait - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Morbius - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg" group-title="VOD - ACCION",Morbius - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Protector: Renace (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aqBvfg8Gm8KfAk6rd7ygNWPXzZ.jpg" group-title="VOD - ACCION",El Protector: Renace (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En primera persona: Álex Lora & Celia Lora - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tKvWs9Y0LGWJ2ELd3guptIJpEC.jpg" group-title="VOD - DOCUMENTALES",En primera persona: Álex Lora & Celia Lora - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En primera persona: Juan Martín Del Potro - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUZ4Q2wgobBonGRENVmG4DDJLyL.jpg" group-title="VOD - DOCUMENTALES",En primera persona: Juan Martín Del Potro - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En Primera Persona: Adal Ramones y Adrián Uribe - 2022" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - DOCUMENTALES",En Primera Persona: Adal Ramones y Adrián Uribe - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre del Norte - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg" group-title="VOD - ACCION",El Hombre del Norte - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125721.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rompiendo las reglas: Rebelión (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/baYEMXcMAkpbPEGP0SXuS6EO4xR.jpg" group-title="VOD - ACCION",Rompiendo las reglas: Rebelión (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Instinto peligroso (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ubeZN7kWlr7Bl1OxdBPck43FhD3.jpg" group-title="VOD - SUSPENSO",Instinto peligroso (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Toscana (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orOHMxqgZjnb1dOZGGrXO7xOn6z.jpg" group-title="VOD - DRAMA",Toscana (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo En Todas Partes Al Mismo Tiempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg" group-title="VOD - ACCION",Todo En Todas Partes Al Mismo Tiempo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heatwave (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AeeXeyiiPOyybnjSnJoSTixOZQq.jpg" group-title="VOD - SUSPENSO",Heatwave (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1125966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fotógrafo y el cartero: El crimen de Cabezas - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH3Nd6A2CvonVRXZUKV58p5enQC.jpg" group-title="VOD - DOCUMENTALES",El fotógrafo y el cartero: El crimen de Cabezas - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Memory - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXpLmtnArbGcE75iPJVYibW7BBf.jpg" group-title="VOD - DRAMA",Memory - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126005.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los milagros del cielo - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RDJD6p3zuo0oux8QknG5QkqtRK.jpg" group-title="VOD - DRAMA",Los milagros del cielo - 2016
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King: Regreso a casa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVmo3dN8akz6p0QlmHAT4m2o9d1.jpg" group-title="VOD - AVENTURA",King: Regreso a casa (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126007.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Valet (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg" group-title="VOD - COMEDIA",The Valet (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chip y Dale: Al rescate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lpmT9MpZcNtmZxJjk5DzMTeEzIC.jpg" group-title="VOD - AVENTURA",Chip y Dale: Al rescate (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A la mierda el amor... otra vez (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUvV0gcglEKjTl47olQd9aVLJQj.jpg" group-title="VOD - COMEDIA",A la mierda el amor... otra vez (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bull: La Hora De La Venganza (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oapxWncDc5ztrge3ycpvaZIMcf3.jpg" group-title="VOD - SUSPENSO",Bull: La Hora De La Venganza (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dual (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtvPIZ2D0w57JlYRX5w5UatGIf4.jpg" group-title="VOD - CIENCIA FICCION",Dual (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yolun Açik Olsun (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfDxr9uDIOK5QZDsO76Y7ATs0kF.jpg" group-title="VOD - DRAMA",Yolun Açik Olsun (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La camiseta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i60OcGyWKeco1JMS9UfuchvpXYz.jpg" group-title="VOD - DRAMA",La camiseta (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Panama - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9DzgsmssidygWuORgYzhi317vj.jpg" group-title="VOD - ACCION",Panama - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clean - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u713iOJjYPECVuk8facgNxaLHds.jpg" group-title="VOD - CRIMEN",Clean - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Exorcismo De Dios - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHA9cysdFmGDfIvu9iEpu19w9GK.jpg" group-title="VOD - TERROR",El Exorcismo De Dios - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Conspiración Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ews3l3v7JYLtBS5ansZrXsXLMzl.jpg" group-title="VOD - SUSPENSO",Conspiración Explosiva (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Los Jóvenes Titanes en Acción! y DC Super Hero Girls: Caos en el Multiverso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0M56pMpk6WNdMxV8thg3hQmsCC.jpg" group-title="VOD - ANIMACION",¡Los Jóvenes Titanes en Acción! y DC Super Hero Girls: Caos en el Multiverso (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126553.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazón de Fuego (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJlDrKbzGkkPxZumwT0mNMX8qQn.jpg" group-title="VOD - ANIMACION",Corazón de Fuego (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126554.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ocupación: Proyecto Lluvia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Y6JKKVmad8uPyHc6PEQ9LLuUeT.jpg" group-title="VOD - CIENCIA FICCION",Ocupación: Proyecto Lluvia (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126555.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Se terminó el tiempo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uESOe0IyKEZaIy0D3WZA3qZRELv.jpg" group-title="VOD - ROMANCE",Se terminó el tiempo (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todos tenemos un plan - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzQEjBenXVjwp2v1XSvAOrtMOZr.jpg" group-title="VOD - DRAMA",Todos tenemos un plan - 2012
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Charlatán - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZM54twlBhYvi5FPiJerMQyNByV.jpg" group-title="VOD - DRAMA",Charlatán - 2020
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126650.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Accursed - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEXkhekQd7W1S9gZ9EawXNkaEF.jpg" group-title="VOD - TERROR",The Accursed - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126764.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TINI TOUR 2022 ARGENTINA" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - MUSICALES",TINI TOUR 2022 ARGENTINA
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crush (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hayr56csDzCSADaejgrRMVPHyDy.jpg" group-title="VOD - ROMANCE",Crush (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emergencia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAvMlX3n9Fme3k1yFIVyqbLv2Nv.jpg" group-title="VOD - COMEDIA",Emergencia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La escuela de animales mágicos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azAgKSa6NZkY0q48vrWNEuBV5MK.jpg" group-title="VOD - INFANTILES",La escuela de animales mágicos (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mentira Piadosa - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5tWkRvCgwnv0cSzgo6ZfYXpkYM.jpg" group-title="VOD - DRAMA",Mentira Piadosa - 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte Bajo Cero (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7f1e9rdm9Xn5TPoGiA5GtCcHCn7.jpg" group-title="VOD - DRAMA",Muerte Bajo Cero (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126824.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animales fantásticos: Los secretos de Dumbledore (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg" group-title="VOD - ACCION",Animales fantásticos: Los secretos de Dumbledore (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Veneciafrenia - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luMC56bwZqaECYRz6X7sXjqN6nd.jpg" group-title="VOD - TERROR",Veneciafrenia - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El juez - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d89FZk4nID54tKRV5oInKneZgT3.jpg" group-title="VOD - DRAMA",El juez - 2014
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último zombi - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSxEMxgLnC1KZAYH6pEksPsLyzR.jpg" group-title="VOD - TERROR",El último zombi - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1126922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Colmena (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWpXUBx0GwaWVpyNI85O504UsRM.jpg" group-title="VOD - DOCUMENTALES",La Colmena (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127020.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El milagro del padre Stu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ood1lF08nkNBV69x3MGh2g8buF4.jpg" group-title="VOD - DRAMA",El milagro del padre Stu (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuntman: el especialista (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/34TBDIDvI0whjppuof61PAcai9I.jpg" group-title="VOD - DOCUMENTALES",Stuntman: el especialista (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127072.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amundsen: La Gran Expedición (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kScTmPxGXko69bnL1HSK09sZkK.jpg" group-title="VOD - DRAMA",Amundsen: La Gran Expedición (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cleveland Abduction (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2iCc5fjyJvKRQAW7d6XWwDFzmr.jpg" group-title="VOD - DRAMA",Cleveland Abduction (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Blind Side (Un sueño posible) - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDZJph23idOLBmImnuaZBlF3TgP.jpg" group-title="VOD - DRAMA",The Blind Side (Un sueño posible) - 2009
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Devil's Tail - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg" group-title="VOD - TERROR",The Devil's Tail - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="This Is the Night (Once Upon a Time in Staten Island) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZPyZ22kzcmfyt1dQapaSiQenvI.jpg" group-title="VOD - DRAMA",This Is the Night (Once Upon a Time in Staten Island) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiro letal (Blindfire) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x83W8j9Qv2jMH0qbJkjQWytxnht.jpg" group-title="VOD - CRIMEN",Tiro letal (Blindfire) (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Bundy: Mente asesina (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c262VWzqfGfCuLXdjokybHGBB9S.jpg" group-title="VOD - TERROR",Ted Bundy: Mente asesina (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stargirl en Hollywood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKnP5FvMUq7Qg0FZiI861JSeLxF.jpg" group-title="VOD - MUSICALES",Stargirl en Hollywood (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Castillo del Hombre Lobo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3sEZ8OJl7sfkEgwsPq9466J3QGC.jpg" group-title="VOD - TERROR",El Castillo del Hombre Lobo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fire Island (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg" group-title="VOD - COMEDIA",Fire Island (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fresh (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQRRHBUsgJXCS3SUAv64W59DQGD.jpg" group-title="VOD - TERROR",Fresh (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Interceptor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZlFhlPtgJM7nljZHImEgQAKXJq.jpg" group-title="VOD - ACCION",Interceptor (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corte de Amor (Lovecut) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/subhzhanuzxPhh1jotcRJa8eJdU.jpg" group-title="VOD - DRAMA",Corte de Amor (Lovecut) (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Last Seen Alive - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzQ9YUXH9Tfj8MDU66i4wSFrBvt.jpg" group-title="VOD - ACCION",Last Seen Alive - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ciudad perdida - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEVYkBAVIzQ4JmZ7ydceN9DFQR.jpg" group-title="VOD - ACCION",La ciudad perdida - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="South Park: Las Guerras de Streaming (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbVvBYu3POY30cw4C9jtEIygiTf.jpg" group-title="VOD - ANIMACION",South Park: Las Guerras de Streaming (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pacto con El Diablo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jdBOApDt1DXlJtdzUtp76DhmmP.jpg" group-title="VOD - TERROR",Pacto con El Diablo (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin ti no puedo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vB52z6G05RzpsQEtee6nnpqTOAQ.jpg" group-title="VOD - SUSPENSO",Sin ti no puedo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Psicólogo Imaginario (Dr. Bird's Advice for Sad Poets) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yLnnYK9GrMAHf62HTVmtjMQdKYR.jpg" group-title="VOD - COMEDIA",Mi Psicólogo Imaginario (Dr. Bird's Advice for Sad Poets) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Peso del Talento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VEQJ0j5dUciZe6PRWqiVYcYbfe.jpg" group-title="VOD - ACCION",El Peso del Talento (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aline (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYG86wczPCl2DopgeN8grWzn9np.jpg" group-title="VOD - COMEDIA",Aline (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muerte al verano (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVf0KukWs0FAry3vZNG2bpPMfqo.jpg" group-title="VOD - DRAMA",Muerte al verano (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos más dos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcjTf0tBJoGwJQbdai4GmX8d1Om.jpg" group-title="VOD - COMEDIA",Dos más dos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garra (Hustle) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/An8C3wAxdB2Oo3fOG70PZ10PxTN.jpg" group-title="VOD - DRAMA",Garra (Hustle) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127961.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ted Bundy. En la mente del asesino (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3pgwkolcHty1S7OoOQNh8CP5Q8X.jpg" group-title="VOD - CRIMEN",Ted Bundy. En la mente del asesino (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1127962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Downton Abbey: Una nueva era (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRng7Bgz8nW714NQpmQYx6XkLWH.jpg" group-title="VOD - DRAMA",Downton Abbey: Una nueva era (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128164.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mas allá del infinito: Buzz y el viaje hacia Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8FtZGLZNZAvxGpxYEvqIJIGNhV.jpg" group-title="VOD - DOCUMENTALES",Mas allá del infinito: Buzz y el viaje hacia Lightyear (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128165.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pollonejo y el hámster de la oscuridad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cg7E2WGLEXB7n45jmW5daQl51VH.jpg" group-title="VOD - ANIMACION",Pollonejo y el hámster de la oscuridad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El paseo 6 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1nHNgR6tQFw2aGe2FXKCOffLjI.jpg" group-title="VOD - COMEDIA",El paseo 6 (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los árboles de la paz (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPtYJ72lOnZqs5B842MC0KfCEZh.jpg" group-title="VOD - DRAMA",Los árboles de la paz (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Raft (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1C11yP95TzMayokV74szc4sEihO.jpg" group-title="VOD - ANIMACION",The Raft (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128169.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desierto Privado (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEKDQnXdRG7wRjvPmJwXJJGLN8t.jpg" group-title="VOD - DRAMA",Desierto Privado (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo Tu (The Only One) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq3m6bUqEB67E6dHMo6oWZJJz1a.jpg" group-title="VOD - DRAMA",Solo Tu (The Only One) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vivir sin nosotros (La vida Sin Ti) (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMwCtWWX0bdsEPdZsbetbxoNDgW.jpg" group-title="VOD - DRAMA",Vivir sin nosotros (La vida Sin Ti) (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="King Tweety (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGXWYbpakk8uX8OkW1ihPjVzapB.jpg" group-title="VOD - ANIMACION",King Tweety (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Re-Animator - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUwzx9mKVugyjYyTNzKhBscscT3.jpg" group-title="VOD - TERROR",Re-Animator - 1985
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Finde - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MYEeM80Iy5MH81PqaOqsnQga7k.jpg" group-title="VOD - COMEDIA",Finde - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128549.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El libro del amor (Book of Love) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTNYBpKmymoi4z5xBRAKlHQEGlT.jpg" group-title="VOD - ROMANCE",El libro del amor (Book of Love) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128550.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man: The Awakening (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VTC6flgM4v40Kp9n9gzppSsi0o.jpg" group-title="VOD - ACCION",Ip Man: The Awakening (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128551.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ira de Dios - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6MyKpqU2OZdWnF0GgePlPbuOCUA.jpg" group-title="VOD - SUSPENSO",La ira de Dios - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128578.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belzebuth - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlBfHKirPMVeBNvPxdKrTIKFXaW.jpg" group-title="VOD - TERROR",Belzebuth - 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128640.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Centauro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41NRm22nZkWCx9XP09etSxd2HRD.jpg" group-title="VOD - ACCION",Centauro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128641.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desfile de corazones (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rojOBxGTEmQjaWyO7X9PVar4LTM.jpg" group-title="VOD - COMEDIA",Desfile de corazones (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un día para morir (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zqmvRdregVHCMLFl0T0xvve7dN.jpg" group-title="VOD - ACCION",Un día para morir (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Sicario (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg" group-title="VOD - CRIMEN",American Sicario (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flyboys: Héroes del aire (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjQQc3LjSNPq5B23uPE0dsnY896.jpg" group-title="VOD - AVENTURA",Flyboys: Héroes del aire (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128661.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Contagio zero (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0DikUkLLg4oTFfkXay0HyUxHwq.jpg" group-title="VOD - SUSPENSO",Contagio zero (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128662.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love is Love is Love (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sirJ0Zc1NwMFbNhtUaEMAGU7Af8.jpg" group-title="VOD - COMEDIA",Love is Love is Love (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Héroes de guerra (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RiErfUUtIsdVZyTkgsaK4NyabQ.jpg" group-title="VOD - DRAMA",Héroes de guerra (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128664.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Broken Swords: The Last In Line (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h32P5u7q0Dnre3Vt6QKnfcS9zxw.jpg" group-title="VOD - ACCION",Broken Swords: The Last In Line (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128665.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu hijo - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Wdf2BQy2lalERWpX3amhjEhL8g.jpg" group-title="VOD - DRAMA",Tu hijo - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128711.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mariya: El Símbolo de La Guerra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r8VstdpXXp08bGrWY7pJEXZVaxD.jpg" group-title="VOD - DRAMA",Mariya: El Símbolo de La Guerra (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128712.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El padre de la novia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuhRy3B36plwnAxAUKD0AgzZC7a.jpg" group-title="VOD - COMEDIA",El padre de la novia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128713.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Colisión (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zsihgkxMZ7MrflNCjkD3ySFJtc.jpg" group-title="VOD - SUSPENSO",Colisión (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dog: Un viaje salvaje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNpSqsRuLyyrRltXvtrbXhZinqO.jpg" group-title="VOD - DRAMA",Dog: Un viaje salvaje (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jennifer Lopez: Medio Tiempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kigfBGQKTI0cLV6t10DeDQGVBFr.jpg" group-title="VOD - DOCUMENTALES",Jennifer Lopez: Medio Tiempo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spiderhead - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5h2bC7nPGp0mQDYAv3j8HEKL09.jpg" group-title="VOD - CIENCIA FICCION",Spiderhead - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bailando por la vida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iUvoVhvwTlP8DofoqeIu7QAGLAe.jpg" group-title="VOD - COMEDIA",Bailando por la vida (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fórmula ganadora de Jerry y Marge - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pKbarYkAYFFZS4wiLvbwUCqRNFe.jpg" group-title="VOD - COMEDIA",La fórmula ganadora de Jerry y Marge - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Souvenir: Part II (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayMDun9vLHWclIN6bXitRlCrLII.jpg" group-title="VOD - DRAMA",The Souvenir: Part II (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El lobo de Wall Street - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTlIYjvS16XOpsfvYCTmtEHV10K.jpg" group-title="VOD - CRIMEN",El lobo de Wall Street - 2013
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fire Island: Orgullo y Seducción (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg" group-title="VOD - COMEDIA",Fire Island: Orgullo y Seducción (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[REC] (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vIoBgFBJuqcIzudkFyagJuCxHZ7.jpg" group-title="VOD - TERROR",[REC] (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="[REC]² (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9C7GrP6g29hklOqtGE0eEUbsPeC.jpg" group-title="VOD - SUSPENSO",[REC]² (2009)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aşkın Kıyameti (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdv1uv8UgvgeFKW6n7SxbopWtA4.jpg" group-title="VOD - ROMANCE",Aşkın Kıyameti (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Lost Girls (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EZn9mAaEHxKXZvxPqzr7ILpQy0.jpg" group-title="VOD - DRAMA",The Lost Girls (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1128910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crimes of the Future - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSx6t4mj1FT4ePqPYHW287SmNa1.jpg" group-title="VOD - DRAMA",Crimes of the Future - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129053.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robin Hood: Príncipe de los ladrones (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0pJ0SZ9xAEpqo0tx7WOQ9xv8Ns.jpg" group-title="VOD - AVENTURA",Robin Hood: Príncipe de los ladrones (1991)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129059.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange en el multiverso de la locura - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vThe85YlGE5r7fqEVFePETqnWzk.jpg" group-title="VOD - ACCION",Doctor Strange en el multiverso de la locura - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129061.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Watcher - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXCjoI3jdtBrwPHgVsyNLkl8Rvs.jpg" group-title="VOD - SUSPENSO",Watcher - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor y helado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlXUaOqGCSb8I7M0Yn2vKQIiDfs.jpg" group-title="VOD - ROMANCE",Amor y helado (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="North Hollywood (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEhDElA9ZN4e1Cwod3ayrinWysk.jpg" group-title="VOD - DRAMA",North Hollywood (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="9 Bullets (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuFPxoFopAjFUz4oIMUzpzeTA8I.jpg" group-title="VOD - ACCION",9 Bullets (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129103.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gracia y coraje (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49z8Ck6SPcJuuqbkLctDVlAutzG.jpg" group-title="VOD - DRAMA",Gracia y coraje (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Betibú - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN6y7JKRHUBTtva3hyeesMiYH4P.jpg" group-title="VOD - DRAMA",Betibú - 2014
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="D'Artagnan El 4º Mosquetero (2022)" tvg-logo="https://entrepeliculasyseries.nz/Archivos/2022/06/the-fourth-musketeer.jpg" group-title="VOD - ACCION",D'Artagnan El 4º Mosquetero (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre De Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg" group-title="VOD - ACCION",El Hombre De Toronto (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rise (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6FMYJSc9vhyqzMaYOC8yPS7aXQ.jpg" group-title="VOD - DRAMA",Rise (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129155.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Post Mortem - Fotos del Más Allá (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pceJmuZrIMZeQKXBcWDxioAuzMK.jpg" group-title="VOD - TERROR",Post Mortem - Fotos del Más Allá (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129156.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unión y lucha (7th & Union) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14AKMCxtF11UlYXLyjmTP22vDtl.jpg" group-title="VOD - DRAMA",Unión y lucha (7th & Union) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El disidente (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bayFSo6izaRAyQipQAMQxuZNPlA.jpg" group-title="VOD - DOCUMENTALES",El disidente (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129158.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Care a Lot (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W5wMVPfaxX5JAGMv1G1kMA2MHZ.jpg" group-title="VOD - CRIMEN",I Care a Lot (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El cazador - 1978" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXosJ8Z7FnwyNXBTQ9jvHhlt9Yk.jpg" group-title="VOD - DRAMA",El cazador - 1978
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="glamour girls" tvg-logo="https://media-cache.cinematerial.com/p/500x/kweemijk/glamour-girls-international-movie-poster.jpg?v=1656151218" group-title="VOD - DRAMA",glamour girls
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamá se va de viaje (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEbSztKAAwIljX8A537HeZDKXUS.jpg" group-title="VOD - COMEDIA",Mamá se va de viaje (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En la mira (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhUOhup1WcTVW5YF29qgXY7w7Vg.jpg" group-title="VOD - SUSPENSO",En la mira (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1129327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Primavera en Beechwood (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HtqPk4RY4D7GFJ6HuBz3xUCO71.jpg" group-title="VOD - DRAMA",Primavera en Beechwood (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1130335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Encuentros al Azar (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKOHCFfMsTSpLAIQKMwXotdEggs.jpg" group-title="VOD - DRAMA",Encuentros al Azar (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1130336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romance a la Carta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXAVzxgPxuCPkHkNZ0pWPLdA94.jpg" group-title="VOD - ROMANCE",Romance a la Carta (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1130337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La princesa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uEh9kpQWJgaebgPXVCPf88wsFe.jpg" group-title="VOD - ACCION",La princesa (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rubikon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fn819ItxSuSxHIpm052pRFlPwLj.jpg" group-title="VOD - CIENCIA FICCION",Rubikon (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Juego Entre Amigos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tc5Y4HDyb0I0z3MvKkLuPb1rVmj.jpg" group-title="VOD - COMEDIA",Un Juego Entre Amigos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Exorcismo en el Vaticano (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNVMjGOA7VB91DObBIrP1JG8J6L.jpg" group-title="VOD - TERROR",Exorcismo en el Vaticano (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131223.avi
+#EXTINF:-1 tvg-id="" tvg-name="Terror on the Prairie (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPWaktPt50BwkYHmYM62sDrdnjR.jpg" group-title="VOD - SUSPENSO",Terror on the Prairie (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hot Seat - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zoA2yEfKs8hNFlk4AV28VpoT3I.jpg" group-title="VOD - SUSPENSO",Hot Seat - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wolf (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39SHAfnH7xoP2SH7BQoUXMeXjUQ.jpg" group-title="VOD - ROMANCE",Wolf (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leonora addio - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reMoDzj7GwKYQ2Cq7n4mSC2m8sV.jpg" group-title="VOD - DRAMA",Leonora addio - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ambulance. Plan de huida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg" group-title="VOD - ACCION",Ambulance. Plan de huida (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Zero Contact - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1AKQVGsty7hbCwY3130PBUVDpT.jpg" group-title="VOD - CIENCIA FICCION",Zero Contact - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Padre no hay más que uno 2: la llegada de la suegra (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MjODwcPV5tAEa1zlje9N4gReGS.jpg" group-title="VOD - COMEDIA",Padre no hay más que uno 2: la llegada de la suegra (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Padre no hay más que uno (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDLO2nr5xhjOfxDAj3gQao495kw.jpg" group-title="VOD - COMEDIA",Padre no hay más que uno (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Code Name Banshee - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dt53jhcegkYu2hKcE4tAdnbpBzt.jpg" group-title="VOD - SUSPENSO",Code Name Banshee - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Calm Beyond (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGVQK3vuidHYey8MMyIvVnoh2zp.jpg" group-title="VOD - SUSPENSO",The Calm Beyond (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vacaciones contigo... Y tu mujer (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14jve98UbM4lmhmqU6I4xLzFWGb.jpg" group-title="VOD - COMEDIA",Vacaciones contigo... Y tu mujer (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hola, Adios y Todo lo que pasó (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n05spbekRTfx0OG4FI7bFssYlfo.jpg" group-title="VOD - ROMANCE",Hola, Adios y Todo lo que pasó (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vendetta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7InGE2Sux0o9WGbbn0bl7nZzqEc.jpg" group-title="VOD - CRIMEN",Vendetta (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viaje a Grecia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJ7HgeZNpAn2r05sUujj0I20DO5.jpg" group-title="VOD - COMEDIA",Viaje a Grecia (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unhuman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0YCxxFhZSczKrw3FHDV0nTyHb5.jpg" group-title="VOD - TERROR",Unhuman (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ejército de los ladrones (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28t1XW0ON5Zz2TjNwPTIdzIiRSc.jpg" group-title="VOD - CRIMEN",Ejército de los ladrones (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Desperate Hour (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1idkdgMXbchkls9JfnKnUTTywb.jpg" group-title="VOD - SUSPENSO",The Desperate Hour (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Machine Gun Kelly's Life In Pink - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiJxvswZSc3dc3DfAUw2YvC254u.jpg" group-title="VOD - DOCUMENTALES",Machine Gun Kelly's Life In Pink - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Polina (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ytnQ7TPbwycBOVfq92m7Jaxvi4h.jpg" group-title="VOD - AVENTURA",Polina (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Knight (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkGFADykBtfPfTv7YJooxTH52ph.jpg" group-title="VOD - AVENTURA",Dragon Knight (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131543.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El monstruo marino (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEdvvT8js6qhdVvxGkeYqr6gayP.jpg" group-title="VOD - ANIMACION",El monstruo marino (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Maleficio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gE2yLl3uhdSLla9urAR7HoYL3Yo.jpg" group-title="VOD - TERROR",Maleficio (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Relaciones peligrosas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jfEGzZJxTPyWg2zbgNb4tOuNjJy.jpg" group-title="VOD - ROMANCE",Relaciones peligrosas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deep Fear - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JC3gEPSUkoBboA4wtFJ7ZMaPjY.jpg" group-title="VOD - TERROR",Deep Fear - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minions: El origen de Gru - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBk0guZ6NI2aHclb4sbrQdrrnOC.jpg" group-title="VOD - ANIMACION",Minions: El origen de Gru - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131642.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Regreso de Gulliver - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Rs4FVnzzufFj8a4XhE9CTB0zUO.jpg" group-title="VOD - INFANTILES",El Regreso de Gulliver - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Les Aventures de Pil" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - INFANTILES",Les Aventures de Pil
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Castle Falls (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hcmtEns8LZdkztVz5kX3cirugaa.jpg" group-title="VOD - ACCION",Castle Falls (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red Rocket (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c93ImFIQqRjkZmGEo546xfsRSO3.jpg" group-title="VOD - COMEDIA",Red Rocket (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6cA486hZEEyqmy12D0YmOlJyqp.jpg" group-title="VOD - COMEDIA",Doula (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Where the Scary Things Are - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFbQ5eWcv16pjuUA4w71Z0r24AG.jpg" group-title="VOD - TERROR",Where the Scary Things Are - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Truman Capote - 2005" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7z0tDxzbDNev7F8l3Y56Pk5seR.jpg" group-title="VOD - CRIMEN",Truman Capote - 2005
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche americana (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYE5AayrDorA7vHqRoRNtyubO97.jpg" group-title="VOD - COMEDIA",Noche americana (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hombre perfecto (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9H6q47GGdZjjBrOThVadxV3N1Js.jpg" group-title="VOD - COMEDIA",El hombre perfecto (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131790.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sword Art Online Progressive: Aria de una Noche sin Estrellas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ThTNa9XRWBc1v6PZACXySOk2Jf.jpg" group-title="VOD - ANIMACION",Sword Art Online Progressive: Aria de una Noche sin Estrellas (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131862.mkv
+#EXTINF:-1 tvg-id="" tvg-name=" Valley of the Dead" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eOgpzYUV4PxbDl64vrWpWTEAqb.jpg" group-title="VOD - TERROR", Valley of the Dead
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por Jojo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9urHg7dyz3oj6zR0pKQXxnvAFfG.jpg" group-title="VOD - COMEDIA",Por Jojo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Linterna Verde: Teman a mi poder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBIzAD9ZDdNVNdsNPdsMUfrM3fI.jpg" group-title="VOD - ANIMACION",Linterna Verde: Teman a mi poder (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bob's Burgers: La película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31vliI2mopLlh5kUoWpJZ19cF8y.jpg" group-title="VOD - ANIMACION",Bob's Burgers: La película (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resistencia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cr6rCd1EQOYqAS1q8dvwNsIrQTf.jpg" group-title="VOD - DRAMA",Resistencia (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Notre Dame (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qLNdJ3dXpb0bBZGUJizNDokMm4.jpg" group-title="VOD - COMEDIA",Notre Dame (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bajo el sol amalfitano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg" group-title="VOD - ROMANCE",Bajo el sol amalfitano (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1131951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Phone (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LJC0MCghmmgSUNshpfA5RjHQay.jpg" group-title="VOD - TERROR",Black Phone (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World: Dominion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXeWfpT1EhG7f4uBouqraOhmouH.jpg" group-title="VOD - AVENTURA",Jurassic World: Dominion (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132001.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beavis y Butt-Head: Recorren el Universo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rVKMA2j8m8hWgsDyXOllXp8DsWI.jpg" group-title="VOD - ANIMACION",Beavis y Butt-Head: Recorren el Universo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Borrego – Sal Del Camino (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kPzQtr5LTheO0mBodIeAXHgthYX.jpg" group-title="VOD - SUSPENSO",Borrego – Sal Del Camino (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin Culpa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVbO8EAbegVtVkrl8wNhzoxS84N.jpg" group-title="VOD - ACCION",Sin Culpa (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lightyear (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg" group-title="VOD - ANIMACION",Lightyear (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Z-O-M-B-I-E-S 3 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqzdv4nArhuZxd7il0boKaVxQMF.jpg" group-title="VOD - COMEDIA",Z-O-M-B-I-E-S 3 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Persuasion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s99WrKSEVR4RVvwm5Zn2cqrHTMM.jpg" group-title="VOD - ROMANCE",Persuasion (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Voces secretas - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cFdKwGtA2SzRSORGRnwhg5pJAd0.jpg" group-title="VOD - CRIMEN",Voces secretas - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132183.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Vengadores - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugX4WZJO3jEvTOerctAWJLinujo.jpg" group-title="VOD - UNIVERSO MARVEL",Los Vengadores - 2012
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132184.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la galaxia - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzEmtM8qrvRKNdJUUiizdNHTccV.jpg" group-title="VOD - UNIVERSO MARVEL",Guardianes de la galaxia - 2014
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132185.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chestnut: El héroe de Central Park - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orU6wJ9QdhTL07aLBZ7F3NTqFab.jpg" group-title="VOD - INFANTILES",Chestnut: El héroe de Central Park - 2004
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Live is life: la gran aventura (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHIn2VHEdZ30KyL60yPzD8KqL1M.jpg" group-title="VOD - COMEDIA",Live is life: la gran aventura (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Demasiado grande para cuentos de hadas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjrkEnvxAt0PnXvaP8gZZI9t1gO.jpg" group-title="VOD - COMEDIA",Demasiado grande para cuentos de hadas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adiós Mariposa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iT6vO2BeI15psH8LiLiBVI9nZAK.jpg" group-title="VOD - SUSPENSO",Adiós Mariposa (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ultimo Tren a Navidad (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg" group-title="VOD - DRAMA",Ultimo Tren a Navidad (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Entresuelo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEu6qI5sVoIe10gD1BQBqxcNIW2.jpg" group-title="VOD - ACCION",El Entresuelo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una librería en París (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gnels9iqx2SsJ85VtDUOj3DZwTL.jpg" group-title="VOD - ROMANCE",Una librería en París (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran pase de magia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zx1SbUeuafTm1s5jbcvzg3F1JUD.jpg" group-title="VOD - COMEDIA",El gran pase de magia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No me dejes ir (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KYg095m7kgKBXAHH8cjkzHTOuH.jpg" group-title="VOD - DRAMA",No me dejes ir (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Vida en el Silencio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAUpW3UN3Af9L4H70iYtoeH4mfU.jpg" group-title="VOD - DRAMA",La Vida en el Silencio (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rabid (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iKMpfASZEYvraBbVSlCkrg6qco.jpg" group-title="VOD - TERROR",Rabid (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Cuento Sobre El Tiempo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGQqWlQT8GD5Lo8aXu6kHwiGq3i.jpg" group-title="VOD - COMEDIA",Un Cuento Sobre El Tiempo
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La patrulla canina: La película (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fOYt5TfJKHHz0hFY37kSXKvEdf7.jpg" group-title="VOD - ANIMACION",La patrulla canina: La película (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dakota (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3eUOPUoDwkupwTPTDk6ESqrzGt.jpg" group-title="VOD - AVENTURA",Dakota (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El agente invisible (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RU2Nj5zbVuPdCLGWiMZes0ZISO.jpg" group-title="VOD - ACCION",El agente invisible (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132779.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mark, Mary + otra gente (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kbBVx5MRaPq7sN01CR4dF6quqj.jpg" group-title="VOD - COMEDIA",Mark, Mary + otra gente (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo es posible (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLeswI1zxf2xN5iIdcJpqx9XEnX.jpg" group-title="VOD - ROMANCE",Todo es posible (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1132781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Gallina Turuleca - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJ6t4RH4m5ly1xaf5uFMKdqE1vF.jpg" group-title="VOD - INFANTILES",La Gallina Turuleca - 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Acusada - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wFc5XRROxhYY6jXGsRRA02B6N7H.jpg" group-title="VOD - DRAMA",Acusada - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V de venganza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLtP8TLycVzLUlkkhp8PipXfUh6.jpg" group-title="VOD - ACCION",V de venganza (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133070.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desaparecida sin rastro - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r5ZISrHQUQLBMdAJF3CDDAxp54.jpg" group-title="VOD - SUSPENSO",Desaparecida sin rastro - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133071.mkv
+#EXTINF:-1 tvg-id="" tvg-name="13 minutos  (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8P30DE8TsVam6jlCSBpfO0CizG.jpg" group-title="VOD - ACCION",13 minutos  (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133111.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Présidents (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rlHMQK4cyvzqsOUZCSJEAQkd8qm.jpg" group-title="VOD - COMEDIA",Présidents (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mary for Mayor (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2lKG0lfu35EjCDviXclekHBqLK8.jpg" group-title="VOD - COMEDIA",Mary for Mayor (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Romance a la Carta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXAVzxgPxuCPkHkNZ0pWPLdA94.jpg" group-title="VOD - CRIMEN",Romance a la Carta (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi peluquería en Río (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXAVzxgPxuCPkHkNZ0pWPLdA94.jpg" group-title="VOD - COMEDIA",Mi peluquería en Río (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="End Game (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83l5qPth1XnfYjWRF2OUxTqEX7Q.jpg" group-title="VOD - COMEDIA",End Game (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La furia de la montaña (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83l5qPth1XnfYjWRF2OUxTqEX7Q.jpg" group-title="VOD - ACCION",La furia de la montaña (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pipa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3xdPntWgSjAbHY1OYhRkEt2s6tl.jpg" group-title="VOD - SUSPENSO",Pipa (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El profesor de persa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9qsERRWT76TPm23BIKgcoHu4xeg.jpg" group-title="VOD - DRAMA",El profesor de persa (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Heart of Champions (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhBhe8DjdFspNjMOyrqD8i9Gy60.jpg" group-title="VOD - DRAMA",Heart of Champions (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise Highway (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg" group-title="VOD - ACCION",Paradise Highway (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Falsa Influencer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n58ah96w7yT2gprDi7J8U4DYdi.jpg" group-title="VOD - COMEDIA",Falsa Influencer (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corazones malheridos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndp4yIfg04i3raprDJ0UKWD8IK9.jpg" group-title="VOD - ROMANCE",Corazones malheridos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La peor persona del mundo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3kFMOV2R45Ldg4yCI0moJUJYdL7.jpg" group-title="VOD - COMEDIA",La peor persona del mundo (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blood Quantum (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pQnfrys3nyOpUxktxK2CBnm7Rv8.jpg" group-title="VOD - TERROR",Blood Quantum (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cracked - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7yHjvjOCqyice2p8J3rC6IUx7P5.jpg" group-title="VOD - TERROR",Cracked - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lunáticos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oE9PGYg34DRxCayrsEXte5gJcYW.jpg" group-title="VOD - ANIMACION",Lunáticos (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda del caballero negro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVEyBmldMAfKBOIjuuLnXxFThiI.jpg" group-title="VOD - AVENTURA",La leyenda del caballero negro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hambre de invierno - 2022" tvg-logo="https://img.peliplat.com/api/resize/v1?imagePath=std/202203/2/2/22fd445262c59c4c84f36153149760e9.jpg&mode=LFIT&width=600&height=600&limit=false&c=1.jpg" group-title="VOD - TERROR",El hambre de invierno - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Love/Sick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8CbqqTvxcq8jIHwwLxcQViHeM8.jpg" group-title="VOD - ROMANCE",Love/Sick (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mujer del infierno (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYEhvqtNaphr2vS3uut6YxGCnT0.jpg" group-title="VOD - SUSPENSO",La mujer del infierno (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ancestral - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6giic4ReClIwcZAlGYfDnRTzqW.jpg" group-title="VOD - TERROR",The Ancestral - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Minions: El origen de Gru (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBk0guZ6NI2aHclb4sbrQdrrnOC.jpg" group-title="VOD - ANIMACION",Minions: El origen de Gru (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133687.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mrs. Harris Goes to Paris (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRdQbsHWug6SXMBxEjzl4IswJgT.jpg" group-title="VOD - DRAMA",Mrs. Harris Goes to Paris (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133688.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Proyecto Rampage - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aTsJIyw762XO51fcGa7couMygv.jpg" group-title="VOD - ACCION",Proyecto Rampage - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Regreso de La Llorona - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G4MSlG8bSWXATU95o1hqsFxZkc.jpg" group-title="VOD - TERROR",El Regreso de La Llorona - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Power (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0aVEjT1DWopUrJehACWZyqpO99.jpg" group-title="VOD - TERROR",The Power (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Good Neighbor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w1Pg71Z60BweXmJui2H8o49MohO.jpg" group-title="VOD - SUSPENSO",The Good Neighbor (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honor Society (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oeN5NtPM8SP6SZkpsZO6BWiegl.jpg" group-title="VOD - COMEDIA",Honor Society (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Qué culpa tiene el karma? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37kl496Ucx2m0iq2r0keLPQKjR0.jpg" group-title="VOD - COMEDIA",¿Qué culpa tiene el karma? (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buba (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iRMwdNzXFnOKMhVoodj0zhvFYY.jpg" group-title="VOD - COMEDIA",Buba (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un héroe samurai: La leyenda de Hank (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcccakIsT9rBE3EH1f38JMqtgYw.jpg" group-title="VOD - ANIMACION",Un héroe samurai: La leyenda de Hank (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La última marca (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdX4qg9cKX4satMaQm8BOJxnDC3.jpg" group-title="VOD - ACCION",La última marca (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133805.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El calendario de Adviento (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xzaRekUnw8SNodDFEWzVlbFkBxU.jpg" group-title="VOD - TERROR",El calendario de Adviento (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133806.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Temporada de bodas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mFeXAZ1oOECPqEu8c2i4L5LmNyY.jpg" group-title="VOD - ROMANCE",Temporada de bodas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133807.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trece vidas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nG51pBf6PaBkdwuoyeDxMSOfa6p.jpg" group-title="VOD - DRAMA",Trece vidas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133988.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Luck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HOYvwGFioUFL58UVvDRG6beEDm.jpg" group-title="VOD - ANIMACION",Luck (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133989.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo a la vez en todas partes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ildVXPXTQFly8VAgIrre5v5rbbQ.jpg" group-title="VOD - ACCION",Todo a la vez en todas partes (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133990.mkv
+#EXTINF:-1 tvg-id="" tvg-name="X (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg" group-title="VOD - SUSPENSO",X (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pedirlo a Gritos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5sdAMxAAvLDmlkyJd81ZgeZY8vg.jpg" group-title="VOD - ACCION",Pedirlo a Gritos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doblemente Embarazada 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNkAOFyb4TV2gTSc92jx2O9evtj.jpg" group-title="VOD - COMEDIA",Doblemente Embarazada 2 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="With/In Volume 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5TOHkyf6SGpZtdKYa4FvxkXDAU.jpg" group-title="VOD - COMEDIA",With/In Volume 2 (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="They/Them (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfYsmRJj30gDN6kIUlCBWqlnvFg.jpg" group-title="VOD - SUSPENSO",They/Them (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El acontecimiento (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3EwqppBdI3n42tgecg01fVeDOsb.jpg" group-title="VOD - DRAMA",El acontecimiento (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="People Just Do Nothing: Big in Japan (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2wft3qQX1fCqPTUdujwxhj9S23.jpg" group-title="VOD - COMEDIA",People Just Do Nothing: Big in Japan (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ascenso de las Tortugas Ninja: La película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PASAPJSoUsY6I69gaED4k642Gb.jpg" group-title="VOD - ANIMACION",El ascenso de las Tortugas Ninja: La película (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Predator: La presa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49ldE9yPMkYCrTLEpdhJgqlQXYK.jpg" group-title="VOD - SUSPENSO",Predator: La presa (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1133999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Titanes, hicieron historia (2000)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fh9fyi0pEpsY1vli8b0myyqRuJ2.jpg" group-title="VOD - DRAMA",Titanes, hicieron historia (2000)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hollow - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2NCtBpiaVyAMZdSCQCPT93v06y.jpg" group-title="VOD - TERROR",Hollow - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hero Mode (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yh8FKfdoddaOQjyVVBUPebdoB1x.jpg" group-title="VOD - COMEDIA",Hero Mode (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último superviviente (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWifGZF9fkJ83zOVHPGaN4ZL2pQ.jpg" group-title="VOD - ACCION",El último superviviente (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Brian y Charles (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzP3N9qRo3S91QjfBFWNI0ph0AY.jpg" group-title="VOD - COMEDIA",Brian y Charles (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elvis (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FTBDId0Ntc8YmJpolZe8fLJcoI.jpg" group-title="VOD - MUSICALES",Elvis (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Enkel für Anfänger (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuQdvLaHaOnjT2GrLLDvqIBKhvx.jpg" group-title="VOD - COMEDIA",Enkel für Anfänger (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los perdonados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT0TGEPhPSOS097bhWcqn7va8gq.jpg" group-title="VOD - DRAMA",Los perdonados (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Darlings (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yT0TGEPhPSOS097bhWcqn7va8gq.jpg" group-title="VOD - COMEDIA",Little Darlings (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carter (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7EOVeD2fCn4KS4pi7pjwOZCewl4.jpg" group-title="VOD - ACCION",Carter (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viajeros: Perdidos en el tiempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kL08EcOnk0K848hXf5lcm46pKqD.jpg" group-title="VOD - DRAMA",Viajeros: Perdidos en el tiempo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LEGO Star Wars: Vacaciones de verano (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gT1Toend98eSyXL1PrL7ipz4dt.jpg" group-title="VOD - ANIMACION",LEGO Star Wars: Vacaciones de verano (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="RRR Hindi - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0W61w08KPAxO63uuM0Xspxb27l.jpg" group-title="VOD - DRAMA",RRR Hindi - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Idiocracia - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iO3iSWhlIqd0mCtW7iTJaThled.jpg" group-title="VOD - COMEDIA",Idiocracia - 2006
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Ladrones: la verdadera historia del robo del siglo - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WC1pBBTiUIvj2jfUI82Z3XheZK.jpg" group-title="VOD - DOCUMENTALES",Los Ladrones: la verdadera historia del robo del siglo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Nave (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AnUnJ9ozESodZau3g0i35qvn2M.jpg" group-title="VOD - COMEDIA",La Nave (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Office Invasion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kDC9Q3kiVaxrJijaGeZ8ZB2ZoiX.jpg" group-title="VOD - CIENCIA FICCION",Office Invasion (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gönül (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rW9x7YYzbZeXZnQY7MlgfdzP1i5.jpg" group-title="VOD - ROMANCE",Gönül (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Nave (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXXUXqA9SKa9y66AK1RysqcUcw.jpg" group-title="VOD - COMEDIA",La Nave (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Leyendas: El Origen (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aju8OJ2F7jHkKJ68jfM6DGzMMD.jpg" group-title="VOD - ANIMACION",Las Leyendas: El Origen (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="13: El musical - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsIlZzfcwr9QKtXORaZ0kyh0nqi.jpg" group-title="VOD - MUSICALES",13: El musical - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código Emperador - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iquqqSxLdMdHcohCr01TVTZzgPk.jpg" group-title="VOD - ACCION",Código Emperador - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Turno del día - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI7lGR5HuYlENlp11brKUAaPHuO.jpg" group-title="VOD - ACCION",Turno del día - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Déjame salir - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg" group-title="VOD - SUSPENSO",Déjame salir - 2017
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secret Headquarters (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PsHogUfvjWPGdWAI5uslDhHDx7.jpg" group-title="VOD - AVENTURA",Secret Headquarters (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134774.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Till Death. Hasta que la muerte nos separe (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9azVNvLVswNn1dj43YbJ5sZiykd.jpg" group-title="VOD - TERROR",Till Death. Hasta que la muerte nos separe (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134775.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dual - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bD9Oyw3JTlIx2wlcr8E8s1DRpRf.jpg" group-title="VOD - CIENCIA FICCION",Dual - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vengeance (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35btMdT6q2OYf2LYWB4S3D3edCQ.jpg" group-title="VOD - SUSPENSO",Vengeance (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cat Pack: A PAW Patrol Exclusive Event (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3rIbP71sR7hKtz77E6x7mdz6vG.jpg" group-title="VOD - ANIMACION",Cat Pack: A PAW Patrol Exclusive Event (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Studio 666 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXXmgOrpNao2tHM3ENlgjBiKUOB.jpg" group-title="VOD - TERROR",Studio 666 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Royalteen: El heredero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg" group-title="VOD - DRAMA",Royalteen: El heredero (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mis dos vidas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bdHnCvgRb3lkCIT0PryyZRDUWs.jpg" group-title="VOD - ROMANCE",Mis dos vidas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1134868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sniper: Rogue Mission (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSL5TqroJsDAIgBdELBwby1uhf1.jpg" group-title="VOD - ACCION",Sniper: Rogue Mission (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta Que La Suerte Nos Separe (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDyBy4xwrHXRV44TL34twKWJ69I.jpg" group-title="VOD - COMEDIA",Hasta Que La Suerte Nos Separe (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135076.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Site (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKD4vOJfywqFtgKL59bFvhldp2e.jpg" group-title="VOD - ACCION",Black Site (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135077.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DC Showcase: Constantine: The House of Mystery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqYDoEb9PxLXM2ccoHInMMJalti.jpg" group-title="VOD - ANIMACION",DC Showcase: Constantine: The House of Mystery (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los jóvenes amantes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrWrjU6NF7MOcpjbzOwgB46lOvA.jpg" group-title="VOD - ROMANCE",Los jóvenes amantes (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Falling (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1emFdiojMxkUN27ThhDFqcusfpr.jpg" group-title="VOD - DRAMA",Falling (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="365 días más - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXTKvuRJLdLPInOxHyI2lDzLcCR.jpg" group-title="VOD - DRAMA",365 días más - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135083.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czxk9HiHPgCPAXLT7iSfazcJkdf.jpg" group-title="VOD - TERROR",Muñeco diabólico (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135084.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico 2 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3l56tzguybfimpjLFM77TuBAeGk.jpg" group-title="VOD - TERROR",Muñeco diabólico 2 (1990)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135085.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muñeco diabólico 3 (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kKXfXBCozgm2020fDYPaEN2cEw6.jpg" group-title="VOD - TERROR",Muñeco diabólico 3 (1991)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135086.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Friends: El Reencuentro (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWgy2p7tyyaEOsS3quCui0UGUjR.jpg" group-title="VOD - DOCUMENTALES",Friends: El Reencuentro (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hunting Ava Bravo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rC3R4duNxZO0qmcEt7n1RNw4mWR.jpg" group-title="VOD - SUSPENSO",Hunting Ava Bravo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="365 días más (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwcII5bXMeMTKyCejPuBPBTjmxu.jpg" group-title="VOD - ROMANCE",365 días más (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La huérfana: Primer asesinato (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSqAXL1EHVJ3MOnJzMhUngc8gFs.jpg" group-title="VOD - TERROR",La huérfana: Primer asesinato (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El show de Truman (Una vida en directo) (1998)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4BGVZSwv5n0hMIAWwiSjMFDQ63K.jpg" group-title="VOD - COMEDIA",El show de Truman (Una vida en directo) (1998)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fullmetal Alchemist: La venganza de Cicatriz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6o6ar04HHNgDZ9y4DkKPxT0F6M9.jpg" group-title="VOD - ACCION",Fullmetal Alchemist: La venganza de Cicatriz (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Glorious (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gttZLC3yhLFx1EnfjEUaDb2YAwl.jpg" group-title="VOD - TERROR",Glorious (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Parásitos (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg" group-title="VOD - COMEDIA",Parásitos (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DC Liga de supermascotas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXL2iC7WXUqzRQmDJ3NfzQUisni.jpg" group-title="VOD - ANIMACION",DC Liga de supermascotas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lobos de las Sombras (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPLyuKO74kbFS6PmSUKLsJHnLHa.jpg" group-title="VOD - ACCION",Lobos de las Sombras (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Meteor (2021)" tvg-logo="https://entrepeliculasyseries.nz/Archivos/2022/08/meteor.jpg" group-title="VOD - CIENCIA FICCION",Meteor (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buscando a Steve McQueen (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhmNHWTVniHHYKTsWSvSir19K1z.jpg" group-title="VOD - CRIMEN",Buscando a Steve McQueen (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun: Maverick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AlWpEpQq0RgZIXVHAHZtFhEvRgd.jpg" group-title="VOD - ACCION",Top Gun: Maverick (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nacido para ganar (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sqdNhEbXxuMNFRFMXUV7zHm0gR.jpg" group-title="VOD - DRAMA",Nacido para ganar (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El sistema K.E.OP/S (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kIOoD5Bx8ui7I7uM5D1ZRs68Ilx.jpg" group-title="VOD - DRAMA",El sistema K.E.OP/S (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juntos son dinamita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dyD79pPLELCxjJBKXiFDC7df8s.jpg" group-title="VOD - ACCION",Juntos son dinamita (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Easter Sunday (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWniH5tuElAYfEC9dTM9kJCwMer.jpg" group-title="VOD - COMEDIA",Easter Sunday (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Nop! - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="VOD - TERROR",¡Nop! - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135691.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Caso Figo - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itL7UkFzccIjAE9DFFNTVV35hZ5.jpg" group-title="VOD - DOCUMENTALES",El Caso Figo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código de la Ley (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W0e4PRWPjKX2EnhjXdSpIshKFD.jpg" group-title="VOD - SUSPENSO",Código de la Ley (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Nop! (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlJKvYdKJJeWoKeNNs1Fom1chIz.jpg" group-title="VOD - SUSPENSO",¡Nop! (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="That's Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSLSLO5GXYZVT6v2udNyPVYef9z.jpg" group-title="VOD - ROMANCE",That's Amor (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me casé con un idiota (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFOOlBp7BkVO1V7xaX3gHkdLWDB.jpg" group-title="VOD - COMEDIA",Me casé con un idiota (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código de la Ley - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6W0e4PRWPjKX2EnhjXdSpIshKFD.jpg" group-title="VOD - SUSPENSO",Código de la Ley - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Samaritan - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4GVIfQVABjKuAWy3fvidPJZE52t.jpg" group-title="VOD - CIENCIA FICCION",Samaritan - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135763.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kaamelott: Parte 1 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mcovnajaLoy7dbv5arykJjDFFC.jpg" group-title="VOD - UNIVERSO DC",Kaamelott: Parte 1 (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1135865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Seúl efervescente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT1nX2cChwjHWvD6yvB23hHzPE9.jpg" group-title="VOD - ACCION",Seúl efervescente (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136063.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor para adultos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ik0p4QM37Z8VYxFHEa7wgj8GHoo.jpg" group-title="VOD - SUSPENSO",Amor para adultos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136064.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor a segunda vista (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edjM8ubrnkXVjCttCBj31y8HwKj.jpg" group-title="VOD - ROMANCE",Amor a segunda vista (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tiempo para mí (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBiayvJ6SjXLvh642VmLQBAvbyw.jpg" group-title="VOD - COMEDIA",Tiempo para mí (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136066.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sorpresa en Navidad (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggWY6vsKqrwIc5tMQsaPuBnmQU8.jpg" group-title="VOD - ROMANCE",Sorpresa en Navidad (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136067.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Battle of the Bulge: Winter War (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/em2NY3recLURRJ4d6QuXGNN5H2a.jpg" group-title="VOD - ACCION",Battle of the Bulge: Winter War (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Into the Deep (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4bDUBd6PJqP31u3KDiQBBtnaQs.jpg" group-title="VOD - SUSPENSO",Into the Deep (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="First Love (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwLNm5VYq68Q65100uOr5fyAh9A.jpg" group-title="VOD - ROMANCE",First Love (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La jefa (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxWHaPYXauseKGNhYiWuAHtwoIt.jpg" group-title="VOD - DRAMA",La jefa (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infinite Storm - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXTS38zTm9PnhtXXyXhP92PEWoZ.jpg" group-title="VOD - DRAMA",Infinite Storm - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Archipiélago" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v36NNnTh9Hk3E1rbwmP17shZYZv.jpg" group-title="VOD - DRAMA",Archipiélago
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vértigo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v28T5F1IygM8vXWZIycfNEm3xcL.jpg" group-title="VOD - SUSPENSO",Vértigo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Aviary (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6HUQcOQsgkFFO8xCITfxQz6ivc.jpg" group-title="VOD - SUSPENSO",The Aviary (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Programa ADN (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c2eiDD1vvCYLllgDrG5Q8ZsyX5E.jpg" group-title="VOD - SUSPENSO",Programa ADN (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La villa del amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/132inJ3LdYQxLYyUATaoLjOP5tk.jpg" group-title="VOD - ROMANCE",La villa del amor (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Vecinos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT7388wlquvpGN3LPxVeD849QAI.jpg" group-title="VOD - COMEDIA",Vecinos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las Vocales (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTPL2U9glusiPwOBFoO3IeBiKDK.jpg" group-title="VOD - COMEDIA",Las Vocales (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honk for Jesus. Save Your Soul. (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lbYz4h4pIwkuUGGirPA5ncyyxe.jpg" group-title="VOD - COMEDIA",Honk for Jesus. Save Your Soul. (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super: Super Hero - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPwXtxnEgppVaMsrpPNajw1K7LH.jpg" group-title="VOD - ANIMACION",Dragon Ball Super: Super Hero - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curious Caterer: Dying for Chocolate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7quPRcCVUmMBxKO58QwPuIADtYG.jpg" group-title="VOD - CRIMEN",Curious Caterer: Dying for Chocolate (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136695.mkv
+#EXTINF:-1 tvg-id="" tvg-name="전설의 파이터 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/18jITPyoE7GF6wPRMpvbslYZn5b.jpg" group-title="VOD - ACCION",전설의 파이터 (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tides (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGuaKIaZ9jDUUUeERSrKNAEbsl2.jpg" group-title="VOD - CIENCIA FICCION",Tides (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El duque (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QA5MfTIMnMhiiq9emwSFF60nnl.jpg" group-title="VOD - COMEDIA",El duque (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diorama (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iK0Sjny4RsO9h0CGlKlhA8X2yCN.jpg" group-title="VOD - ROMANCE",Diorama (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thor: Love and Thunder (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VkGlhGHUzZjnkoYNasW0qhoP3R.jpg" group-title="VOD - ACCION",Thor: Love and Thunder (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1136987.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La chica salvaje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LIqdemM60shkcPOxLMCHdsnk7w.jpg" group-title="VOD - DRAMA",La chica salvaje (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Presencias - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgDT3uol3mdvwEg0jt1ble3l9hw.jpg" group-title="VOD - TERROR",Presencias - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKnaBlyhclpCMKAMQg96Lih1oab.jpg" group-title="VOD - AVENTURA",Pinocho - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137097.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La bestia - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGIkv9fQ3i7yVcJXDvG0Vry00LI.jpg" group-title="VOD - SUSPENSO",La bestia - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137098.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Final del camino (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5xgTNcdqbiVTVWbETtCkWCP2tLz.jpg" group-title="VOD - SUSPENSO",Final del camino (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin aliento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqnFoTOKLAtVIf3HtfM5GUd1ivW.jpg" group-title="VOD - DRAMA",Sin aliento (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red Snow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gKpsfpUtleiVTBInYnVRHq669nV.jpg" group-title="VOD - TERROR",Red Snow (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HollyBlood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0Xa3ip4yegzXyTeegooUZVuING.jpg" group-title="VOD - COMEDIA",HollyBlood (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137102.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Regreso a Salem's Lot - 1987" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2il1kBkO5z5Vbb5fsD9YYi9o0p.jpg" group-title="VOD - TERROR",Regreso a Salem's Lot - 1987
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137714.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hatching - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZ653k1rT3TSK5HcP73t1wb2RSR.jpg" group-title="VOD - SUSPENSO",Hatching - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137715.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La pasajera - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n46rT8fTXesVBXzUwLGkWCHHuIC.jpg" group-title="VOD - TERROR",La pasajera - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El milagro de Tyson - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hOaiYZQMliauaNX0SVIEKO1Urt.jpg" group-title="VOD - DRAMA",El milagro de Tyson - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tres mil años esperándote (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5tZNRH2Ye1Qnj3lLlNe7iegCdx.jpg" group-title="VOD - DRAMA",Tres mil años esperándote (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137718.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Breaking (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lelrqRfGcCCHOeTsRXbOiyecFqC.jpg" group-title="VOD - CRIMEN",Breaking (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137719.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Diego Torres - Atlantico A Pie - Gran Rex - 2022" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - MUSICALES",Diego Torres - Atlantico A Pie - Gran Rex - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En Primera Persona: Manu Ginóbili - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4HA0zTCPMXZ43uj8SCCBAtgMru9.jpg" group-title="VOD - DOCUMENTALES",En Primera Persona: Manu Ginóbili - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alice no Mundo da Internet (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDBfIdZG6BSohzzV1eCPVFrWnbO.jpg" group-title="VOD - AVENTURA",Alice no Mundo da Internet (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="White Elephant (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CyT4ztetBRTJhPTxjpMB8Sxg2p.jpg" group-title="VOD - ACCION",White Elephant (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unplugging (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOiOTvrQOIS0vDWwrkF0t9D2itM.jpg" group-title="VOD - COMEDIA",Unplugging (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La escuela católica (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r7ssCjVvUg5yHFivv3OUmIWNNU.jpg" group-title="VOD - DRAMA",La escuela católica (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Broad Peak (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hssJ3koEXveKRDXb3r6ujEuySGF.jpg" group-title="VOD - DRAMA",Broad Peak (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emily the Criminal - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg" group-title="VOD - CRIMEN",Emily the Criminal - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1137894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La princesa (La vida de Lady Di) - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNU8gzCuoYuZr1hl36xAlCAxFwF.jpg" group-title="VOD - DOCUMENTALES",La princesa (La vida de Lady Di) - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="#PartiuFama: Cancelado no Amor (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a057aSLvshbYrGH6eWY1dACserE.jpg" group-title="VOD - COMEDIA",#PartiuFama: Cancelado no Amor (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La invitación (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGNwpNvmieIClw6a9XZGKPL3p4Z.jpg" group-title="VOD - TERROR",La invitación (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espejo, espejo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FUfdBpl7VjC0ZWAbhLMcave9Ar.jpg" group-title="VOD - COMEDIA",Espejo, espejo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hogar a la deriva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5giCJJApV1bWLVK9JB0rst1l9X2.jpg" group-title="VOD - ANIMACION",Hogar a la deriva (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Revancha ya (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1nQDXdZhIS0HgidCPPGyGjKZ7j.jpg" group-title="VOD - COMEDIA",Revancha ya (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo era famoso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQorRsE0h6OhB3VdOXa8f2008UG.jpg" group-title="VOD - DRAMA",Yo era famoso (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Buenas noches, mamá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xgflUOfwrhlC6pfWm794okPPcsN.jpg" group-title="VOD - TERROR",Buenas noches, mamá (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Retrato de Familia (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiAe6Iv6MVcNKHXH0gKRIS2KDHZ.jpg" group-title="VOD - COMEDIA",Un Retrato de Familia (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rams (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o2WkyqJE2QiXkFPi8MZiYUiwbeL.jpg" group-title="VOD - DRAMA",Rams (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Otra forma de entender la vida - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDgGNZ5rEIUY0Zdh7x2sXFae0Of.jpg" group-title="VOD - DOCUMENTALES",Otra forma de entender la vida - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leave No Trace - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNhSmZLjpFB4nbyGMGv4JrjyWcx.jpg" group-title="VOD - DOCUMENTALES",Leave No Trace - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi primo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kt2ujBhjJd6gKkW2QyImZowXOrY.jpg" group-title="VOD - COMEDIA",Mi primo (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miénteme (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3NoPF6LAKDl3KUGkZsYPX9ionc.jpg" group-title="VOD - COMEDIA",Miénteme (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138530.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Speak No Evil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vCBC2DX5jQjPpVe9oqeCa19l1Fo.jpg" group-title="VOD - TERROR",Speak No Evil (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138531.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El perfumista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApW0Mv8N73qRFh0qXGvJ3wjJvcS.jpg" group-title="VOD - CRIMEN",El perfumista (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138532.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bone Tomahawk (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rFAE4LhOsjevrhUmYoVtRLuy6I6.jpg" group-title="VOD - TERROR",Bone Tomahawk (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138534.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Arañas! Un Experimento Que Salió Mal (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ApvzOzDQHMvrp59tOiCF2yLh7d.jpg" group-title="VOD - ACCION",¡Arañas! Un Experimento Que Salió Mal (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138597.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Foxhole (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSbeOXVt4J0wEC3QAKN3QEjlrTJ.jpg" group-title="VOD - DRAMA",Foxhole (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1138598.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emesis: El Amor Mata (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aphTmVhDAaZwUXkfu67WsKSQbIW.jpg" group-title="VOD - TERROR",Emesis: El Amor Mata (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1141963.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La última noche (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAELA9KZZoKyMKo52PtC8arLsjs.jpg" group-title="VOD - COMEDIA",La última noche (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1141964.mkv
+#EXTINF:-1 tvg-id="" tvg-name="V/H/S/99 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bOMmFtnykBmvhFcx8zdXO6bCAa.jpg" group-title="VOD - TERROR",V/H/S/99 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche de sustos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeH3eff53E3p1kBxJ9MZFzZLYlu.jpg" group-title="VOD - TERROR",Noche de sustos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No te preocupes querida (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f03o43FHj2qE48noSH82yxCDI7k.jpg" group-title="VOD - SUSPENSO",No te preocupes querida (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Accident Man: Hitman's Holiday (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zC5SJ18v9AhiHoFOIzZASqSxsPh.jpg" group-title="VOD - ACCION",Accident Man: Hitman's Holiday (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nzGU9YcZYbusvIMAZzx13X38jey.jpg" group-title="VOD - TERROR",Terrifier 2 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pearl (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inxOR04CQXFVIKvn6cNu99d9Rg9.jpg" group-title="VOD - TERROR",Pearl (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blade of the 47 Ronin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg" group-title="VOD - ACCION",Blade of the 47 Ronin (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142537.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1YyGqOsEkWjdkBMeUrxhtiLRvlD.jpg" group-title="VOD - TERROR",Bárbaro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142538.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOmLxwOnUFL5NQSCSY9cwtXFR1m.jpg" group-title="VOD - TERROR",Jaula (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142539.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cellar - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOmLxwOnUFL5NQSCSY9cwtXFR1m.jpg" group-title="VOD - TERROR",The Cellar - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Old Henry (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg" group-title="VOD - ACCION",Old Henry (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142625.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El abismo del infierno (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shgB6dnbdChaPF7k5rxStrxxmCq.jpg" group-title="VOD - TERROR",El abismo del infierno (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Whisper (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3zunvPLgM9qGFr8ob2BpaKSuAJI.jpg" group-title="VOD - TERROR",Whisper (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El robo a Mussolini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCdwjDILxVLG8LZKhXpjfQNUoeY.jpg" group-title="VOD - ACCION",El robo a Mussolini (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El ángel de la muerte (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9w9vlQ8E77N0B9ZbPBiwN64gfOn.jpg" group-title="VOD - DRAMA",El ángel de la muerte (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mas allá del universo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg" group-title="VOD - ROMANCE",Mas allá del universo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142631.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Rio Muy Frio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhnFKLefUEFTq35XGM6GpKUyi4D.jpg" group-title="VOD - TERROR",Un Rio Muy Frio (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142632.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dracula: The Original Living Vampire (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IEW2ZGKBHrZ1lWZywRVs3pFVyy.jpg" group-title="VOD - TERROR",Dracula: The Original Living Vampire (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142633.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cici (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmbpeBp9qeCFj94f6NtMd7Sssge.jpg" group-title="VOD - DRAMA",Cici (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142634.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mia y yo: El héroe de Centopia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hS53N9c3CCrfscouLcuGcfUuB5d.jpg" group-title="VOD - ANIMACION",Mia y yo: El héroe de Centopia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142635.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del planeta de los simios - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s51V3REPzdABoEDLC4TPDPkY3b.jpg" group-title="VOD - CIENCIA FICCION",La guerra del planeta de los simios - 2017
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1142736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salvajes, el cuento del lobo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OQcaJQAGCLwhispKJpnlc2hBsT.jpg" group-title="VOD - DOCUMENTALES",Salvajes, el cuento del lobo
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pánico a la deriva - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/paC5cDd4ClDBegVSvPVslYHKdgt.jpg" group-title="VOD - SUSPENSO",Pánico a la deriva - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wendell y Wild (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dsX6UAHqkQz1kiV8bs8SvjyVNa.jpg" group-title="VOD - ANIMACION",Wendell y Wild (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El vuelo del halcón (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnDtyazgMxAeKnyBji5z9iaX3fQ.jpg" group-title="VOD - ACCION",El vuelo del halcón (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mete miedo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMJnQ3loIIIjkX5pVxv5foMJeaz.jpg" group-title="VOD - SUSPENSO",Mete miedo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPYPRS7LVmLDXGJ7VfBjXaV9eZr.jpg" group-title="VOD - DRAMA",Sin novedad en el frente (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Corre, cielo, corre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7G55GTaMZXnlKJXz0lfQNL7wt53.jpg" group-title="VOD - SUSPENSO",Corre, cielo, corre (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Salvaje es el viento (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Apj7y1buX0fA7KLv4GyaI83sPV.jpg" group-title="VOD - CRIMEN",Salvaje es el viento (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Temporada Siniestra (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOSG17ToIDu4ucHqmIKAT9J8CcT.jpg" group-title="VOD - TERROR",Temporada Siniestra (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bodies Bodies Bodies (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6eUw3JlGKJHubgHesSOK4nSyv4Q.jpg" group-title="VOD - TERROR",Bodies Bodies Bodies (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El norte sobre el vacío (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Y9h7BNjm3PgR0mk6XjGszaRoWa.jpg" group-title="VOD - DRAMA",El norte sobre el vacío (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamá para Rato (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiGNK2P0k9HbwebcwDrKGKBUxwt.jpg" group-title="VOD - COMEDIA",Mamá para Rato (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mira cómo corren (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kltubO1ISs7RhhePYmxwIfCApvw.jpg" group-title="VOD - SUSPENSO",Mira cómo corren (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Takeover (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSwPRAMIvF58fu3FkY9ErB2W1eB.jpg" group-title="VOD - ACCION",The Takeover (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Men - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8bcHelHF3TZcBQtfvXsKOmfjhPc.jpg" group-title="VOD - TERROR",Men - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143528.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamá para Rato - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aiGNK2P0k9HbwebcwDrKGKBUxwt.jpg" group-title="VOD - COMEDIA",Mamá para Rato - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143529.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pasaje al paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Aame7mFIgHd7leTubAVAg66bdo.jpg" group-title="VOD - ROMANCE",Pasaje al paraíso (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Twin (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JPK9FKrWrGWchBPhdoIWC6qktB.jpg" group-title="VOD - TERROR",The Twin (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Drover's Wife: The Legend of Molly Johnson (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvPHL0ADhbYGFBVpAaWiV0wOrOJ.jpg" group-title="VOD - DRAMA",The Drover's Wife: The Legend of Molly Johnson (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Last Thing Mary Saw (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YNpJcetqgvyRk7VHtjBFuuVGF3.jpg" group-title="VOD - TERROR",The Last Thing Mary Saw (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Causeway (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Llmpsg6iI8jWzl7WDXWe8H1sx9.jpg" group-title="VOD - DRAMA",Causeway (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hostile Territory (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z1zBn2YCBTG4TDSxVekRqYZ1yml.jpg" group-title="VOD - DRAMA",Hostile Territory (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desaparecida sin rastro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2r5ZISrHQUQLBMdAJF3CDDAxp54.jpg" group-title="VOD - ACCION",Desaparecida sin rastro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Policía (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TJQmxsfC4LELFzxJmLQyTKvGxe.jpg" group-title="VOD - ROMANCE",Mi Policía (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El caballero del rey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lvUZgY23Emak4VjFy8VXiDjuVF.jpg" group-title="VOD - DRAMA",El caballero del rey (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secuestro en directo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a14BbSHvLgzCdbDD6tAL8OBVKL1.jpg" group-title="VOD - SUSPENSO",Secuestro en directo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sobredosis (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Mxb68Eg5jCvZwfFG3QjMS5ysGJ.jpg" group-title="VOD - ACCION",Sobredosis (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Weird: La Historia de Al Yankovic (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcj2z13G0KjaIgc01ifiUKu7W07.jpg" group-title="VOD - COMEDIA",Weird: La Historia de Al Yankovic (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Silent Twins (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjO3QS3mD2t8F5u5nIbzQ1ov8dN.jpg" group-title="VOD - DRAMA",The Silent Twins (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143979.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Emily the Criminal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg" group-title="VOD - CRIMEN",Emily the Criminal (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Belli ciao (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsaTulk2SsZQmIIDd1R6CtsQQPg.jpg" group-title="VOD - COMEDIA",Belli ciao (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1143981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gracias totales | Soda Stereo - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvswtOI2pvQXiTsiXGCgeTK2tto.jpg" group-title="VOD - MUSICALES",Gracias totales | Soda Stereo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Auténticos Decadentes – ADN Experiencia 360º" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - MUSICALES",Los Auténticos Decadentes – ADN Experiencia 360º
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Babasónicos: Trinchera" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - MUSICALES",Babasónicos: Trinchera
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aqua Teen Forever: Plantasm (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dzMfgDxEOfFdw6WIaoC94CayYWL.jpg" group-title="VOD - ANIMACION",Aqua Teen Forever: Plantasm (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144175.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frank and Penelope (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5NpXoAi3nEQkEgLO09nmotPfyNa.jpg" group-title="VOD - SUSPENSO",Frank and Penelope (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los descendientes - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg" group-title="VOD - AVENTURA",Los descendientes - 2015
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los descendientes 2 - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43dJFYdvGw4mgtdJg8UwttmyZtC.jpg" group-title="VOD - AVENTURA",Los descendientes 2 - 2017
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los descendientes 3 - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iYlUNAvMczvXaDzbEaGIkvKivbg.jpg" group-title="VOD - AVENTURA",Los descendientes 3 - 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia Claus 2 (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovE7xXTcxrJE6nur48tpoN4KYzK.jpg" group-title="VOD - COMEDIA",La familia Claus 2 (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="R.I.P.D. 2: Rise of the Damned (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg" group-title="VOD - ACCION",R.I.P.D. 2: Rise of the Damned (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detective Knight: Rogue (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg" group-title="VOD - ACCION",Detective Knight: Rogue (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Summering (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2UH9yHIqW8IQiDTPHEBTo7RknEL.jpg" group-title="VOD - DRAMA",Summering (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Confess, Fletch (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dqEk1X8rHSOWWfnVEuzgXj24Mr.jpg" group-title="VOD - COMEDIA",Confess, Fletch (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La peli del fútbol (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vrBH2x7qnESorPvsDgsUKAeH6iQ.jpg" group-title="VOD - ANIMACION",La peli del fútbol (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144619.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Margaux (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg" group-title="VOD - TERROR",Margaux (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144620.mkv
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lionel Scaloni, En Primera Persona" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5c8L-fjCzEyKkx6R7O7lhAE81Ynuf6BG344vkzdca2w7d-i5IQxBz0HNyHsPWLAP7kT4&usqp=CAU" group-title="VOD - DOCUMENTALES",Lionel Scaloni, En Primera Persona
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lagunas, la guarida del diablo - 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5c8L-fjCzEyKkx6R7O7lhAE81Ynuf6BG344vkzdca2w7d-i5IQxBz0HNyHsPWLAP7kT4&usqp=CAU" group-title="VOD - TERROR",Lagunas, la guarida del diablo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bala perdida 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A84Usw0jwhh5RPAKZV7gwP532Fl.jpg" group-title="VOD - ACCION",Bala perdida 2 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad de golpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXCR9cmG82NnKpKtO4LpqXqZAFR.jpg" group-title="VOD - COMEDIA",Navidad de golpe (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Color Fuera del Espacio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBXxjWhKUtMbB7NT0vHb3MkUmMA.jpg" group-title="VOD - DRAMA",Color Fuera del Espacio (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Que Padre… Es Mi Familia? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxSnWIyBvDkJkkvc0pzEtK9Pz5p.jpg" group-title="VOD - COMEDIA",¡Que Padre… Es Mi Familia? (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tadeo Jones 3: La Tabla Esmeralda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqj1AVa6Le76wvjRYqn5T4XiDYI.jpg" group-title="VOD - ANIMACION",Tadeo Jones 3: La Tabla Esmeralda (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragón de Papá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hgEe1w0An5fKi3ZqIUBwOyIN2y.jpg" group-title="VOD - ANIMACION",El Dragón de Papá (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="मोनिका, ओ माय डार्लिंग (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq5zQAlxhNZvCaqdUcpGDnOZeQG.jpg" group-title="VOD - CRIMEN",मोनिका, ओ माय डार्लिंग (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quédate  (Kal) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjMj7ZJZROBXETrquhHqZ33joJi.jpg" group-title="VOD - DRAMA",Quédate  (Kal) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aguanta la respiración: Inmersión bajo el hielo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cm3Xk6zJcanO2mAZaAuNWyepGf.jpg" group-title="VOD - DOCUMENTALES",Aguanta la respiración: Inmersión bajo el hielo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ámsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chCrPG0LJeilfJwsWPAfmWiJI2T.jpg" group-title="VOD - DRAMA",Ámsterdam (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terror Bajo Tierra (Mine 9) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hxM3HmO3vS8ZxPyFlXgI0tqXug.jpg" group-title="VOD - DRAMA",Terror Bajo Tierra (Mine 9) (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cara a Cara (Raging Fire) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny7lhSMcE5ddbFi2DOM9GWocCA1.jpg" group-title="VOD - ACCION",Cara a Cara (Raging Fire) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mediador - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEiLdCrQi4yCdgNYnAFRD14VTJP.jpg" group-title="VOD - ACCION",El mediador - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Secreto del Doctor Grinberg (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGf8q8QZ2Q0oL6zlyjTjsPD830u.jpg" group-title="VOD - DOCUMENTALES",El Secreto del Doctor Grinberg (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor bandido (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb3YySysqo8ikQoagBIz29BZOmi.jpg" group-title="VOD - ROMANCE",Amor bandido (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TÁR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="VOD - DRAMA",TÁR (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry en la Tierra de Nieve (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/effgnqJMX2lXvXhKlJt7Pm1TkcU.jpg" group-title="VOD - COMEDIA",Tom y Jerry en la Tierra de Nieve (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El lobo y el león (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gVO98lUJuzEbdlM5zV5iPwQr8a.jpg" group-title="VOD - AVENTURA",El lobo y el león (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szII7Fo0TWePGNI7CoWnAdESdZ5.jpg" group-title="VOD - TERROR",Smile (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise City (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg" group-title="VOD - ACCION",Paradise City (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El prodigio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npBvD1rRQHYGrxuwr2OrzXLso1w.jpg" group-title="VOD - DRAMA",El prodigio (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los billetes de lotería perdidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4I5zUfVszl6vGpTfMo7ue8TgU.jpg" group-title="VOD - CRIMEN",Los billetes de lotería perdidos
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Off Track (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9UUj8qH0lv8JYD2WH3OPxlsyUP.jpg" group-title="VOD - COMEDIA",Off Track (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In Her Hands (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Hy8PN25fik7oRTtnE7XnJOvK0.jpg" group-title="VOD - DOCUMENTALES",In Her Hands (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Declaración de emergencia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqd0w7sevlyBgcIAX1qg8LjsHFM.jpg" group-title="VOD - DRAMA",Declaración de emergencia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadstream - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rsS8m61oHTjoTKfDWVMF3OHnww.jpg" group-title="VOD - TERROR",Deadstream - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desencantada: Vuelve Giselle - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NveXOU3wlkbBrk4lR4noumF1fx.jpg" group-title="VOD - COMEDIA",Desencantada: Vuelve Giselle - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lamborghini: The Man Behind the Legend (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RKgnYLhCNGCUkrhiCRrs40rEHe.jpg" group-title="VOD - DRAMA",Lamborghini: The Man Behind the Legend (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inmersión (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0f68sGepVwmeHBEZnaHHPJKfWl.jpg" group-title="VOD - SUSPENSO",Inmersión (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busco novia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXGCldSSeZBZHfow0jSTXGJdVh1.jpg" group-title="VOD - COMEDIA",Busco novia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL VS HOLANDA" tvg-logo="https://cdn.milenio.com/uploads/media/2022/11/20/donde-ver-senegal-vs-holanda.jpg" group-title="VOD - DOCUMENTALES",SENEGAL VS HOLANDA
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="USA VS GALES" tvg-logo="https://depor.com/resizer/mXbc9vCt-gfaQ7gl_QCumApXL3U=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/QCJWRPHMOBBSRMNSHC3EFL6SPE.png" group-title="VOD - DOCUMENTALES",USA VS GALES
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DINAMARCA VS TUNEZ" tvg-logo="https://img.freepik.com/vector-premium/dinamarca-vs-tunez-grupo-competencia-futbol-versus-icono-fondo-futbol_292608-15897.jpg" group-title="VOD - DOCUMENTALES",DINAMARCA VS TUNEZ
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO VS POLONIA" tvg-logo="https://img.freepik.com/vector-premium/dinamarca-vs-tunez-grupo-competencia-futbol-versus-icono-fondo-futbol_292608-15897.jpg" group-title="VOD - DOCUMENTALES",MEXICO VS POLONIA
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Aventura De Blue En La Ciudad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg" group-title="VOD - AVENTURA",La Gran Aventura De Blue En La Ciudad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El test (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cVPq4uCrHlCvICzhsEzkHt14jm.jpg" group-title="VOD - COMEDIA",El test (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zjmXrsgoCDjcnHnVto03KpsF18.jpg" group-title="VOD - DRAMA",Armageddon Time (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moDLTCdLx38kMhN53KOTw0LdWMh.jpg" group-title="VOD - ACCION",Black Adam (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista de Mr. Malcolm (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76SeGCukVxqZFAJkke4fkk4uVN9.jpg" group-title="VOD - COMEDIA",La lista de Mr. Malcolm (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poker Face (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg" group-title="VOD - SUSPENSO",Poker Face (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Save the Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg" group-title="VOD - DRAMA",Save the Cinema (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mujer rey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jny1jvCkgpzc3C0axQsX9ADYcAl.jpg" group-title="VOD - ACCION",La mujer rey (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Till, el crimen que lo cambió todo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLCFNE88yhbHelLvj2vpgbW3ZUI.jpg" group-title="VOD - DRAMA",Till, el crimen que lo cambió todo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diario de Noel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF74fth4nJuzoxaeWEVoAIjOJwI.jpg" group-title="VOD - ROMANCE",El diario de Noel (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resurrección (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIysyh8a77RlwikXLwaLgIZprsU.jpg" group-title="VOD - TERROR",Resurrección (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doble Venganza (Payback) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5zKN7GX7MNpAZcbaod3hbfRnq9.jpg" group-title="VOD - CRIMEN",Doble Venganza (Payback) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lilo, mi amigo el cocodrilo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FqQqxjkfTj0Uhne4fI5vPO4hFc.jpg" group-title="VOD - COMEDIA",Lilo, mi amigo el cocodrilo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amenaza explosiva (Hard Hit) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnRGjlewyTZj9lfZv3WM9ZTIXRD.jpg" group-title="VOD - ACCION",Amenaza explosiva (Hard Hit) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Guau (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AwndqKMSVBmipyMu9qorzEVLMA.jpg" group-title="VOD - COMEDIA",El Guau (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las nadadoras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gAmA9hvblerOc6xwOjYQwAnpWe.jpg" group-title="VOD - DRAMA",Las nadadoras (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan de estudios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQ4lWuCYi5q9TgtEd1jggDx3gjl.jpg" group-title="VOD - CRIMEN",Plan de estudios (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en la granja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGCwI76dylPViDF9VXFY0ORRhls.jpg" group-title="VOD - COMEDIA",Navidad en la granja (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Gran Libro de Oro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pioc0HaWG2Cf3zoDEGjTgJOSBvv.jpg" group-title="VOD - COMEDIA",El Gran Libro de Oro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Misterio de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHpZwErpGPnRzfY2BKd7amT8zCU.jpg" group-title="VOD - COMEDIA",Un Misterio de Navidad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Paciente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbO5QmTW1JeeEzyTPcvUcxBPL.jpg" group-title="VOD - SUSPENSO",El Paciente (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la Galaxia: especial felices fiestas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kd6LgL3w1BLz9ksbdN52fsBJmaP.jpg" group-title="VOD - ACCION",Guardianes de la Galaxia: especial felices fiestas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Christmas in Paradise (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WKIDanEhGkaEmoEoxntk1YBcqj.jpg" group-title="VOD - COMEDIA",Christmas in Paradise (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Under Wraps: Una momia en Halloween 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLCm5xNgSkD9sdGPBfBdQKh7KzI.jpg" group-title="VOD - CIENCIA FICCION",Under Wraps: Una momia en Halloween 2 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy tu fan: La película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3LhtnBhWrhJA7gIwtbwK299gSU.jpg" group-title="VOD - COMEDIA",Soy tu fan: La película (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dancing Through the Snow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkxffROncVaBTs4AfJ9ZGvoYGmu.jpg" group-title="VOD - COMEDIA",Dancing Through the Snow (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hugo Sanchez: El Gol Y La Gloria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jr2KmZQDqjAGYh7KfdTdUylhBaI.jpg" group-title="VOD - DOCUMENTALES",Hugo Sanchez: El Gol Y La Gloria (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghislaine Maxwell: Filthy Rich (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9vl0FxtPQaiTOMRoKYhEuu9xw3.jpg" group-title="VOD - DOCUMENTALES",Ghislaine Maxwell: Filthy Rich (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El triángulo de la tristeza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgy78BLl0gk8OzTWHZyGrSlIEON.jpg" group-title="VOD - DRAMA",El triángulo de la tristeza (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Observada (Watcher) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQrQO6XshNdDPRKCUDG7AeYdgAX.jpg" group-title="VOD - DRAMA",Observada (Watcher) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wifelike (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg" group-title="VOD - CIENCIA FICCION",Wifelike (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me llamo venganza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cHGGU1CAhECNx6YY3oEbo6ysYb.jpg" group-title="VOD - ACCION",Me llamo venganza (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre de acción (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sZAwJI7hPIXwQKp95RFXhCm619.jpg" group-title="VOD - ACCION",Un hombre de acción (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad llena de Gracia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuQlQcTkNc8o6Vm6u0yREmOUZv9.jpg" group-title="VOD - DRAMA",Una Navidad llena de Gracia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Super... ¿quién? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IO3a6pBom1gk2xahd7kijBzn5L.jpg" group-title="VOD - COMEDIA",Super... ¿quién? (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boleto de Fuga (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg" group-title="VOD - CRIMEN",Boleto de Fuga (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un amor en Escocia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eP0BzICZXzEhhPqk08PLY78a1zZ.jpg" group-title="VOD - DRAMA",Un amor en Escocia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trol (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg" group-title="VOD - ACCION",Trol (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad en Hollywood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0Gw3DeqKLvuSqa78GJh1Q15OgH.jpg" group-title="VOD - COMEDIA",Una Navidad en Hollywood (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diario de Greg: Las reglas de Rodrick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RiIiXjvfPmxAjXylXG8uVdKjfJ.jpg" group-title="VOD - ANIMACION",El diario de Greg: Las reglas de Rodrick (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No Abras La Puerta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3c23qNXEhTNhLP6Q1E00Z3ZtQv.jpg" group-title="VOD - DRAMA",No Abras La Puerta (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Independent (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhlc1nsD8nnnGymEFaZ0twMH6M6.jpg" group-title="VOD - SUSPENSO",The Independent (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados en el Cubo (Cube) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOVUbGXOcybXCt0jaKK4tuoClIU.jpg" group-title="VOD - SUSPENSO",Atrapados en el Cubo (Cube) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo por un bar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wz3LJM9tVUgatlS1WhedZRju1ON.jpg" group-title="VOD - COMEDIA",Todo por un bar (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scrooge: Cuento de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOrnzHn9SCF6JTXfX02eSPyAAXL.jpg" group-title="VOD - ANIMACION",Scrooge: Cuento de Navidad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del futuro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouJ2GkogDYbVOuXwmTdHbDdKja1.jpg" group-title="VOD - DRAMA",La guerra del futuro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El amante de Lady Chatterley (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSgl2DxPG3DuQXoaHr500KeULmT.jpg" group-title="VOD - DRAMA",El amante de Lady Chatterley (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mensajera de la Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFTItjoubpI0lZHAqzhvKHXxaKk.jpg" group-title="VOD - ROMANCE",La mensajera de la Navidad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desamparados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg" group-title="VOD - SUSPENSO",Desamparados (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cena perfetta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XH3sYr0cIToimlORD5POTknhr3.jpg" group-title="VOD - COMEDIA",La cena perfetta (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La aspirante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvnHPmbXxISeQBSxAM9950Bxm69.jpg" group-title="VOD - DRAMA",La aspirante (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Wakanda Forever - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="VOD - ACCION",Black Panther: Wakanda Forever - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Huevitos Congelados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBBCBMXKzWRADtliUYfV69aVIcz.jpg" group-title="VOD - ANIMACION",Huevitos Congelados (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nebo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be8QfFTIOLG2dEaqladEFcWv1hO.jpg" group-title="VOD - DRAMA",Nebo (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ardiente paciencia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaeSKbKCM8SENsH54byfbYvpe0D.jpg" group-title="VOD - ROMANCE",Ardiente paciencia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abajo el Rey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up0rp9N57JYWggYs9GzfwXDtOTO.jpg" group-title="VOD - DRAMA",Abajo el Rey (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matrimillas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akrpgc25QorDhlSAfntjL65Mp6M.jpg" group-title="VOD - ROMANCE",Matrimillas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en Vivo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lp2mmzNQkW3UZnH8HjhyyXn8nM4.jpg" group-title="VOD - COMEDIA",Navidad en Vivo
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Topside (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcDGQ2nBftKijYVNFcm0rWsaPiU.jpg" group-title="VOD - DRAMA",Topside (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los renglones torcidos de Dios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hB2VqiLDiHAyLdZ1dlXIGqDJy06.jpg" group-title="VOD - DRAMA",Los renglones torcidos de Dios (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It's a Wonderful Binge (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzIn3nFCaUfLWRouCkeMhp363Yr.jpg" group-title="VOD - COMEDIA",It's a Wonderful Binge (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hacia la libertad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQe7paVC4tSwb8vBwxSqajJ22Ue.jpg" group-title="VOD - ACCION",Hacia la libertad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo de Tiffany’s (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePM4gIQYoyhqprpKlpnWzgXQg4A.jpg" group-title="VOD - ROMANCE",Algo de Tiffany’s (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Christmas Bloody Christmas - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuDD5K0r9AC5MMCxMUVjHPyXn3h.jpg" group-title="VOD - TERROR",Christmas Bloody Christmas - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gone in the Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1F9RpyLNbYyE9nE4INrVQh0b7T.jpg" group-title="VOD - SUSPENSO",Gone in the Night (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reza por el diablo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uG4XEG5dssmjNKbGafOYyOgYkM5.jpg" group-title="VOD - TERROR",Reza por el diablo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmLb1kpMqeAnKDC3jvMvIjKXot5.jpg" group-title="VOD - ANIMACION",Pinocho de Guillermo del Toro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="42 segundos - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8dgJQK7QiX6jItMYhAywNCrxIG.jpg" group-title="VOD - DRAMA",42 segundos - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T-34 Héroes de acero - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nag9eCEMIo4yVZD7sKLodEPe8T.jpg" group-title="VOD - ACCION",T-34 Héroes de acero - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Fabelman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg" group-title="VOD - DRAMA",Los Fabelman (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo creo en Papá Noel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcHe72gXZD0gyfWiHZrGEFfuULE.jpg" group-title="VOD - ROMANCE",Yo creo en Papá Noel (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad sin Filtro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVx7g8YkrjDVF62zMFGMxyjExen.jpg" group-title="VOD - COMEDIA",Navidad sin Filtro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thorn of War (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weLMa0MTOSGIzLQZMD9YZegQk4.jpg" group-title="VOD - ACCION",Thorn of War (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bardo (or False Chronicle of a Handful of Truths) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCU9kfgIfLuxTivXmJ66f93d1tP.jpg" group-title="VOD - COMEDIA",Bardo (or False Chronicle of a Handful of Truths) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindcage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg" group-title="VOD - SUSPENSO",Mindcage (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maldición: Despertar de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvjo3PsVWvMaI1gIBHGWKwQykgr.jpg" group-title="VOD - SUSPENSO",La maldición: Despertar de los muertos (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Game: The Legacy Murders (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Dlj0TbLNtGHq42HE0fLnawtyyD.jpg" group-title="VOD - TERROR",Dangerous Game: The Legacy Murders (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big 4 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1Uo0ucvjV4z8Y0eRnFFBkoW5ZC.jpg" group-title="VOD - ACCION",The Big 4 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Socorro! Ya es Navidad (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmyeMduOLqrNqBpAaMwC7Qivwoy.jpg" group-title="VOD - COMEDIA",¡Socorro! Ya es Navidad (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147323.mkv
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144646.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lionel Scaloni, En Primera Persona" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5c8L-fjCzEyKkx6R7O7lhAE81Ynuf6BG344vkzdca2w7d-i5IQxBz0HNyHsPWLAP7kT4&usqp=CAU" group-title="VOD - DOCUMENTALES",Lionel Scaloni, En Primera Persona
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144651.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lagunas, la guarida del diablo - 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5c8L-fjCzEyKkx6R7O7lhAE81Ynuf6BG344vkzdca2w7d-i5IQxBz0HNyHsPWLAP7kT4&usqp=CAU" group-title="VOD - TERROR",Lagunas, la guarida del diablo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bala perdida 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A84Usw0jwhh5RPAKZV7gwP532Fl.jpg" group-title="VOD - ACCION",Bala perdida 2 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad de golpe (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXCR9cmG82NnKpKtO4LpqXqZAFR.jpg" group-title="VOD - COMEDIA",Navidad de golpe (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Color Fuera del Espacio (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBXxjWhKUtMbB7NT0vHb3MkUmMA.jpg" group-title="VOD - DRAMA",Color Fuera del Espacio (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Que Padre… Es Mi Familia? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxSnWIyBvDkJkkvc0pzEtK9Pz5p.jpg" group-title="VOD - COMEDIA",¡Que Padre… Es Mi Familia? (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tadeo Jones 3: La Tabla Esmeralda (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nqj1AVa6Le76wvjRYqn5T4XiDYI.jpg" group-title="VOD - ANIMACION",Tadeo Jones 3: La Tabla Esmeralda (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Dragón de Papá (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6hgEe1w0An5fKi3ZqIUBwOyIN2y.jpg" group-title="VOD - ANIMACION",El Dragón de Papá (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144797.mkv
+#EXTINF:-1 tvg-id="" tvg-name="मोनिका, ओ माय डार्लिंग (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yq5zQAlxhNZvCaqdUcpGDnOZeQG.jpg" group-title="VOD - CRIMEN",मोनिका, ओ माय डार्लिंग (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quédate  (Kal) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjMj7ZJZROBXETrquhHqZ33joJi.jpg" group-title="VOD - DRAMA",Quédate  (Kal) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144799.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aguanta la respiración: Inmersión bajo el hielo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cm3Xk6zJcanO2mAZaAuNWyepGf.jpg" group-title="VOD - DOCUMENTALES",Aguanta la respiración: Inmersión bajo el hielo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ámsterdam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chCrPG0LJeilfJwsWPAfmWiJI2T.jpg" group-title="VOD - DRAMA",Ámsterdam (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144801.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Terror Bajo Tierra (Mine 9) (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hxM3HmO3vS8ZxPyFlXgI0tqXug.jpg" group-title="VOD - DRAMA",Terror Bajo Tierra (Mine 9) (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144803.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cara a Cara (Raging Fire) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ny7lhSMcE5ddbFi2DOM9GWocCA1.jpg" group-title="VOD - ACCION",Cara a Cara (Raging Fire) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1144804.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mediador - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tEiLdCrQi4yCdgNYnAFRD14VTJP.jpg" group-title="VOD - ACCION",El mediador - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145051.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Secreto del Doctor Grinberg (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mGf8q8QZ2Q0oL6zlyjTjsPD830u.jpg" group-title="VOD - DOCUMENTALES",El Secreto del Doctor Grinberg (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor bandido (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb3YySysqo8ikQoagBIz29BZOmi.jpg" group-title="VOD - ROMANCE",Amor bandido (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TÁR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg" group-title="VOD - DRAMA",TÁR (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry en la Tierra de Nieve (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/effgnqJMX2lXvXhKlJt7Pm1TkcU.jpg" group-title="VOD - COMEDIA",Tom y Jerry en la Tierra de Nieve (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El lobo y el león (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gVO98lUJuzEbdlM5zV5iPwQr8a.jpg" group-title="VOD - AVENTURA",El lobo y el león (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smile (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/szII7Fo0TWePGNI7CoWnAdESdZ5.jpg" group-title="VOD - TERROR",Smile (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Paradise City (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg" group-title="VOD - ACCION",Paradise City (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El prodigio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npBvD1rRQHYGrxuwr2OrzXLso1w.jpg" group-title="VOD - DRAMA",El prodigio (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los billetes de lotería perdidos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4I5zUfVszl6vGpTfMo7ue8TgU.jpg" group-title="VOD - CRIMEN",Los billetes de lotería perdidos
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Off Track (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9UUj8qH0lv8JYD2WH3OPxlsyUP.jpg" group-title="VOD - COMEDIA",Off Track (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In Her Hands (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9Hy8PN25fik7oRTtnE7XnJOvK0.jpg" group-title="VOD - DOCUMENTALES",In Her Hands (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Declaración de emergencia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqd0w7sevlyBgcIAX1qg8LjsHFM.jpg" group-title="VOD - DRAMA",Declaración de emergencia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadstream - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rsS8m61oHTjoTKfDWVMF3OHnww.jpg" group-title="VOD - TERROR",Deadstream - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desencantada: Vuelve Giselle - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NveXOU3wlkbBrk4lR4noumF1fx.jpg" group-title="VOD - COMEDIA",Desencantada: Vuelve Giselle - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lamborghini: The Man Behind the Legend (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/RKgnYLhCNGCUkrhiCRrs40rEHe.jpg" group-title="VOD - DRAMA",Lamborghini: The Man Behind the Legend (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inmersión (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0f68sGepVwmeHBEZnaHHPJKfWl.jpg" group-title="VOD - SUSPENSO",Inmersión (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Busco novia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXGCldSSeZBZHfow0jSTXGJdVh1.jpg" group-title="VOD - COMEDIA",Busco novia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SENEGAL VS HOLANDA" tvg-logo="https://cdn.milenio.com/uploads/media/2022/11/20/donde-ver-senegal-vs-holanda.jpg" group-title="VOD - DOCUMENTALES",SENEGAL VS HOLANDA
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145716.mkv
+#EXTINF:-1 tvg-id="" tvg-name="USA VS GALES" tvg-logo="https://depor.com/resizer/mXbc9vCt-gfaQ7gl_QCumApXL3U=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/QCJWRPHMOBBSRMNSHC3EFL6SPE.png" group-title="VOD - DOCUMENTALES",USA VS GALES
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145717.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DINAMARCA VS TUNEZ" tvg-logo="https://img.freepik.com/vector-premium/dinamarca-vs-tunez-grupo-competencia-futbol-versus-icono-fondo-futbol_292608-15897.jpg" group-title="VOD - DOCUMENTALES",DINAMARCA VS TUNEZ
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145813.mkv
+#EXTINF:-1 tvg-id="" tvg-name="MEXICO VS POLONIA" tvg-logo="https://img.freepik.com/vector-premium/dinamarca-vs-tunez-grupo-competencia-futbol-versus-icono-fondo-futbol_292608-15897.jpg" group-title="VOD - DOCUMENTALES",MEXICO VS POLONIA
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145814.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Aventura De Blue En La Ciudad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg" group-title="VOD - AVENTURA",La Gran Aventura De Blue En La Ciudad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El test (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cVPq4uCrHlCvICzhsEzkHt14jm.jpg" group-title="VOD - COMEDIA",El test (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145816.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Armageddon Time (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zjmXrsgoCDjcnHnVto03KpsF18.jpg" group-title="VOD - DRAMA",Armageddon Time (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/moDLTCdLx38kMhN53KOTw0LdWMh.jpg" group-title="VOD - ACCION",Black Adam (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La lista de Mr. Malcolm (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/76SeGCukVxqZFAJkke4fkk4uVN9.jpg" group-title="VOD - COMEDIA",La lista de Mr. Malcolm (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poker Face (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8a2MIBV9LuPYbF5rOEAohjjMz9P.jpg" group-title="VOD - SUSPENSO",Poker Face (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Save the Cinema (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg" group-title="VOD - DRAMA",Save the Cinema (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145821.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mujer rey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jny1jvCkgpzc3C0axQsX9ADYcAl.jpg" group-title="VOD - ACCION",La mujer rey (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145822.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Till, el crimen que lo cambió todo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLCFNE88yhbHelLvj2vpgbW3ZUI.jpg" group-title="VOD - DRAMA",Till, el crimen que lo cambió todo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1145823.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diario de Noel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qF74fth4nJuzoxaeWEVoAIjOJwI.jpg" group-title="VOD - ROMANCE",El diario de Noel (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146008.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Resurrección (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIysyh8a77RlwikXLwaLgIZprsU.jpg" group-title="VOD - TERROR",Resurrección (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146009.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doble Venganza (Payback) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5zKN7GX7MNpAZcbaod3hbfRnq9.jpg" group-title="VOD - CRIMEN",Doble Venganza (Payback) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lilo, mi amigo el cocodrilo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FqQqxjkfTj0Uhne4fI5vPO4hFc.jpg" group-title="VOD - COMEDIA",Lilo, mi amigo el cocodrilo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amenaza explosiva (Hard Hit) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnRGjlewyTZj9lfZv3WM9ZTIXRD.jpg" group-title="VOD - ACCION",Amenaza explosiva (Hard Hit) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Guau (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4AwndqKMSVBmipyMu9qorzEVLMA.jpg" group-title="VOD - COMEDIA",El Guau (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las nadadoras (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7gAmA9hvblerOc6xwOjYQwAnpWe.jpg" group-title="VOD - DRAMA",Las nadadoras (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146014.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Plan de estudios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQ4lWuCYi5q9TgtEd1jggDx3gjl.jpg" group-title="VOD - CRIMEN",Plan de estudios (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146015.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en la granja (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGCwI76dylPViDF9VXFY0ORRhls.jpg" group-title="VOD - COMEDIA",Navidad en la granja (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146016.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Gran Libro de Oro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pioc0HaWG2Cf3zoDEGjTgJOSBvv.jpg" group-title="VOD - COMEDIA",El Gran Libro de Oro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146017.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Misterio de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHpZwErpGPnRzfY2BKd7amT8zCU.jpg" group-title="VOD - COMEDIA",Un Misterio de Navidad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146099.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Paciente (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbO5QmTW1JeeEzyTPcvUcxBPL.jpg" group-title="VOD - SUSPENSO",El Paciente (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146100.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guardianes de la Galaxia: especial felices fiestas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kd6LgL3w1BLz9ksbdN52fsBJmaP.jpg" group-title="VOD - ACCION",Guardianes de la Galaxia: especial felices fiestas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146101.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Christmas in Paradise (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WKIDanEhGkaEmoEoxntk1YBcqj.jpg" group-title="VOD - COMEDIA",Christmas in Paradise (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Under Wraps: Una momia en Halloween 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLCm5xNgSkD9sdGPBfBdQKh7KzI.jpg" group-title="VOD - CIENCIA FICCION",Under Wraps: Una momia en Halloween 2 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy tu fan: La película (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3LhtnBhWrhJA7gIwtbwK299gSU.jpg" group-title="VOD - COMEDIA",Soy tu fan: La película (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dancing Through the Snow (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkxffROncVaBTs4AfJ9ZGvoYGmu.jpg" group-title="VOD - COMEDIA",Dancing Through the Snow (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hugo Sanchez: El Gol Y La Gloria (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jr2KmZQDqjAGYh7KfdTdUylhBaI.jpg" group-title="VOD - DOCUMENTALES",Hugo Sanchez: El Gol Y La Gloria (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghislaine Maxwell: Filthy Rich (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i9vl0FxtPQaiTOMRoKYhEuu9xw3.jpg" group-title="VOD - DOCUMENTALES",Ghislaine Maxwell: Filthy Rich (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El triángulo de la tristeza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgy78BLl0gk8OzTWHZyGrSlIEON.jpg" group-title="VOD - DRAMA",El triángulo de la tristeza (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Observada (Watcher) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQrQO6XshNdDPRKCUDG7AeYdgAX.jpg" group-title="VOD - DRAMA",Observada (Watcher) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wifelike (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg" group-title="VOD - CIENCIA FICCION",Wifelike (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me llamo venganza (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cHGGU1CAhECNx6YY3oEbo6ysYb.jpg" group-title="VOD - ACCION",Me llamo venganza (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un hombre de acción (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sZAwJI7hPIXwQKp95RFXhCm619.jpg" group-title="VOD - ACCION",Un hombre de acción (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad llena de Gracia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuQlQcTkNc8o6Vm6u0yREmOUZv9.jpg" group-title="VOD - DRAMA",Una Navidad llena de Gracia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Super... ¿quién? (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IO3a6pBom1gk2xahd7kijBzn5L.jpg" group-title="VOD - COMEDIA",Super... ¿quién? (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boleto de Fuga (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg" group-title="VOD - CRIMEN",Boleto de Fuga (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un amor en Escocia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eP0BzICZXzEhhPqk08PLY78a1zZ.jpg" group-title="VOD - DRAMA",Un amor en Escocia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Trol (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg" group-title="VOD - ACCION",Trol (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una Navidad en Hollywood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0Gw3DeqKLvuSqa78GJh1Q15OgH.jpg" group-title="VOD - COMEDIA",Una Navidad en Hollywood (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El diario de Greg: Las reglas de Rodrick (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RiIiXjvfPmxAjXylXG8uVdKjfJ.jpg" group-title="VOD - ANIMACION",El diario de Greg: Las reglas de Rodrick (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No Abras La Puerta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3c23qNXEhTNhLP6Q1E00Z3ZtQv.jpg" group-title="VOD - DRAMA",No Abras La Puerta (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Independent (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jhlc1nsD8nnnGymEFaZ0twMH6M6.jpg" group-title="VOD - SUSPENSO",The Independent (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atrapados en el Cubo (Cube) (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOVUbGXOcybXCt0jaKK4tuoClIU.jpg" group-title="VOD - SUSPENSO",Atrapados en el Cubo (Cube) (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo por un bar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wz3LJM9tVUgatlS1WhedZRju1ON.jpg" group-title="VOD - COMEDIA",Todo por un bar (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scrooge: Cuento de Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOrnzHn9SCF6JTXfX02eSPyAAXL.jpg" group-title="VOD - ANIMACION",Scrooge: Cuento de Navidad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La guerra del futuro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouJ2GkogDYbVOuXwmTdHbDdKja1.jpg" group-title="VOD - DRAMA",La guerra del futuro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El amante de Lady Chatterley (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSgl2DxPG3DuQXoaHr500KeULmT.jpg" group-title="VOD - DRAMA",El amante de Lady Chatterley (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La mensajera de la Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFTItjoubpI0lZHAqzhvKHXxaKk.jpg" group-title="VOD - ROMANCE",La mensajera de la Navidad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Desamparados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cO9ywQ2AMHM9EoBJsJGH1Gl9U5L.jpg" group-title="VOD - SUSPENSO",Desamparados (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cena perfetta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XH3sYr0cIToimlORD5POTknhr3.jpg" group-title="VOD - COMEDIA",La cena perfetta (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La aspirante (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvnHPmbXxISeQBSxAM9950Bxm69.jpg" group-title="VOD - DRAMA",La aspirante (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146800.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther: Wakanda Forever - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYpT2R7639KvKZ668uoQGS2QNFp.jpg" group-title="VOD - ACCION",Black Panther: Wakanda Forever - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Huevitos Congelados (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBBCBMXKzWRADtliUYfV69aVIcz.jpg" group-title="VOD - ANIMACION",Huevitos Congelados (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nebo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/be8QfFTIOLG2dEaqladEFcWv1hO.jpg" group-title="VOD - DRAMA",Nebo (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ardiente paciencia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uaeSKbKCM8SENsH54byfbYvpe0D.jpg" group-title="VOD - ROMANCE",Ardiente paciencia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abajo el Rey (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/up0rp9N57JYWggYs9GzfwXDtOTO.jpg" group-title="VOD - DRAMA",Abajo el Rey (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matrimillas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Akrpgc25QorDhlSAfntjL65Mp6M.jpg" group-title="VOD - ROMANCE",Matrimillas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad en Vivo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lp2mmzNQkW3UZnH8HjhyyXn8nM4.jpg" group-title="VOD - COMEDIA",Navidad en Vivo
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146975.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Topside (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcDGQ2nBftKijYVNFcm0rWsaPiU.jpg" group-title="VOD - DRAMA",Topside (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146976.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los renglones torcidos de Dios (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hB2VqiLDiHAyLdZ1dlXIGqDJy06.jpg" group-title="VOD - DRAMA",Los renglones torcidos de Dios (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="It's a Wonderful Binge (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzIn3nFCaUfLWRouCkeMhp363Yr.jpg" group-title="VOD - COMEDIA",It's a Wonderful Binge (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hacia la libertad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQe7paVC4tSwb8vBwxSqajJ22Ue.jpg" group-title="VOD - ACCION",Hacia la libertad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146980.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Algo de Tiffany’s (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePM4gIQYoyhqprpKlpnWzgXQg4A.jpg" group-title="VOD - ROMANCE",Algo de Tiffany’s (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146981.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Christmas Bloody Christmas - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuDD5K0r9AC5MMCxMUVjHPyXn3h.jpg" group-title="VOD - TERROR",Christmas Bloody Christmas - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1146974.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gone in the Night (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1F9RpyLNbYyE9nE4INrVQh0b7T.jpg" group-title="VOD - SUSPENSO",Gone in the Night (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reza por el diablo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uG4XEG5dssmjNKbGafOYyOgYkM5.jpg" group-title="VOD - TERROR",Reza por el diablo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147093.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho de Guillermo del Toro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dmLb1kpMqeAnKDC3jvMvIjKXot5.jpg" group-title="VOD - ANIMACION",Pinocho de Guillermo del Toro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147094.mkv
+#EXTINF:-1 tvg-id="" tvg-name="42 segundos - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8dgJQK7QiX6jItMYhAywNCrxIG.jpg" group-title="VOD - DRAMA",42 segundos - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="T-34 Héroes de acero - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nag9eCEMIo4yVZD7sKLodEPe8T.jpg" group-title="VOD - ACCION",T-34 Héroes de acero - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Fabelman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2IywyOPS78vEnJvwVqkVRTiNC1.jpg" group-title="VOD - DRAMA",Los Fabelman (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo creo en Papá Noel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcHe72gXZD0gyfWiHZrGEFfuULE.jpg" group-title="VOD - ROMANCE",Yo creo en Papá Noel (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147153.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Navidad sin Filtro (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVx7g8YkrjDVF62zMFGMxyjExen.jpg" group-title="VOD - COMEDIA",Navidad sin Filtro (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thorn of War (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weLMa0MTOSGIzLQZMD9YZegQk4.jpg" group-title="VOD - ACCION",Thorn of War (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bardo (or False Chronicle of a Handful of Truths) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCU9kfgIfLuxTivXmJ66f93d1tP.jpg" group-title="VOD - COMEDIA",Bardo (or False Chronicle of a Handful of Truths) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mindcage (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JvqaHXdKBtEAmm4EDVTGkoAGIj.jpg" group-title="VOD - SUSPENSO",Mindcage (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La maldición: Despertar de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvjo3PsVWvMaI1gIBHGWKwQykgr.jpg" group-title="VOD - SUSPENSO",La maldición: Despertar de los muertos (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dangerous Game: The Legacy Murders (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Dlj0TbLNtGHq42HE0fLnawtyyD.jpg" group-title="VOD - TERROR",Dangerous Game: The Legacy Murders (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Big 4 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1Uo0ucvjV4z8Y0eRnFFBkoW5ZC.jpg" group-title="VOD - ACCION",The Big 4 (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Socorro! Ya es Navidad (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmyeMduOLqrNqBpAaMwC7Qivwoy.jpg" group-title="VOD - COMEDIA",¡Socorro! Ya es Navidad (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="el fotografo de Mauthausen " tvg-logo="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBUVFBgVFRUZGRgaGx0dGxobGhshIR0cGh0jGxsaGxsjIS0kGx0qIRwaJTcmKi4xNDQ0GiM6PzozPi0zNDEBCwsLEA8QGhISGzMhISExMzMzMzMzMzMzMzMzMzMzMTMzMzMzMzEzMzMzMzMzMzMzMzMxMzMzMT4zMzMzMz4+Mf/AABEIAQ4AugMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAEBQIDBgEAB//EAEAQAAECBAQDBQYEBQQBBQEAAAECEQADITEEEkFRBSJhEzJxgZEGQqGxwfAjUtHhFDNicvEHgpKyojQ1Q1OzJP/EABgBAAMBAQAAAAAAAAAAAAAAAAABAgME/8QAHxEBAQACAgIDAQAAAAAAAAAAAAECESExEkEDIjJR/9oADAMBAAIRAxEAPwD5JJWUlwzsW6VuNjGiwuHyoDrUXAUcxo4snK7N+gOkZ7DCz2rtDfAzZaJZdaH0BrTqHc+VPnCoivik4KmDIE2Z0MxLVtQnqKVgWSk6hurfYiWLm55hUS7mhysGFByig8BHpSr7ZfpAAhMVG8PuB4MTEq//AJlzlBScqgvIgEuMiy4FSxYEE5WBFTCviYR2q8iQlGY5UhQWAP7wSD5E7ObwzgYmCMKKGBwIKkWMAphhRQdXo/hpr9INlCovcfNoo4dLzIFfzajRtLn6ecWDlMYZ3lrjODHDCg66B71a9oa4GU463/b73hLgZtetGudOsO8Kulr69NvWMcms6SWihb6jVQ1v8vlC3EgP9fl5frBxW7k/Mn3lam3h1gWaRTW/38IIPRWZfMCdtQB8RdvrFc/DuHhlhcJmmGjBh7rWJ1sfKzwVj5SRyjaHc+SmHG2MxArEdDF2LTzRT7pjqx6c2XYSeawdwuYUpWoAE0YFiKg1Y3IuNiAdICnDm9PlBuC7i/LQHf7pFBscP7W4rKFFMkpDA/K6Vs56BukG4j2qlz8PNlKQUTFy1hADqClFJASKOCafrGJweIQEHMoNQhJUASbA22ffSCZcyTNWlKQoKJDJypXmrZIKgFHoopgIOcyU1BDpo4Io5SSOj0cag6wM4+wY0SpjYNfMkKypls1pbpOUgPlJJe47tHy0zjfeYQBTwsV/2n5wZPFPjAvDTzJ6gwwmhx40+MAALU7jr91i/DS2Sp27hI3t8ounywEqCUuoqGgNBoPWvgIGQl0KoxALnysB93hGM4CgHMRLxC1hScvYuAzHlUoEZHLF2JISQMp5oA4xWfNbM2b3yCrzIUpz/uV1JNSTwnEolhTz5sleZJSUOUkAF8yRUqsxsOsCcQWhc1apZUUFTpKgkKI3ISAPQDwhgMlFYvl2i3BzchdqG8RmIAUWLg1hb50dnGzPhCtK67Np5+nnDadhcwdN4ScNVUeen1vGo4XNSSxjm+Tcu2/x6uOiKWkgh/vwMOMNOp960f73hljsElaXH0ijC4EV60b78Iz85V+FgZeIDhqnxfVTOfppHpOGUuo1+x99YPlcPTmL7DV9SNPCHCJaUpozROWeulTD+lOGkhBAYPkS9FCtd6ennAGPXUnyhgubzkdB+Y2J3+kIOLYhgSIeM3keV1iz+LW64i1DHZSXzE6M3iVAfJ48BQx249OG9g5vePl8oNwD5F/7XoOuptAc48xgrAK5V+Vh0OukMG3DcZPKeVctDCxyJPk4hrLk4haFGYqQtAooGWgruCQgJQCthUhKgWfzUez0sKxEoEEir0BoUlJd2FXau4jbr4NKl4eatSUcpUvMcwNqZspBAAKiw38i6UZLHryYZKAUpKkSybhS0EAy8qGplImBSnJLgEixQffchtK4jLSgpMsLPZZApxyq0IBFv7WL63MKm+88KHVOCWEqSTYPo+kNJWKllYALg6EWtYtCiWzh40vs3LlhWaZKzDMLoBAalQaXOzVGoEFEV44gu1A41y2yj1ofhC/MTLW5LBJZ/AWjS+0eHQJaTLQgImKDqCBmSRzZA1uooQzVBMIMjSFu1BSr0JGmlSYBXuAqlALzolEullTFywQGLgJWlQIsXFaAQv4hlM1ZQlKU5iyUKzJA/pVYjwYaCG/sviFIzpE2RLClJftVLSbFIIKVIBAcmpcFiKh4U8VUTOmO5JUXJev/AJrJ/wCSvGGFEqpaCFIaBpIYvt9tB+ILsdx03ET7P0hhiyh0h9hlkEEdIRyEVhpglkEOWAIjP5I0+OtNIWSkBjbb0tSPSVl7N5GIYKcMoAI9G+HrHlqKbeUcunVKPQgjoWFwBqpqCjRNZW2nxgLCzN6BhYNdSi7RZicegamJs5OUtxCmWdSQNX/xCfHSiaQzHEZaVlS1PtYt08YHXipc1Qyb7RtjuemWWr7Z0oUHGj1+lIrUqhhvxWXlSsdEEWuVh+th4QmNjHThdzbmzmqHnmsE4BPKvy32Pp5wNNTzH70gvBjlUB01Oyn8fOKI09nUZpoIUQzUch30oQT+3SPo3GcT2eEWrM5CAScxSRamdIzC/e73zjAez3DApV2WkpIZtDqknnSd0kGsa3iXFEIlTgCZeQtLIWUklIQVhMxiyklRG7A0LGHShDwrDZkylpSoZJeYF0JQFZSlSyGzFRJ75NQE3jKOnr/xjXSpT4NKsy0vKGUJrUS8rqpa5voBoYxWfw9TCFTwSDnTld81GHvXHxaNZgMyQFLSgAh3mTBZLZiR1INDQPVrxkZBt5wWshiBbTzNKaFoYE8U4gZs0zMuUCgANAKs1rxUUfhrVzWCb07yWDXe/SB5RYhVWBDsBu9Ho9NdotmpeWTSi90uxDMA+Y70DQUCeB8QkyQvtUqVmIZkS12d3K2UNKJNfSF3EVhU6YQnICtwnLlbplBLeDmBl384JxRBmKIIIKrix6jpCNISeTwizM6R0B0G4aLcOo5Rt+8ULQxgJ4uzgteJSpkxPUQRhkZgB469dvrHpmHUkEpttEe9LnQjC8RrVxDg4o0D0akZgS1qZ7Q44PIUs5drROeE1tWOd6WLxuUOSwbQEaq084Wr4otR5BTcxPj2BWFgVZuupO8LUYJYsWhY449nlculx51VdSiXbQE974w/4Vw8jmNIo4RgwmpFcoctq1a61hnj8cEIZPhE55W8RWGMnNJeLYlKs6dSUAUHuqe9/K0KCKGJYhf4ge7xw2frG2E1NMc7uqJiXJ+9IIwSgErfYe81a33F6dYrUqsSlUSvq2oGh8/T5RSTXA4hRzBKmUkApUx5Sqg0BuXA6G1oElTpgzJXMVmTlyoJdy5ZSMzpcAkVai1eBOwkoSkgAuoM/VWvkLeu8d4phkrSJjPWoSASCS1rEdPPeKI1w8xsHIUsKKUImJATZ2y5laE1Uwv3ukY7slf1f+MaTheFSZaDlSSRXlSaAN47xmphDnu36wjRkaXZ6xovZ6RKWomanMmjBiRrmtb3YzuFQHSNzsS52A1ezRt+Edoq8pfOxJZKAVXUSKnK7+69vCD0J297R8PkolDs5SEomFP4ljLcggZcr8wSRR2rd3GcniX2FCCsqGhBAdr6imv1Ln8Y4kqZOIl50S0kjIlZYqBLrY0BLJuKMIAxcsJlJAWouXy0KUk1LHQtldulYAD4akmalr5vof6Vf9T5XHuJD8ZehzfMA6gerCO4FTTElwGOoKh5pFT5R7FnNMKqOTVgUjyBt5wjXYZykARzEJYgaxLDUSIgsufTWAqvwimPSGATmHp84VSzzQzwx+Y+YjPOctMOnTKo8OfZgDtR1ELlpdJHQ1h3waSlOVSWI16Rnnfq1wnKXtDhQplCrJ0JOqtTCLDSEqEa/HYmWlGda0hLXzAuXVr9IzC0MTMQOVRJ8jGWNutNLIkpAS/9qRYiwFy9fKFeKRqYaJqVHoN9h90+cJuITtBF49s8uimYecHrFqU6RZNlMAdQ3xPpHpYFHa+rt5tWOnG8OfKchZiCDa9onKHKu/k35VCuvpDgYVK0Jf8AKPlC6ZhynODbQs/uq10gmWzs0owCpnMEqfLoqrtoDoYIXxAKQqWUkFTUG4IPiDQ7xbw+UkLVlWFjcUulyPI08oq4nKSiYlZSFJVUpJUASxcOGI0NItB5w9bS5eZCk8qWcGtLp6RmpgLnvX3TG04QlEzCmZmJVLAAT/TQEnZnNbRiJhDnu3PumEaqQshjsTY66F/jDCbPLEZlENyuotWlBpTb8sLpdg29P86Ro0YCUG76wtKDLAcFRolSWSX7x10t1AW4YBwCzOHcE33AqbWgrHy0CQgpUoqzgMQGy84ca+6n1MNcRgZUuWZiQo/iAZc6ksWKiyq/lZyDd6tCriEwdlLSzVUtyxLZ5ie8L93zaAAuFE9shixel9jsQel9Yt4j/OX/AHeOgPvP8YDlLKVBQoRagPwNDE1zCo5jUkuaAfAUhGu7RkiKJBKnPX6RTPV7u0F4SWQmoufvwgF6dUWrDPDLDDy+YhdNjuHnZVgaEj5wspuDG6OTO5Wb5fSAsPjJklRKScpul6ftF/u0LHwHxEBFayWZJ+H6xHDSb7WYibNxKku5CbCnU6ADWD/4mZLASQ2npAMpE1qEI8Kk9dhE04ZN1qK1bk28NIjKTpcl7XDE1Kuh1Orenh+sKgrOt9IsxE2pA6COYOWSQlIcnSHJqbRvdWYuiW6po/U1y6eOvlFMgWgzjDJyywXIYqsz1oKP8doGwyuYW1uH021jTD8oz/S5M0hIAJFIGxkwqSX01yvcH08YYolpKEkjQQDjpaWoN7k6A/dYUs2dnCrg1PMwyxsoLSM2WhPeLDW5FR/iAOFq5UhhQmrVq1zDOYthUgWqoOL6jWNWa2VhF/w6SkKRNaWEBM1aSUMc6wM4DMC5pcs2mfKhpmbTnMbLAJSFoC3Usyw6QKALQQASaBqFvS0YoqAo7tR8l2iYrQeSWA8TGw4bnmIlmWc7JUjKUpUczJKwRQpSEMc1fF7Y6SLOdY1uDCpKshWhXIkJJFkrUVKSUDvk2cqAY2OZoCnZrx2cBhyOzSk5SoBOUgEHKSXS/ulxmrSMYvEFSUgtyvWtnJa7AOo+pjU8ax80yOZYymWpGUBLMkjNUuQplJchqEdYyUkj4H5jeHDqQlb0i1KQE9dI6+YxxcwRNOKSAHJDqMEIFvHY7HUfWIolBRHUwVxBOVQoB5Eab2X96iFLyLOAeJVfy+UUYhbKT4x6eqp+9IrSczDWhHleHUwbhsRygemnwghKtYTKUQ0HYbFVDxFntpjdD0lRYMwbQNqYlOQEi8DzuIJSzDTQNqd4Xz8WVmDxp+UXodSqVe0PsLKEnYrIqfy9IE4JKSn8RV8oy2uR3urRbxAtLzHvLPKNk7xOXN0MeOSrHzApZIs4A8iz+vziuWsuGvWxbTeLuwPYLmEG6AKUbNVi+8CJB0v+0a49M8uxwnKypAJ7o+UVTFkgubPq2h9fAwP/ABK0NmTmTppSCVTUqlnIlQoXCj0LeOsBo8IU4HjB2OWUgqBYhiKP8DCvg8xi2ru/zhtjgCA+cWqlifIGLQMkcXMuWn8KY+QcxYh0pNaOVAhRLuDQUNYyeP8A5sz+9XvHcx9Kw/s3JMtBdY5UuHcGn9tvWPmfEv502vvq0f3jq1YiVT0kv6xocNgkS2mGYoBSAtJSAHU/OjmBCmUQH/cQglH5xreHlRlylJSlYSFCiVOJhsh0lxMAZTsKJzAuDFF7GYhKlScwmLWnMlARlQs5liZlBBRzj8NdAzuN6ZKdKyqu7g0Zm5iliNDR269I3HFJktGGU8ogkE1UtRUpAqSsrzMQpT003FMPNmBZTlQAQFOQSczqKg77A5fACAVKarKljTf9ICTigVAAa3do7iJJJJU8RkyuaFDphgFnM+gi3Hzcy/8ANadfpFGBkKClqBICWf6/OJLUFK894XGx6DlLkxWmW2Ui6T8jBORjFBV+IOpgIxmy5a0bKbRzAKMKUl69KQ+/hHQFi7XBf46xXhZCS+ivn5RHlpemdnpcjw3fUwdwvhiphc8qdzr4QYnBJCnVzE91Iq/X1glXDpk1gxGw2ELLM5iLwKEFagSMiBzFm7gCSCdahn8oV4/FGfMpuyR8BTSLeKI7MCWke6nMwNWSGffelPN4HwNCTqA3rc+nzgk9i30nxVQCMgADZA+XvZSffdiA9riF8vvfv03grGGhHVL33PlFeFluuxPgAT3do0x4iMuaKlyHUlx7oI8xQwTjwEy1acps233aOKxiHQnMBklgE9SAW8oH4hiQuWctWBem/j9Ijm1fEhTw080Osb3QanwDm2kI8B3xGgxABR5bHbSNvTJo+EqVNSkdmvKwCytJtQlJJuQQKENUsY+dcUyifNG0xYudFGPr68XMMrLlyHKMpDKG7vYqZi3xj5DxRB7ea4r2i3oPzGIiqhJT8VfONdwxEySU5gh8joLlNFk5istmBASoDKGrexGTw4dQBOUZgCTYA0Kjqwv5RqpHAiFgpnBSgAwyO4ew52pTUW8oYg7i+PmGQQUSwkomI7rqskqUFP3vxANWZL6RkJSeby2J12FTGk4nOmhPZzEoyEqZRSNWBUcqjlJ5X15RsIz4RlWQ4LajMxrcFgW8oPQvaePv4RVhUas9flHsQdesWSLeAhAYpapYWQAAuvQA7fLygJFS4s/Tb4eUGpR2iQkdXik4coLdTsf8RONVl0gsQGpP4g8YYBP231gRSOceMWhpcM/ZAue7006ikSwOGMx2IDG5q3hFXDlPJI1S+g1HSghhwWiaC6jGGd1tpjzoTg8G2x1Jd3NQ5Phpp6wzkyQxa5+UckIpX4tudqQJxvF9nh1KSatTxNBGHOV026jH8VnZpiyDTMQmpPKnlT0FALRySlk9dYBwpc11Pz6aQ6wGHzqr3RU/pHVfrGE5oPE4f8MqJ1QyXLgEqqU2ALUOrGA5VKt0qOnSHvHVjIpLi8tk5v7q5G5QRq9W6QjkH628IrG7myymrpNEokhrn7LmJ4mWBLUQoKuKA0bqQNxUXrF+CUUusFPKiqVKYqSoZSAd6xXj5CQnMgMFy87VJTRVM3lrvD3yNcE2DLLEN8ashFGu1SwqDrCbD94QzxSvwx3e8O9axvFoMFe1eJyZeRmHur2Gy/toz89KVqUtWV1EqNVXJcwynISpAISE8iA5ULs9qbNewgPs/H1ETFB5SiFAi4II8RaljWNlgeIzFJzrllKwwzZVBLOXUXsR1IHNTWMhgVMtCjYKQo+RBPyjQyeNmqQFZXJHNpoCAN6u/SAQ14viZaEMZhzZgoJlr1CQxPKoEvuU2jLlQKioOxc8ymudSNYd47i0xctSBKlgFJc5XLEOVDR2f3XG7wilm/8AjXeAVHEinnE8PX4RybEsNX5WJ6WFT5RNOG/CJby3JO4HQ9IG4iOZNNVafUW8TE+Fz8ikA2Iy/pEuNS8q0UZwTYjU/bm8TJrI7d4gQK+W0Dvzjx2iZmZVE/do6lQPNo71+sXUQdgV5QU2BS1mrpTTaNDwNHKCNzGWKdqBj9iNP7PT+UMNPjGXyTjbTC8niaIFGpsBqdBGZ9s5nKiW7any/cxpCGy6UJZm1On28YX2gxXaTlHRNB5X+MY/HPttp8l1iAwiXUwr+9o1eGlhKQnapNK7nr4dIz3BJVVLL9Pvwg/GTSyZYJCpigD4PUjalI1z5ukYcTYbis3tAqZ7qVJSioapLlrh218oXST4a3fbpGm9pcKJchTAgZ5TUQEii6JIOYtS9K0uYzeBS6mrZVlBJtuaeWtovC7xTnPsJlLUggppmQAXAIIIDggiuhjk5ZWmYSXJSd9ulI0KOCpMtBzK5paTpQlILWgZGDyyTmAClpVctQClLE11gmcV4VjEJIVUN4wfOnJyjmFx10OkE4/h+VRJV8B+sBCSxBcs9wl9Do9YuZbRcdHU3DDsVgu6Qlm3SRb/AGlQ84RsP8ivnDtc2Z2WQSrp5lUck6Wp4Pp5Qu/hV/kUOmYQY3gUvwicxQnUqCRfUtpWH0nhq0BKiHdVeVdAN3SzOxpWloScMP4qG/8AsR/2EbbikybLV2csq5lOGq2bmJIajl/sQyB4nCLOZI7NghSioZmZIcgcoYsGsL+MIEi/7b9Yf4SZyTVLzZ1JUDmU5ZjQjSr0G3hCBJ+J2ggqM9MESEsAKb6/SsVJDmsEhQD0J8L+USEkIcAjyi7iawSiw5TZxqp6an4RRLxqU0KVUpYeO8DYjE5iCKU36k+d4YUzC6jsSPlHSmha/wC8RmCvmPlvE5xhkLws0FJBDFjreGns9iwiYUmyhTxH7fKFWGFFeB+2iOHUUKB2Lg7GIym5pUurtsONcR7OW4uzJvdRVvWgD+UYdScxbQd4/dzDDjGNVNKCxYJ/MVVKi9TfbpCyYlRGUBhr1icMPGKzy2a8MLIqCHJO3Lod7NFUpZmTAupDgJ3YG9oqC/wwgBiphYimrb7QVwoNMQP6hrC/tP8AkPPalLSjygZlS65Gdgs1W/N4Nyvq8ZfBp5xaxunNodPrpGk9pAOzLD3pdcqtAv3jynwFtbiM1hiyvI6tpv8ATWKw/JZ/ptsDPKpYcBkpAcKc8oAqlqWhZxHFFSCWNHo4DpCQoKI+IHhBWHl5hLUEBLAErDuRlYggJcvS+0C8WyFMzmJOSwDF8pABcOc2w2rGUk8mtt8SfHTnUp0lw1L3oGisKtRQrsHsbVicuUnn5VZS3eCnJF712ikYepypVl/KCQXANRqI0jOtPNSOyXbuHfbpeFSRQQfKW8h9MmtPd30gGWzDw/M/x1ghZM5gkDtEDTOkH1Yx9G4lNSJolmYlKyAUgoUXuACqyXIYPZj0j5vhFZVhR0UD5CPoPFJ8vFS0zJaFh3CV5JealCkkrfLU0pGlRAmOCCqcQtKixBCdwCHOlehNj0jIFVo0ycFMly1NLUKEleaWxAoxSVVFbNqWvTL6iCdCiZS7R41zfo/w1imSqLkWP7/SsMBJ5dZ8Y4NIunS+ZXjECiALGF9f2aJGIAHpEgD9/wCIW4WqklZIszjcfpERK6mJITFyExNqpEEpaJRbkiCkwtnpLDIdT7AD4R5BZ6s1jsRY+sWYZLAeA1e4e2kULLOOp+cKH6E43iEyZLOfLUpdgoWdqOwubCAEKYghnrcA3pa2sTKnQf7hr0OmkV/dovGcJyu6bYbj0xCQkhKgAACcz0pVT1pEcRiiqbmITYVchmSqjE1eFbUi7EIJOZncCutqxNxm1eVsHz56B76B4qH6xSlSFBgpKugWHsdRYVEKMWbUPoYqkzygkgPRiCIJiLk2qlpTLU1gk2H9MJ045DCqvRMVI4mtaFA5agju9G3hanMw7vxhaotUSVu/SN1wZJ/hEA/mmCnj01jBo1jf4Ij+HFBRS3cvoklzSNKidoYeURIU4U+RV0rD9axiwTvG2wqU9kpsndUxSVVpsbHp+kYlFvKFA6xN46lIjgMSEUekTMamU+keE7+kjyiM6Xq3w/eJS8OpCk55Szy58pQpJUhic2+WhOa1DC0TqZ39KvSJmc10mCZMyWpSQnDFSnYIC1EnumgCSTRKxT852EQUgZJihIVRklRK/wANTAcxZsxKVHIo+8doWgmioca2eAVTFJUxVY12hpKQtS0Sk4VSFrUnKlRWCUkqs6XysQ6hYIfeB+1QQtQwzpSRmUFLKUuVNmJTTM4AzV5OpEKQ7RKFiBjinshR+/SLVTqoBw6khRdKXmPMCnCQijkVTUO+XV4nJSkus4Usi4dbJsBnLcgdKmCmcqNYPE9g1qq2VdNoqmODr5/WDZgSl1KkFOZHIS7uSplpzAZgHA1HJepgfEJBy5JSkBROWj5nNEoJPM1qOYcmkqSsxMK3/SJS8MpKjnSpJHuqDF+ouPhFhSIPIeKorEEfxIypDiw1ihUUqMK8qnD2IWCp321+ukUzu8fGJKJ0vFK3JfeGQvCKp5xKWQw7ttlQHLmKTQN8f1judX2/6waK1GUGfqY2HCuKyUSQhUwBWZRYhT1AD0G4OsYxCvKsTBiqTZyuJyEoUntUlwpmQsXZgSQX/aMokxQDFiyyVEbGA1jxIR9LxHsXIGNQEymkHDLWU5l/zETMnezPZaCz+7HzviqAibOSkMETJiUjZKVKCRWpoAID2pUHHlGmxPEZEzFBfaZZasIZJXkmEpUqQqVzJLlTKLulksRq5LH294BIw0jDrlIyKKiiYcyi6jLSsPmJANFGm8Bex/C5M6TilTZeZUsyMhzKGXtFqC6Ah3AF/KAEns7NEjEomqIKU535b5pakp7tWJI1F4Nk8RQnA4iSpRExczOkZTlYqlKJzWGXs13qXF3LT9qMJKkY6bKQhpaFy2Q57pQhag5JNSVVJ1hrx2Vg04RMyVhylU4p7M9oo9mAiXMIU6iFOFqHQn0nY0X8N47KTi8PNmKVlRhkS1rZRUlXYFCqXUM2zu7wLK4rK/hcahRWFzZueWBnAOZQ75ScpYAnKpw5DOQGt4Jw6VMk4xUyXmWiQpaC5GVeVZzMDXu6vpvEPbDByZWKVLkABCZaQUpUo8znMQVE3LeekEpC5nHcOuZw8lyiRLSmYChRImJloYpehBUhKWFBkJ96KJuPQpOMTLJInYhK0KIUPw0qmF2sFDOhOVQLh6agnAcClKwKpxQM4QshTmuWYKM7BkdKxTwGQmZNyrTmT2cxTVFUS1KBpW4B8oVppe0M5E5GGTLV/LlJQoFAooS5aCA/VBtRiILTjpfZYNBqqRMSpQygBkqzONHLmg26wT7Q8OlS5CFy0Mo4nESyXUXRLmrSgMTolKas5at4t9nMBhv4VeJxEsrSJvZqYr/DRlSTMZNTVWv9NoW6fDNcSWFTFqBBcu4CgK7BRKvUwE0FrCTMZLqRnYPcpzUe1SPDyhv7ZSsPKX2UnDLlqSpzMUVlK0lPdSFEiitR+U9YQZhSYoWmNbwPg0ufhpiik50dooEZqiWqSpSbt3FLFn5vCFXtZhUSsXNly5ZlpSQAgkn3RzOVEkKqoVsoWtD0WyJUVKixcVKMUVR1ieWIJNR4x14oKwYkDFaRExASYMSX3T4GIgxMQB98xPE0ieMNTOUZwKPkKVlTatnlo9RHxzFys+OXL/Pi1ob+6cU/WF8rFKCs5KlKDAErUCGNnuR0tWIBZd3Lu7vV7u+/WA31X/UqWheEmqQoky8XLzhiMijJCMrtWi0KfdbaQn/05lqXKxktAzLP8MQl6kJmLJIfb9IwpnqIIK1EEuQVEudzWpoKnaOypykl0qKTukkFjo4Lwg0Htwt+I4kg+8j1EpAI8iCG6Rfx4tg8L/Yg61Bw8p4zKFh3UM24dnfr41i2etS0BICmAo5Ub6jbT4CEbSexE9SZePnIbNKkhaXAICgFkFjcOlNDEf8AUWW2OUCCE9lLJJNqksOlIzWClzCAiWFKzuCkUzMCoguWLAGh6x6ZgZ6lDMhZCiWzKBJCUBZYlWiSD5teAn1XBYZA4ciUFHtFcOmLCGUxSWWVvZ8ykhrl9WpifZSYO2BJvKnM+pMlbDxMKU4DFA5edsrJ56t+Uc3d6WtFkjh8yWjMqWWAd3FCOZyxLsHhU219uJSpchCFAJWcXipjOHKFzFqSrwIUn1Agf2IlTB+JLWrmmGXMQ6SjJkcqXLI5me4ING1rjpk9Si6lKUbOoknwcl2iImkOxIehYkONjuIXsD8dlGLWJbZBiFBAT3WExkgdGZukPf8AUkYjtlKX/wCmCwmUPw2C1S3XQcwcpWebbwjGvHJuIWrvLUr+5RPnU3ggbL2M4/Kw8rnUxEwhTihRMmSEqINqIRMJ8BuIW/6k/wDuM7wl/wD5ojOTJ7gpAYE1GYkeDH7+EUrmFRdRJOpJJPqaxUJFSoqVE1GKlmKD0u4iTRGUaxN4AvRggdfn+kWI4eDr/wBh9ImhJF1J/wCKd6+94iDUDZLen6wAomYchRSkFTM7Am/+Isl4VZdk23pe1/CI44tMOn+TFAWd4CFDCLy5mpu43aJpwcytBS9Rp/iBELAu5GzsIYIBdjLAfdQ9aAwAP2KmdqM/36iLDhVs7aPfSLUSqDlRXUq3qH5bCPJd/wCWGLB3DUvYG8AVow0wvykMHLhqW18RBCUT2AzKYBgM5YDYVoKD0EQ7Ng5ALg3VsdstLH4RJIJSfw0ijOVa2cMDV4DQQqekpVnXVlJOcuCQSCK0opXqY6e2UoHOvkducuCwBYvShA8KRa3vZEMKtmvcMBl+2jhlgt+GkE07xuxNeXp8oAiP4k//ACLYmv4hq1N+vxi7PPIKc6yKggrNalJBrXURUJTOwG1VvVrjl+2jzkEtLCqaKFL7gVoYnQcXhlhiRel9Tb6esQOHXt8fH9DFmU0dKDQa3206RxKa9xLEP3ti18vX4QaG1Yw6y9LOLjShiqbhlj3fSvy8DBDMGyIpfmP6eMcQh65Umls1qE0p4/CDQ2DMlf5Ff8THU4SYRmy060tHcTNAdOUPSoL9doDKzuYYEzcKtIJIoCxrr9gwGoxNSjuYoWYcJdJ1MezxxJYRRngM+SRsPSL0KgRJi1JgBdjz+IfvUxQDFuPP4h+9TFMBCZeHJQVbWDGrbH7tHcNgjMDpUgVbnWlNWex6fWBI8TAB0zAKSCSpBYEllpJpsNbxCVhioOCgDqpI3uCehpAkdeACpuGKQ5Ug9AoE+g+7bx04U5M7oIYEgKGYPQOm7/KBAY88AGy8MTLVMdLJanvFyBQeb+AO0VS5ZUCQ1GuWvtvA+cxwmAC+yNapoHvfoOvSPS8OVJzDKwLMSxs7ttArxEmACZklQuPSvxZoP4VwVU8OlSQHIZlKU4b3Ei1bvudITR4wAwncPUmYmUSjMoODm5Q70USBlPLbqI4vAKCSrMggAkspzRqM16wAI6DABsvCugqNz3ACncg5nPTSBI4T9/fn6x6APExXrElRGXeGE5psB9/ZiHLEpZdzq0cYQg//2Q==" group-title="VOD - DRAMA",el fotografo de Mauthausen 
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secretariat (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bpAR3ALEfaqosxbi9zpuv9FH7F.jpg" group-title="VOD - DRAMA",Secretariat (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147337.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Apology (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqH23XXiGGg8b8QKitonZAoWQg3.jpg" group-title="VOD - TERROR",The Apology (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clases particulares (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sran1BdIsMx21DyKMjYKCiwxtx1.jpg" group-title="VOD - COMEDIA",Clases particulares (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reviviendo la Navidad (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8u3f6mMv7LvIbxkmrs0j3fuNN.jpg" group-title="VOD - COMEDIA",Reviviendo la Navidad (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche de paz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hqBeKurpfqoV5msTH5XttGLwFUv.jpg" group-title="VOD - ACCION",Noche de paz (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ánimas Trujano (El hombre importante) (1961)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUh28NikWcCYX0twMxwCRvvx1Yo.jpg" group-title="VOD - DRAMA",Ánimas Trujano (El hombre importante) (1961)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viviendo juntos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDbCjkz6TahXJ8VfPxPHHbPfGqj.jpg" group-title="VOD - COMEDIA",Viviendo juntos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="High Heat (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzOBtwhso2u1XrLNmNDuuKCtFLL.jpg" group-title="VOD - ACCION",High Heat (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Killer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPXGKOEQ1NSrmH6s7qFFF3qC9O6.jpg" group-title="VOD - ACCION",The Killer (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jorge el curioso 3: Vuelta a la jungla (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPKrI43SisZh3Q1jnzzwzQXNmTz.jpg" group-title="VOD - INFANTILES",Jorge el curioso 3: Vuelta a la jungla (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147587.avi
+#EXTINF:-1 tvg-id="" tvg-name="Mundo extraño (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAZ95yy7rLnGgaIyqCvPSnsomDU.jpg" group-title="VOD - ANIMACION",Mundo extraño (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147588.mkv
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147590.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crónica de una fuga - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qXchNc4yEq5pY9FvwDBt9YPyTh.jpg" group-title="VOD - DRAMA",Crónica de una fuga - 2006
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Missing 411: The U.F.O. Connection - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuw2SInmgIh14FGvSkqM31VHuQw.jpg" group-title="VOD - DOCUMENTALES",Missing 411: The U.F.O. Connection - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La traición de Huda - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwHnvpUOvNyXkSrbS6MNQc3XB1V.jpg" group-title="VOD - SUSPENSO",La traición de Huda - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hansel & Gretel: After Ever After (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVAliRzR7fkZkrgderna2AN7mMl.jpg" group-title="VOD - COMEDIA",Hansel & Gretel: After Ever After (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147741.mkv
+#EXTINF:-1 tvg-id="" tvg-name="7 mujeres y un misterio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iz2tpJJgSDBS646VYhmNkUmot4l.jpg" group-title="VOD - COMEDIA",7 mujeres y un misterio (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147742.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Noche en la escuela (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgxCnkiXx81uobrGouq09cOdxX9.jpg" group-title="VOD - COMEDIA",Noche en la escuela (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147743.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spoiler Alert (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6FQtqoIP7JUqc9hRwQQfuYG2kz.jpg" group-title="VOD - ROMANCE",Spoiler Alert (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147777.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Beta Test (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSk3TkqPMWvzlwRBtejZ1UzMhgf.jpg" group-title="VOD - SUSPENSO",The Beta Test (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147778.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Amazing Mr. Blunden (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ6DKclRghjLL2G4jYPwZLMTM6l.jpg" group-title="VOD - AVENTURA",The Amazing Mr. Blunden (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147780.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Family Camp (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KRK17s0W3us1PZsG3sFlEzfHMG.jpg" group-title="VOD - COMEDIA",Family Camp (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147781.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nightride (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8WILe0aNn4QhiNQA0hIFltuti9.jpg" group-title="VOD - SUSPENSO",Nightride (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mal de Ojo - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tshEIrdYNHQYubiiRz8mRZR6KQA.jpg" group-title="VOD - TERROR",Mal de Ojo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147787.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La guarida - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifRFLx83Xk1DcwAS3OScgI6HmWO.jpg" group-title="VOD - ACCION",La guarida - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147788.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evasión o victoria - 1981" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hO86vqFBAVEoMdO8OsoKn3RwwBQ.jpg" group-title="VOD - ACCION",Evasión o victoria - 1981
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cosas imposibles (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eaf7GQj0ieOwm08rrvjJQNbN0kN.jpg" group-title="VOD - DRAMA",Cosas imposibles (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fiesta de las salchichas (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4YiHAxavhMLaBqOzx7ZirmOwNkD.jpg" group-title="VOD - ANIMACION",La fiesta de las salchichas (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147850.avi
+#EXTINF:-1 tvg-id="" tvg-name="El Río de la Ira - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnCuJyDxnoTxlQ48yoOXBgVBtnC.jpg" group-title="VOD - ACCION",El Río de la Ira - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147853.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre la vida y la muerte - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEZYj3QgjxAHqc28VGmYitpe91p.jpg" group-title="VOD - DRAMA",Entre la vida y la muerte - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1147992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La batalla por Sebastopol - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cURuQIcuJ5U8ToPJByqytaIpL7U.jpg" group-title="VOD - ACCION",La batalla por Sebastopol - 2015
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Más respeto que soy tu madre - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmfiG4vAPdII9XDY1smay5QuI1f.jpg" group-title="VOD - COMEDIA",Más respeto que soy tu madre - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148134.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todas somos Jane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3oV6065tgYpukAjLxSbWcfqdg9.jpg" group-title="VOD - DRAMA",Todas somos Jane (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148137.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Gato con Botas: El último deseo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6aQfiKqi19Orx4fhoICSib58xzx.jpg" group-title="VOD - ANIMACION",El Gato con Botas: El último deseo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148138.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los crímenes de la academia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/90Tle5e429OdpMmvuRrcQLrCRiT.jpg" group-title="VOD - SUSPENSO",Los crímenes de la academia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148139.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Other Me (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxDp1OJyiTPUYm4ykqJrlkkMABy.jpg" group-title="VOD - DRAMA",The Other Me (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148140.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los reyes del mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2BdT6WC1BZYgplysY0v2Y50JHi.jpg" group-title="VOD - DRAMA",Los reyes del mundo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Habla con Jane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGDw00ijSDdmZDOKepZ45OWq898.jpg" group-title="VOD - DRAMA",Habla con Jane (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Secuestro: Inocencia robada (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykgqDzMNiXfPgGBrLSNdGfzMEZR.jpg" group-title="VOD - CRIMEN",Secuestro: Inocencia robada (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148831.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asesino perfecto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d73gCCREHfwqmKK4a1VFuF8UowN.jpg" group-title="VOD - ACCION",El asesino perfecto (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148832.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adiós, señor Haffmann (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Lxsln5naXidztPQQJbAcqA76dz.jpg" group-title="VOD - DRAMA",Adiós, señor Haffmann (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148833.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ocho de cada diez" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGtxDEEcaTTTK2sSoxQByhgqGBw.jpg" group-title="VOD - DRAMA",Ocho de cada diez
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sick - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JWl9GQvojEs4EghENHvUAQE9Oz.jpg" group-title="VOD - TERROR",Sick - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M3GAN - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nODj4huoOcHwCQnfhZFCqUYcInU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",M3GAN - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Objetos - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejijnP0sOr4Fgxo5CYWT6rz3ZdG.jpg" group-title="VOD - SUSPENSO",Objetos - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devotion. Una historia de héroes - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMAWgK9Z3C2L0MaI17VqwdZi8bJ.jpg" group-title="VOD - HISTORIA",Devotion. Una historia de héroes - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Disconnect: The Wedding Planner (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoB5pA88k1s9e8HXWDj5JHOF3ZV.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Disconnect: The Wedding Planner (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Perro perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vNhYiYibl5tfisoVcJuLhR2iaLX.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Perro perdido (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La aldea siniestra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AUpD8Wv45rkCKn0XgvpG8shKS2.jpg" group-title="VOD - TERROR",La aldea siniestra
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1148865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Frank vs. God - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCClur6bULHIZUqbiqwYTOs9BHu.jpg" group-title="VOD - COMEDIA",Frank vs. God - 2014
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Old Way (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Old Way (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snow Falls - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfZklSVDJPpHT0Arq4A8GY8Q9S9.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Snow Falls - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Rolling Stones: Havana Moon - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wh7m5IISn3qmvfH8PgxTJqD3hnl.jpg" group-title="VOD - MUSICALES",The Rolling Stones: Havana Moon - 2016
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead Zone (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZCzLnF0e70VrvccmJBQZWmM8pW.jpg" group-title="VOD - ACCION",Dead Zone (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149582.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Angry Birds: La película (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndFOgZXIBdAobly9YO595lUb79E.jpg" group-title="VOD - ANIMACION",Angry Birds: La película (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149583.mkv
+#EXTINF:-1 tvg-id="" tvg-name="JUNG_E - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",JUNG_E - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fall - Vertigo - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBU3TkbrU8Ji8j8rDErXUrlwBpB.jpg" group-title="VOD - SUSPENSO",Fall - Vertigo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wrong Place (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWBXVkDXdXuY1zmkonDYTiO9Yi6.jpg" group-title="VOD - SUSPENSO",Wrong Place (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149701.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Devotion. Una historia de héroes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxXJLtFRLnTP3Wm8g17i8ABxQ8o.jpg" group-title="VOD - DRAMA",Devotion. Una historia de héroes (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149702.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kandisha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9SzskotXYsdPu6qHWZVnbjlZMqW.jpg" group-title="VOD - TERROR",Kandisha (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149703.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Narvik (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gU4mmINWUF294Wzi8mqRvi6peMe.jpg" group-title="VOD - DRAMA",Narvik (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="There's Something Wrong with the Children (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e49Sr3Lxfk2psYhv1SzQjs7MeGo.jpg" group-title="VOD - ESTRENOS Y RECIENTES",There's Something Wrong with the Children (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149705.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detective Knight: Redención (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acCIjyszhmit8k5eWVGNTustYRK.jpg" group-title="VOD - ACCION",Detective Knight: Redención (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149706.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Transfusion (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bxh5xCCW9Ynfg6EZJWUkc1zqTnr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Transfusion (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149844.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detective Knight: Independencia (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrPKVQGjc3YZXm07OYMriIB47HM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Detective Knight: Independencia (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Candy Land (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7ZipEd9oHHVVXTcvbx3Sd3Tukv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Candy Land (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Ilusión (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QXM2Kml4TERscVJGwgESKqeVBS.jpg" group-title="VOD - DRAMA",La Ilusión (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuerza bruta (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kf263PuO1qh6WCMeZ0XZf1GkbaF.jpg" group-title="VOD - ACCION",Fuerza bruta (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149951.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lupin III vs. Ojos de gato (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GK9LTdgd0qTbhFkS630bk1qaE0.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Lupin III vs. Ojos de gato (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Teen Wolf: La Película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAkpPm3wcHRqZl8XjUI3Y2chYq2.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Teen Wolf: La Película (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Darby y los espíritus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6de6xJIJnnsyAqtxL603JKy1PG.jpg" group-title="VOD - COMEDIA",Darby y los espíritus (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149954.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gente como vosotros (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AqGq6t4dHzTPgQ1JSzhhDxz5pQ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La gente como vosotros (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1149955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="When You Finish Saving the World (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZyeoBDQJFPGfd0Mu8XIElGBjZz.jpg" group-title="VOD - ESTRENOS Y RECIENTES",When You Finish Saving the World (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La familia tiene un precio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gx8ntnkuvPMDCt2qtr9YMDXjLAx.jpg" group-title="VOD - COMEDIA",La familia tiene un precio (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babylon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9hoPrIiGjfliN6emg8FdOsEjSZp.jpg" group-title="VOD - DRAMA",Babylon (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los trapos sucios se lavan en casa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/klmsgJ1gBsZSmeN7JbUcaBy1AAV.jpg" group-title="VOD - COMEDIA",Los trapos sucios se lavan en casa (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La forja de un campeón (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ykbt5oFxeu292SMZPqZTi1jKff.jpg" group-title="VOD - ACCION",La forja de un campeón (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La conferencia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HPY2WagRVbuU9ApYxqpJft0pAB.jpg" group-title="VOD - DRAMA",La conferencia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American Murderer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnRekTKyxQSDX0cHWCldO0RGKOR.jpg" group-title="VOD - SUSPENSO",American Murderer
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El mar del Norte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYnlT2TbgSMytw0mVTQWAZ4mXNq.jpg" group-title="VOD - ACCION",El mar del Norte (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Utama - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dVVuYKhywiwjoVZ5DIBkfjCJfHX.jpg" group-title="VOD - DRAMA",Utama - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sam & Kate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fzQN7YcIgboMavMMwrOTaqz8agm.jpg" group-title="VOD - COMEDIA",Sam & Kate (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nix (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmAFOmkhsTXJlRptAgoKn77Odue.jpg" group-title="VOD - TERROR",Nix (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Buscamundos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kqLhRxIjBbWG83PLcQWUGd1gNF3.jpg" group-title="VOD - ANIMACION",Los Buscamundos (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Piloto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1SyEVQhOxlQ3ijDHl5HWygEDqU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El Piloto (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infiesto (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rpuV6GRIBD2v8A2FZM53ebNFcJx.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Infiesto (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fantasy Football (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lC99lme4UplMUICswlA4mfe5GNx.jpg" group-title="VOD - COMEDIA",Fantasy Football (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lobo vikingo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd6ZQn6bM2IEELW8lURA9dP2jiO.jpg" group-title="VOD - TERROR",Lobo vikingo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu libre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOyU0FuaVoWADcrh8dWs0Kw801O.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Espíritu libre (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una boda explosiva - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AxkGXv7prs5EXB03CA0Cc9zfGh.jpg" group-title="VOD - ACCION",Una boda explosiva - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1150766.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Locksmith (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Locksmith (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151010.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Whitney Houston: I Wanna Dance with Somebody (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7tzASghUkQ78RYWttD6mYW4NHJ.jpg" group-title="VOD - DRAMA",Whitney Houston: I Wanna Dance with Somebody (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151011.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blood (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCUFtTvjK4gbmjVxhx8bhyOhAeW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Blood (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151012.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El imperio de la luz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Y7l9FDxdknampTfpp6qjVWm54O.jpg" group-title="VOD - DRAMA",El imperio de la luz (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151013.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Superviviente (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ld5Tr27pZPpPuLRRITDKR7EVcps.jpg" group-title="VOD - CIENCIA FICCION",El Superviviente (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151078.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arde Notre Dame (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdNvIO2gU87Kj5aZ34VH79ifvl0.jpg" group-title="VOD - DRAMA",Arde Notre Dame (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Significant Other (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2S4ApvEtZD62AItsIjX1HU1c5D2.jpg" group-title="VOD - CIENCIA FICCION",Significant Other (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dear David (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9JD050ibp3hNC1kmbcq07jEZv2.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Dear David (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151135.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alice, cariño (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mVYbMz9ktDXzqqDevaS0jxl0LRc.jpg" group-title="VOD - SUSPENSO",Alice, cariño (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151136.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: Obligado por el demonio (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ghMQALCyytc6W0wlOlMIKiMSRKV.jpg" group-title="VOD - TERROR",Expediente Warren: Obligado por el demonio (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151157.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu casa o la mía (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vMUao1QadZ6OS2UI984tORgGtU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Tu casa o la mía (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Somebody I Used to Know (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Somebody I Used to Know (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="At Midnight (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/FNgEj5cqvbRriZzgnVIHf9aee9.jpg" group-title="VOD - ESTRENOS Y RECIENTES",At Midnight (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Garras donde comienza la leyenda  - 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSA0bmScT6gOjYp18IS5EEFijhv.jpg" group-title="VOD - AVENTURA",Garras donde comienza la leyenda  - 1996
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El silencio del pantano " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zf24upUhFXwExeE8mxHY69Y9Qo0.jpg" group-title="VOD - SUSPENSO",El silencio del pantano 
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El agente invisible - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/engWUYSxDogn8csr3wJOq4cOzna.jpg" group-title="VOD - ACCION",El agente invisible - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shot Caller - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtKhQhooQCB8jn4l3Pi1kRZHKbw.jpg" group-title="VOD - CRIMEN",Shot Caller - 2017
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nadie - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddO5a3tMPpQutSDQO1bESgLWadB.jpg" group-title="VOD - ACCION",Nadie - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El hijo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cKmSgC8zinLpYyNK7Aqv9HIaqcW.jpg" group-title="VOD - DRAMA",El hijo (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor al cuadrado otra vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mFHSHWce77Pi5zwkfCL35KU6MW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amor al cuadrado otra vez (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Coherence - 2013" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZP8tg2yX0RGqFwknfCYWuy6bpp.jpg" group-title="VOD - SUSPENSO",Coherence - 2013
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infinity Pool (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNRr2juXdwtvktwXxwuk9Usk8O.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Infinity Pool (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151607.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Entre el Amor y la Amistad (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68qUoVSL7BVirc9U3a1O3zKfsAM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Entre el Amor y la Amistad (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151608.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Todas Partes (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBiZdPAWLSPLE4sX6BzWMzaJylP.jpg" group-title="VOD - ESTRENOS Y RECIENTES",A Todas Partes (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151609.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Re/Member (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pRNSIJyGM7cR8xAHee0obKXpzIl.jpg" group-title="VOD - TERROR",Re/Member (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151610.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo, él y Raquel (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIBKWAZsP9NGMKnVC5N3RySvTfz.jpg" group-title="VOD - COMEDIA",Yo, él y Raquel (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151704.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crepúsculo - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40ollvfwHaVF85lkkg522SIl3Qc.jpg" group-title="VOD - ROMANCE",Crepúsculo - 2008
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Embaucadores - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGcpjDqXlMxUTL4OBougtUEEJP6.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Embaucadores - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Si, Quiero... o no - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Qbufyl2N0e4zUWKWNxHu1dTMAM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Si, Quiero... o no - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151758.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detroit (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ue8SL4u2S7TFFNrWNq8FYk20Z9.jpg" group-title="VOD - CRIMEN",Detroit (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151759.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Manchester frente al mar (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3yR6Mdz48elRI1pBOzbIbDyCRi.jpg" group-title="VOD - DRAMA",Manchester frente al mar (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="12 años de esclavitud (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OoCd3fmjPHt9iCR4QxNGGrDyI0.jpg" group-title="VOD - DRAMA",12 años de esclavitud (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1151852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Little Dixie (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Little Dixie (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152004.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unlocked (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/648Egu3BB7WDBp0wd4g7LbiJwZH.jpg" group-title="VOD - TERROR",Unlocked (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152006.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ellas hablan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ic1LmfuGibGJMYjdz1Pobxeouon.jpg" group-title="VOD - DRAMA",Ellas hablan (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152105.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The System (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BZAYG6oooTLv72w9ePKvbpqDlj.jpg" group-title="VOD - CRIMEN",The System (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152106.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Llaman a la puerta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Zna9CvyzaAgejsErmyXmHC64Dd.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Llaman a la puerta (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La ballena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/irhIdN4KDOdmTXpplSAwCGZYDSL.jpg" group-title="VOD - DRAMA",La ballena (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152108.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los extraños (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3OKBFYRVSKkBVJ7WpKogTVQfUqC.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los extraños (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lullaby (Cancion de cuna) - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmE4gZ9vy8ammgS2UsEh0Z1OCia.jpg" group-title="VOD - TERROR",Lullaby (Cancion de cuna) - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fences - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mCvMXsEbdMW2ESEATDcs14Urh9y.jpg" group-title="VOD - DRAMA",Fences - 2016
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un fantasma anda suelto por casa - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxPs1ukS3vYxLy7Huw2aINxX2dy.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Un fantasma anda suelto por casa - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blindsided - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlXZXe2tDzJWPqmQaUEWvmOKHg1.jpg" group-title="VOD - ACCION",Blindsided - 2016
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muere, Hart - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xz91Gre0w7tyl99jGEh5oGc8DQ7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Muere, Hart - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Matón: sangre de su sangre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h11pzG8yK70Ly5MkNHvhPH9m84n.jpg" group-title="VOD - DRAMA",Matón: sangre de su sangre (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Me llamo Chihiro (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eKroDP4pGAgZ02fKBBSiIGtzBz0.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Me llamo Chihiro (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike's Last Dance - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p98DxMJbXjI6ITI9aFh3U0u5oF7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Magic Mike's Last Dance - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El peor vecino del mundo - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6jE6HqtBqRUKuy98NMoWyZOHguR.jpg" group-title="VOD - COMEDIA",El peor vecino del mundo - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152815.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Historias que no te atreves a contar - 2021" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cb54aGmSPs9IZZjMZv4WKU4OXi5.jpg" group-title="VOD - TERROR",Historias que no te atreves a contar - 2021
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Jack in the Box: El despertar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg" group-title="VOD - TERROR",The Jack in the Box: El despertar (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Princesa Khutulun: En busca del pergamino dorado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keO3Mc1z6nyQxu7kKsWWOi0WXzF.jpg" group-title="VOD - AVENTURA",Princesa Khutulun: En busca del pergamino dorado
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1152921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Eres tú (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyawjtxqR4XesB5sJuwV4SsMmuc.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Eres tú (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153044.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sayen (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCy61aU7BMG7SfhkaAaasS0KzUO.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Sayen (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="10 días de un buen hombre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnPIicmgQ3tAJQdlRBh2oaMTxs8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",10 días de un buen hombre (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Living (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4WsK588j8Cj1uRjVbOFd8gcwHa.jpg" group-title="VOD - DRAMA",Living (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153048.mkv
+#EXTINF:-1 tvg-id="" tvg-name="13 exorcismos - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNlCqSfAV4BhHqaxmXdcaYM4iTF.jpg" group-title="VOD - TERROR",13 exorcismos - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babylon - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oLZULW6Kn5imFM427tWfqIPMLmP.jpg" group-title="VOD - COMEDIA",Babylon - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Reading - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqeTY6g1ZTT7mkrvlSCiVgft8Wr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Reading - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snow Day (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnwf2DyI41EkWvJnOLfWV6DFRNW.jpg" group-title="VOD - COMEDIA",Snow Day (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marlowe (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZie3WZuSb45EUXoQmUhLLnsjFr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Marlowe (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Missing (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR7uEhqQE2ZuQQOhuPyQnV6vnoH.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Missing (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Amantes del Engaño (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZx7SUnQetww3ePIlvTUDYuZMo9.jpg" group-title="VOD - DRAMA",Los Amantes del Engaño (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="80 for Brady (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixBLmH4gQuTKTenZr89egvqZbW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",80 for Brady (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Muy lejos de aquí (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8OSxz7U0hMsIPTrmdgUboTD2y2.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Muy lejos de aquí (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153540.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Malvada (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k3JpWtTjYNupCbMKW8vkEEmbWf.jpg" group-title="VOD - COMEDIA",Malvada (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153541.mkv
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE FILM RED (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ovEtMHpv1UKDJB6Wq69DB4q8xG.jpg" group-title="VOD - ANIMACION",ONE PIECE FILM RED (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153542.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On the Come Up (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzgGmE8EJH3gOUlxSYhm8AHJUu2.jpg" group-title="VOD - DRAMA",On the Come Up (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dead for a Dollar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1AnXfjxFqMsQmUPSvt9YxUJhfFw.jpg" group-title="VOD - SUSPENSO",Dead for a Dollar (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153615.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghosts of the Ozarks (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7a2G4a4A6nDb8K1PVFUcsOT1u3s.jpg" group-title="VOD - TERROR",Ghosts of the Ozarks (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153616.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tiger's Nest (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcTVF6AxGhME5auzcbII14U3E9f.jpg" group-title="VOD - UNIVERSO DC",The Tiger's Nest (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153617.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Walk (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tg1dJHA60iuLxAHtUYD01LL7P10.jpg" group-title="VOD - DRAMA",The Walk (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153618.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cazadora - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0pvd23j7yA9aJzB6EatoblJ3kO.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cazadora - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153683.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Evita: Una Tumba Sin Paz - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJZbuUi6hesT2VFJ3G6MYjk1d3Y.jpg" group-title="VOD - DOCUMENTALES",Evita: Una Tumba Sin Paz - 1997
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153684.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los espíritus de la isla  The Banshees of Inisherin - 2023" tvg-logo="data:image/jpeg;base64,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" group-title="VOD - DOCUMENTALES",Los espíritus de la isla  The Banshees of Inisherin - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153685.mkv
+#EXTINF:-1 tvg-id="" tvg-name="TAR - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Gr7WwUzYGUfzUb32wdhWuaC0m.jpg" group-title="VOD - DRAMA",TAR - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1153686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El contable - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Bd9ItSLT13u8Na0PApQAMcW1Jw.jpg" group-title="VOD - ACCION",El contable - 2016
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154024.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Operación Fortune: El gran engaño - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1WvYS8FRczTY3hv3CBBQzf1vht.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Operación Fortune: El gran engaño - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154025.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La cabaña - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7qG9sdCTo3uBeWXpxKehplvr8B.jpg" group-title="VOD - DRAMA",La cabaña - 2017
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154026.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oso vicioso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i30ZaOHjIllEeQrL67IqKs8kk4A.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Oso vicioso (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154141.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Ritual Killer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VtHaELqLMovl8EueBWHDtihhzF.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Ritual Killer (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154142.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chang machaca (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ijgY6uYwNqkVIgG9T6TTkdgt2Wi.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Chang machaca (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154144.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El menú (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNcfCScUUyHQyjP84P25a8ColWp.jpg" group-title="VOD - TERROR",El menú (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154176.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Unwelcome - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bGObx8YKLQDOOhcrBHHzXpiAv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Unwelcome - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154177.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hasta el fondo: La historia de Pornhub - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7fD1EHgctNSjBUzAOfxEsHaB2k.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hasta el fondo: La historia de Pornhub - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Survive (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qv6eEsxEvGz1fqkdYr4ZD2x1CwE.jpg" group-title="VOD - SUSPENSO",Survive (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154180.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El lobo de Snow Hollow (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iVxiT6JxvrYelR1uDHbZQ0DYkYb.jpg" group-title="VOD - TERROR",El lobo de Snow Hollow (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154181.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Novembre (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBBgyAKgGJjDl8kGHALsylINGzM.jpg" group-title="VOD - SUSPENSO",Novembre (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ya era hora (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGtzr9huoZFm0SoQmXYAAcwO4ty.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Ya era hora (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Control (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxi29Eg7JymhqV5QkSrMviUb3e9.jpg" group-title="VOD - CIENCIA FICCION",Control (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jane (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Yz5zYXZrlx9UWbjlaEaJuyAsNY.jpg" group-title="VOD - SUSPENSO",Jane (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ruido mental (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EyqCN2r7gObxSpdfb9eU1yEQ8W.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Ruido mental (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asistente (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA7E73LT4xIgPOiix9lvIvYhM4Z.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El asistente (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Exorcista (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d07xtqwq1uriQ1hda6qeu8Skt5m.jpg" group-title="VOD - TERROR",La Exorcista (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El rey de las sombras (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A70rat4oypHnFsb4J4MoSciNo3I.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El rey de las sombras (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El estrangulador de Boston (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af1vSPTbraVVqc6kB3Avm55gxcq.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El estrangulador de Boston (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La elefanta del mago (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cAoAgzOCxSytYBqqCQulhXNR3LB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La elefanta del mago (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Club de la Lucha (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yWmCAIGSVNuTOGyz9F48W9g1Ux.jpg" group-title="VOD - DRAMA",El Club de la Lucha (1999)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi suegra me odia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xEZ3h6D7MdMpszVjCWibLEsbjx6.jpg" group-title="VOD - COMEDIA",Mi suegra me odia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154656.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman: The Doom That Came to Gotham (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hrATQE8ScQceohwInaMluluNEaf.jpg" group-title="VOD - ANIMACION",Batman: The Doom That Came to Gotham (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154657.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Código Banshee (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1r6A3fTe2urhf9ZTdgY0KAhOwc.jpg" group-title="VOD - SUSPENSO",Código Banshee (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Children of the Corn (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vYJfuYcCrN1GWW8x3MS7To4A3T.jpg" group-title="VOD - TERROR",Children of the Corn (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154696.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Winnie the Pooh: Blood and Honey (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZmbSkGEpXFufbDhgfTnSrFAguo.jpg" group-title="VOD - TERROR",Winnie the Pooh: Blood and Honey (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154697.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La historia oficial - 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzdPMhLpT7CxfnvE0wcDUVWP5S4.jpg" group-title="VOD - DRAMA",La historia oficial - 1985
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Noche de los Lápices - 1986" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GjSq46q9YC3Vv2vFH6EBOYdXwT.jpg" group-title="VOD - DRAMA",La Noche de los Lápices - 1986
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El asistente - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA7E73LT4xIgPOiix9lvIvYhM4Z.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El asistente - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El engaño (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjlpRjvnjDKwLJmK3Q2PPkj6PtU.jpg" group-title="VOD - SUSPENSO",El engaño (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Con canas y a lo loco (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KSdIPMGQHHbIu7R6YkX0BVI8vP.jpg" group-title="VOD - COMEDIA",Con canas y a lo loco (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Johnny (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg" group-title="VOD - DRAMA",Johnny (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Furies (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/virYZ52mRzDES9y9qEhSeA9SNNC.jpg" group-title="VOD - ACCION",Furies (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1154921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locked-in society (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpnYOOKmI6KHj1VScHymF0u2QVe.jpg" group-title="VOD - COMEDIA",Locked-in society (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1155876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Adicción perfecta (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PZvtFU6HIzHKRdIYOlL4Lj0YFV.jpg" group-title="VOD - DRAMA",Adicción perfecta (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1155877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Az unoka (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bXIkBjrEX455MBwl1aFn95JPYFv.jpg" group-title="VOD - DRAMA",Az unoka (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1155878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Avatar: El sentido del agua - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg" group-title="VOD - AVENTURA",Avatar: El sentido del agua - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156193.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Champions - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVBZBDHO271obL91WG8l2owoq5f.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Champions - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156194.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Qodrat - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCIAnXdwtYKf0oXPIA7fSeaCW55.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Qodrat - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156195.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Momias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6noSod4pIiT7UMtflrgDreNVRI9.jpg" group-title="VOD - ANIMACION",Momias (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="On a Wing and a Prayer (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wx3U05u7Yq7Nu9xw75LfhqaSPP5.jpg" group-title="VOD - DRAMA",On a Wing and a Prayer (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike XXL - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sp4qcpHQhoZ6VmidFmgpQ066jWb.jpg" group-title="VOD - ROMANCE",Magic Mike XXL - 2015
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Magic Mike - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkl2kkwpNpskQKLWAAqwyQ2DWo8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Magic Mike - 2012
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Novia a la fuga - 1999" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIjExGnoEl7dzsDcGBVWiWSMWrN.jpg" group-title="VOD - ROMANCE",Novia a la fuga - 1999
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gran apuesta - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8bPJXPOZqGw8khHAAr0yUQxcGz.jpg" group-title="VOD - DRAMA",La gran apuesta - 2015
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Project Gemini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eX6tDFp4RhhjZaa1HUDUzFGPWYk.jpg" group-title="VOD - CIENCIA FICCION",Project Gemini (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi maestra se comió a mi amigo (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MiVG39r82aYUAtvs3bTycmbewJ.jpg" group-title="VOD - AVENTURA",Mi maestra se comió a mi amigo (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Commando (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mn1GYIQ1tvFuuu0YBNZBvrHyrkO.jpg" group-title="VOD - ACCION",The Commando (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Creed III - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Creed III - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="No mires a los ojos - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYYlsHhcdA3QQIOuiFyRtV5w7c0.jpg" group-title="VOD - ESTRENOS Y RECIENTES",No mires a los ojos - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Devil's Doorway (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOFn9lYmI8SAi15nhht37rhwxzT.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Devil's Doorway (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156845.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pacto de graduación (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/748fvxCzIKHKZI2c98DdWPAeNkR.jpg" group-title="VOD - ROMANCE",Pacto de graduación (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156846.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOav5YrQqyskJd669fbGuTht39g.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Tetris (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156847.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Criminales a la vista (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a5loEjbbnAiUZs0UTlOmxhuvIZk.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Criminales a la vista (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156848.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boksoon debe morir (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mNP3fpjHtoCZ2GaxPnA4elj0rv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Boksoon debe morir (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Cursed (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bewmBcjJxHeipS1PNu9Lfyvt3zY.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Cursed (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156850.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amor en Rye Lane (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AcdEqYTTnh6luc2heEsjf0fAI7X.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amor en Rye Lane (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1156851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Mulligan (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lx3SoVYVrVxnXwP380KqCnNxHxz.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Mulligan (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157127.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monsters of Man (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f3qspv64L5FXrRy0MF8X92ieuw.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Monsters of Man (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157128.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inside (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/byYLhZLwKAMlLFVEcIH6LMOc5Us.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Inside (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157129.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The World To Come (2023)" tvg-logo="https://pics.filmaffinity.com/El_mundo_que_viene-833823916-large.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The World To Come (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157130.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Las aventuras de Maurice (2022) (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOc3KwOtTtgXraeBddn3gLpCuaA.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Las aventuras de Maurice (2022) (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157132.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Melancolía (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQw4dItPPGqGChYi1Xm5eBvcBs9.jpg" group-title="VOD - DRAMA",Melancolía (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Girl (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRtBDVZVhnqih9dcnIj4g4xKZQ.jpg" group-title="VOD - DRAMA",Girl (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mysterious Skin (Oscura inocencia) (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/55S6U4F9nZWoYxsUMu59uWSV4Q.jpg" group-title="VOD - DRAMA",Mysterious Skin (Oscura inocencia) (2005)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Boon (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4zcFYC4ILkvlBl37eHdNYSYvJW.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Boon (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A játszma (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Nhm3ZRThp0W97igGTUDNTf25c7.jpg" group-title="VOD - ESTRENOS Y RECIENTES",A játszma (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Infelices para Siempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiAM7Y8xF8wJDDsjeSuLgzyFGmd.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Infelices para Siempre (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Le Terme di Terezín (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zie3aYN3aFNWN4iVfCZL5pJgBv9.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Le Terme di Terezín (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Under the Stadium Lights (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSxVt7yW4s8lqnGCCXDGJT2UxMZ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Under the Stadium Lights (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The SuperDeep (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRzCuk4oeFYyx5gKZQo6rdrLVCa.jpg" group-title="VOD - TERROR",The SuperDeep (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1086899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sniper: Assassin's End (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiymaaYeAl9ZBoyUz2tz4k2XaKv.jpg" group-title="VOD - ACCION",Sniper: Assassin's End (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1086908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ferdinand (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56W222OvoZTmwdT3lXWrG3GPyRf.jpg" group-title="VOD - ANIMACION",Ferdinand (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1088309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The 24th (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bPEPNWdiwKRpSgTKY6Hl0HbqDAW.jpg" group-title="VOD - AVENTURA",The 24th (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Attraction to Paris (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3yA3JhP78YQRQpXcEAaTzkxONdM.jpg" group-title="VOD - AVENTURA",Attraction to Paris (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092636.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anastasia (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qbAX0cltrlbCXpgMmuv0LLrfp8.jpg" group-title="VOD - MUSICALES",Anastasia (1997)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ana y el apocalipsis - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4lCfWsCiWjlq5S2jItRUbF5QM0.jpg" group-title="VOD - MUSICALES",Ana y el apocalipsis - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annie (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33WsmnE5M2SSGrZCQW4dlr2D5WG.jpg" group-title="VOD - MUSICALES",Annie (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Annie, una aventura real (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXSZSwjHf8NZ0d6pnfS7dVhifVf.jpg" group-title="VOD - MUSICALES",Annie, una aventura real (1995)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ammore e malavita (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49q4CTKlHX5Y8pzSsr27akt6lhR.jpg" group-title="VOD - MUSICALES",Ammore e malavita (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="August Rush: El triunfo de un sueño - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOhfqgseHk1bjHu5YjtGlIbsKJA.jpg" group-title="VOD - MUSICALES",August Rush: El triunfo de un sueño - 2007
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Av. Larco - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozG4f0FLr0yPJtU3clFBJVdsNaw.jpg" group-title="VOD - MUSICALES",Av. Larco - 2017
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Baaghi 2 - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1E2lUedrxlzIgReszV0OuJ5JpvG.jpg" group-title="VOD - MUSICALES",Baaghi 2 - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mirar de nuevo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fBsljdv1mymaAYelZcgRkjg33v.jpg" group-title="VOD - MUSICALES",Mirar de nuevo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Banjo (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWJLsCVU7MckdprbbQi8g02wRYr.jpg" group-title="VOD - MUSICALES",Banjo (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La bella y la bestia - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGJkPbMixqD6j0OjbbGouSMbiZO.jpg" group-title="VOD - MUSICALES",La bella y la bestia - 2017
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Been so long: Y todo cambió - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uh1oyc7pFX6jixPHiOvilVi4szO.jpg" group-title="VOD - MUSICALES",Been so long: Y todo cambió - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Year by the Sea (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5sLBx8xerEECheWvgNY13lYe5B.jpg" group-title="VOD - MUSICALES",Year by the Sea (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cadillac Records (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71SDc1iIAK3mv0PDl4eoD2O5eCd.jpg" group-title="VOD - MUSICALES",Cadillac Records (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Camp Rock 2: The Final Jam (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAlW1IxOPD2uLliqNIlq3x3ajV4.jpg" group-title="VOD - MUSICALES",Camp Rock 2: The Final Jam (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092870.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chicago (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzp1KCDHGIprSIm2g11bIyyVnM1.jpg" group-title="VOD - MUSICALES",Chicago (2002)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092872.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Como caído del cielo (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xg6QZdlHrq2dtSK8cfnQQMnmpeY.jpg" group-title="VOD - MUSICALES",Como caído del cielo (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092873.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Una cuestión de tiempo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8k9KMzZGYgg2f5i8pKj23VMNPZ.jpg" group-title="VOD - MUSICALES",Una cuestión de tiempo (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Delincuente (1984)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4u7BgoLZQBFdfibEL0x1xoVCru.jpg" group-title="VOD - MUSICALES",Delincuente (1984)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cats (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hK9Y4JWtBd2aLnob1CLonZAJ9ys.jpg" group-title="VOD - MUSICALES",Cats (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Destino de un capricho (1972)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNluzMyQ5eqnS2WeYUmJFjL2oPL.jpg" group-title="VOD - MUSICALES",Destino de un capricho (1972)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Detrás del candelabro (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iodt6hrewVXxR415PIjBeuZg3Qs.jpg" group-title="VOD - MUSICALES",Detrás del candelabro (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos tipos de cuidado (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86WaWg7M6M9HKEl1CWodmC5VJHQ.jpg" group-title="VOD - MUSICALES",Dos tipos de cuidado (1953)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dreamgirls (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVwvUsJ23lUqbTU1KiKCSUD3pta.jpg" group-title="VOD - MUSICALES",Dreamgirls (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092882.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El deseo de vivir (1973)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf3dDoSb2pLwgNOTi4oEEEA4p40.jpg" group-title="VOD - MUSICALES",El deseo de vivir (1973)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="I Feel Good: La historia de James Brown - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v14YSZ8x0yil3rXD3Vhwghk3ULN.jpg" group-title="VOD - MUSICALES",I Feel Good: La historia de James Brown - 2014
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092884.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El último cuplé (1957)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zRnyqNDQu30ltaqZG9nUyCMDR1.jpg" group-title="VOD - MUSICALES",El último cuplé (1957)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092885.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Embrujo de amor (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="VOD - MUSICALES",Embrujo de amor (1971)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Festival de la Canción de Eurovisión: La historia de Fire Saga - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Wi7rpl9Ge1fxwArw9dP2BgkUi7.jpg" group-title="VOD - MUSICALES",Festival de la Canción de Eurovisión: La historia de Fire Saga - 2020
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En el bosque (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sedxbHoP13xEbzCtdXsWpyQv2y.jpg" group-title="VOD - MUSICALES",En el bosque (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fantasía (1940)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCaPIUrbKsUKKFPykmKxc6bPbo0.jpg" group-title="VOD - MUSICALES",Fantasía (1940)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Farruko: En letra de otro (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Of0L85SByQi9zXybiZPaaNuqRD.jpg" group-title="VOD - MUSICALES",Farruko: En letra de otro (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092890.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Filly Brown (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CdRIAll52h0s0cbFH0VKiCp7pg.jpg" group-title="VOD - MUSICALES",Filly Brown (2013)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los caballeros las prefieren rubias - 1953" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO6aAcPxQp6i6a2Zeh4zDvZrqiM.jpg" group-title="VOD - MUSICALES",Los caballeros las prefieren rubias - 1953
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Grease (1978)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cI2Dq5sD1rEVjf5zz1KAQMqLQ7.jpg" group-title="VOD - MUSICALES",Grease (1978)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hannah Montana: La película - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xywrlinKKOhdEHeaOkLNE38Vetw.jpg" group-title="VOD - MUSICALES",Hannah Montana: La película - 2009
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="freaky friday 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xywrlinKKOhdEHeaOkLNE38Vetw.jpg" group-title="VOD - MUSICALES",freaky friday 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aquí y Ahora - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJ4MOzwwG37wHtsy4eZKxLavvWZ.jpg" group-title="VOD - MUSICALES",Aquí y Ahora - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Art Guys: Home on the Range - 2009" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJ4MOzwwG37wHtsy4eZKxLavvWZ.jpg" group-title="VOD - MUSICALES",The Art Guys: Home on the Range - 2009
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honey 3: Vamos A Bailar - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qsCUy88FPiHxOSFXdkKlmJz7Hw.jpg" group-title="VOD - MUSICALES",Honey 3: Vamos A Bailar - 2016
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092898.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ich war noch niemals in New York - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNmIkKRoOCK2w1Dnsx4svKEZSmo.jpg" group-title="VOD - MUSICALES",Ich war noch niemals in New York - 2019
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092900.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jab Harry Met Sejal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGLhePoB4ysy61AnVSW7ptKNR2y.jpg" group-title="VOD - MUSICALES",Jab Harry Met Sejal (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092901.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Honey: Levántate y baila - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soPCHy4NJhoecRToQd7EmNmPcBY.jpg" group-title="VOD - MUSICALES",Honey: Levántate y baila - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="james and the giant peach 1996" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soPCHy4NJhoecRToQd7EmNmPcBY.jpg" group-title="VOD - MUSICALES",james and the giant peach 1996
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092902.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jani Dueñas: Grandes fracasos de ayer y hoy (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNtdcnioDHYqhHWJP1wVTGCMap.jpg" group-title="VOD - MUSICALES",Jani Dueñas: Grandes fracasos de ayer y hoy (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092903.mkv
+#EXTINF:-1 tvg-id="" tvg-name="joseph king of dreams 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jNtdcnioDHYqhHWJP1wVTGCMap.jpg" group-title="VOD - MUSICALES",joseph king of dreams 2000
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092905.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La Bamba (1987)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Znulqtc7cdqlUC69HGf26Ef5fi.jpg" group-title="VOD - MUSICALES",La Bamba (1987)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092906.mkv
+#EXTINF:-1 tvg-id="" tvg-name="J. Balvin Bruuttal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUEvwR4iG7WG2S9UwJKeGkYrjzo.jpg" group-title="VOD - MUSICALES",J. Balvin Bruuttal (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092904.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LA LA Land (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmdBXLTDzTaWzxcY32vz8CSpzbQ.jpg" group-title="VOD - MUSICALES",LA LA Land (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092907.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La llamada (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HvtsruMolE6w59HETXMfInc2DA.jpg" group-title="VOD - MUSICALES",La llamada (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092908.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Straight Outta Compton - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9B63hMwU6iICtNDTISCaZQ5US7R.jpg" group-title="VOD - MUSICALES",Straight Outta Compton - 2015
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092909.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locos de Amor 2 (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AvUwk4mn12DkYPyB1N2eUsRvYhH.jpg" group-title="VOD - MUSICALES",Locos de Amor 2 (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092910.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Locos de Amor 3 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMDKM4apcN2ZgrIbymFacJJzbbB.jpg" group-title="VOD - MUSICALES",Locos de Amor 3 (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092911.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamma Mia! La película - 2008" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSnbfyYICCTnTtefE1PKUT5aRLh.jpg" group-title="VOD - MUSICALES",Mamma Mia! La película - 2008
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092912.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mamma Mia! Una y otra vez (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXfOMS33IKOI1osGxM0JqZHI1dB.jpg" group-title="VOD - MUSICALES",Mamma Mia! Una y otra vez (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092913.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mary Poppins (1964)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hU9v0EYEiAWYOkROcy4iWnSNpl.jpg" group-title="VOD - MUSICALES",Mary Poppins (1964)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="mary poppins returns 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hU9v0EYEiAWYOkROcy4iWnSNpl.jpg" group-title="VOD - MUSICALES",mary poppins returns 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moonwalker (1988)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg" group-title="VOD - MUSICALES",Moonwalker (1988)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El tour de los Muppets - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMOk0PG1X4hJJdXbHq6nWnHgF2I.jpg" group-title="VOD - MUSICALES",El tour de los Muppets - 2014
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ha nacido una estrella (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jAdNHXbswMuIhcRInIzphZvJElA.jpg" group-title="VOD - MUSICALES",Ha nacido una estrella (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092919.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La novicia rebelde (1971)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXpTcBHwbWhU5DF1xfaAx8Hr9X4.jpg" group-title="VOD - MUSICALES",La novicia rebelde (1971)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092921.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Opening Night (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NAQc6cNiKrDmyTTgXSs62DYSaq.jpg" group-title="VOD - MUSICALES",Opening Night (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092922.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oscura Seduccion (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrwUzLQhCn0SKNKX1Q4FIsVDnvL.jpg" group-title="VOD - MUSICALES",Oscura Seduccion (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092923.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Más allá de la Luna - 2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u7wYZzjhBzhfS6QsvrjVKi7v0MO.jpg" group-title="VOD - MUSICALES",Más allá de la Luna - 2020
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092924.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Passengers (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLMtX4MGl8WjKCPfMgCdDuceOth.jpg" group-title="VOD - MUSICALES",Passengers (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Popstar: Never Stop Never Stopping (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHevPHxVfyveuTWaamIvk5rIfKv.jpg" group-title="VOD - MUSICALES",Popstar: Never Stop Never Stopping (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Que Le Dijiste A Dios? (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f3V1sHe0eU0q0RJeX5hy5KqmYJ.jpg" group-title="VOD - MUSICALES",Que Le Dijiste A Dios? (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Raees (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFYFUfnoXWxeA3n7v4acEqgk2iE.jpg" group-title="VOD - MUSICALES",Raees (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ricki - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7Mx2KUT6BlD5v8t0FAL39vjSS9.jpg" group-title="VOD - MUSICALES",Ricki - 2015
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092929.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rock the Kasbah (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5Jy6Oyv5RI69lzvIdSQ0hoSO5o.jpg" group-title="VOD - MUSICALES",Rock the Kasbah (2015)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092931.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Yo, Sandro. La película. - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8fraQq0e2Zz1CTzqnpPRklwIVx.jpg" group-title="VOD - MUSICALES",Yo, Sandro. La película. - 2018
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092932.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subí que te llevo - 1980" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhE2NrNxUHNXNCcLO95CO1QgvXy.jpg" group-title="VOD - MUSICALES",Subí que te llevo - 1980
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092933.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La fabulosa aventura de Sharpay - 2011" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFDe7l7Lgv6x515382KOfreNI1T.jpg" group-title="VOD - MUSICALES",La fabulosa aventura de Sharpay - 2011
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092934.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Soy Luna en concierto (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPbuPzaEVPbeeZ1UqOTNvKE77PN.jpg" group-title="VOD - MUSICALES",Soy Luna en concierto (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092935.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Step Up 3D (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPcqa5TZ7S63RNmCuY45ZizFBen.jpg" group-title="VOD - MUSICALES",Step Up 3D (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Street Dance (2008)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emRJx4qxG2DMtrEPH1vWDvee9Mm.jpg" group-title="VOD - MUSICALES",Street Dance (2008)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Step Up All In (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM9U2WDQKeQhdQX4kwdk72Drpaz.jpg" group-title="VOD - MUSICALES",Step Up All In (2014)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Step Up China (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DQvNzUFjKj3pfbBNsMl1UJKTzp.jpg" group-title="VOD - MUSICALES",Step Up China (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092941.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Step Up Revolution (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ab9T58BlOPauWd9tMnK0HhwYY7u.jpg" group-title="VOD - MUSICALES",Step Up Revolution (2012)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092942.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stomp the Yard: Ritmo salvaje (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dald9tUbRmGQ91CUJnzaBAjjvUf.jpg" group-title="VOD - MUSICALES",Stomp the Yard: Ritmo salvaje (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092943.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Stuck (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIN8SWSns5tUSnuHVjI3jEzDg08.jpg" group-title="VOD - MUSICALES",Stuck (2007)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092944.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tenacious D: dando la nota (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jGeMgWa1FkFwfNzZq3X0frgdNc.jpg" group-title="VOD - MUSICALES",Tenacious D: dando la nota (2006)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092945.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La casa más divertida de Texas (1982)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsiNr0XVTPOiBolFeFyR8wqSgX.jpg" group-title="VOD - MUSICALES",La casa más divertida de Texas (1982)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092946.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Rey León (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGfq90BF8QGCMpncF2ag0lGTgKk.jpg" group-title="VOD - MUSICALES",El Rey León (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fantasma de la ópera (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ie03D5WcIKW5AHXM59KTU6TRvmf.jpg" group-title="VOD - MUSICALES",El fantasma de la ópera (1989)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092950.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fahim Anwar: There's No Business Like Show Business (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihiPPnJhLaGXg7ncX3zXucvjIDL.jpg" group-title="VOD - MUSICALES",Fahim Anwar: There's No Business Like Show Business (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092952.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Phantom of the Opera (1991)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkalteomlwGtVmzuiGV4nH8D6sS.jpg" group-title="VOD - MUSICALES",The Phantom of the Opera (1991)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092949.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El gran showman (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ssLEvNQ5oM9sJnV6FkDVgOtyAE.jpg" group-title="VOD - MUSICALES",El gran showman (2017)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Step Up 3D (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rPcqa5TZ7S63RNmCuY45ZizFBen.jpg" group-title="VOD - MUSICALES",Step Up 3D (2010)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Spice World: La película - 1997" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a7fTAAextDgBR0PKzSJz0r57kdB.jpg" group-title="VOD - MUSICALES",Spice World: La película - 1997
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092936.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rocketman (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lvt3qfH3QlzydjmGNMGQ2tx2O7C.jpg" group-title="VOD - MUSICALES",Rocketman (2019)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092930.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Burlesque - 2010" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U9zBIibERQZqYKM3N1a4MYgBsN.jpg" group-title="VOD - MUSICALES",Burlesque - 2010
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092920.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Miles Ahead (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NhaBhosYIQJ4cGBYrVNzuXwaHI.jpg" group-title="VOD - MUSICALES",Miles Ahead (2016)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1092916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="65 - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" group-title="VOD - ESTRENOS Y RECIENTES",65 - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chupa - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAwvE6Vd4mhlx2xJU6PqjBAM2y5.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Chupa - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aaahh Belinda (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXbs90UPMn7pioX5euaKTzhi5Bi.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Aaahh Belinda (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mcdazJrMfL9oW3X3XaDkju22po.jpg" group-title="VOD - ESTRENOS Y RECIENTES",¡Shazam! La furia de los dioses (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="65 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dhqu9rInT9IOa2w0TU22YMEgGus.jpg" group-title="VOD - ESTRENOS Y RECIENTES",65 (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kings of Mulberry Street: Let Love Reign (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM5e77LUC3X6K6Fy5sxGNvTv63w.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Kings of Mulberry Street: Let Love Reign (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amores Permitidos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dejVAuBWoPojFUp2ZtjWnQPe8h8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amores Permitidos (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157552.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bunker - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOA7chFPVzSyPp2DaRg8hqA1BHr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Bunker - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La niña de la comunión - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sGSzha9K65abyvzBwXXnSV2sHWV.jpg" group-title="VOD - ESTRENOS Y RECIENTES",La niña de la comunión - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amber: The Girl Behind the Alert - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rArZEIALWP4bfTI4RCEhzTq2iS2.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amber: The Girl Behind the Alert - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157649.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Praise This (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/twdgFrp9Sd8rb3TdbWFQXAvslrH.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Praise This (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157795.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Of an Age (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hM1WknAN6uOeH2YxTQ9RaI0C3Uj.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Of an Age (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157796.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hambre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDaSyYTkevwjcS4EQeRK1ztW0dL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Hambre (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157798.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Por Siempre Jamás: Una Historia de Cenicienta - 1998" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3v2zwwyooeimpYM4gfetnRh18Yp.jpg" group-title="VOD - ROMANCE",Por Siempre Jamás: Una Historia de Cenicienta - 1998
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A Good Person (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhANhmZkXgfhF7zN8ttftAcONK6.jpg" group-title="VOD - ESTRENOS Y RECIENTES",A Good Person (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jesus Revolution (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLSytRNOCq4Epz6cL9INHPJOrg0.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Jesus Revolution (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nombre en clave: Polonia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fEBMKKKhTRVqWGXtDQP6EnY0wuA.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Nombre en clave: Polonia (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157917.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de los niños del ferrocarril (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hY8zYGqC3C9qPpXKZR1XPELtFVm.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El regreso de los niños del ferrocarril (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1157918.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siete reyes deben morir (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUvSeFhdsJbKFOaHnB9TeTZpJKs.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Siete reyes deben morir (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158148.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Marcel the Shell with Shoes On (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v74drP806W96VdGGtckBuShoeQj.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Marcel the Shell with Shoes On (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158149.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¿Y qué tendrá que ver el amor? (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TeJM4rWDCEnkJnogr9ofIcvQqv.jpg" group-title="VOD - ESTRENOS Y RECIENTES",¿Y qué tendrá que ver el amor? (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158150.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fuga de Reinas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3raY76KtEzSHya5rcC2j37qGI9L.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Fuga de Reinas (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158151.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fenómenas (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Qdgf3tGvnM5W3JM9MocGeqQMr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Fenómenas (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158152.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros. La película - HD  2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Súper Mario Bros. La película - HD  2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Amor dá Voltas (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k7375kFt4ksxBbqLw6w5Fl1hNUX.jpg" group-title="VOD - ESTRENOS Y RECIENTES",O Amor dá Voltas (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El fotógrafo de Minamata (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLPeLhn8EydRZVXg3d8c4rgbzQT.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El fotógrafo de Minamata (2020)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ant-Man y la Avispa: Quantumanía (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTNYlTEijZ6c8Mn4gvINOeB2HWM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Ant-Man y la Avispa: Quantumanía (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tutor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4gbSI23sXhVzOYOT1YqQEGUhJ0W.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Tutor (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 4 - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh2bmprLtUQ8oXCSluzfqaicyrm.jpg" group-title="VOD - ESTRENOS Y RECIENTES",John Wick 4 - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cuerpo abierto - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zgoBoba7oCMtNb987FCDFu5OUd.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Cuerpo abierto - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Immerstill (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEdGXH9yTF5L8kQnSV944xRjICI.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Immerstill (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158977.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Supercell (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6uaKRc0Di2pfhRLFQaH5BntSJOH.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Supercell (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1158978.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quasi (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpiOgZL3rkKPHLvEZv1jm8aJm6l.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Quasi (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159079.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Game of Love (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Dfm8TQV58ajQKQOBZh9XsCVb1q.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Game of Love (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159080.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Guía de viaje hacia el amor (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dnUZ5EPdBNvsmCej4o6dQhtfCVj.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Guía de viaje hacia el amor (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghosting (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSw2JeQ03GivcS4VKJmWK5sYi1F.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Ghosting (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mighty Morphin Power Rangers: Ayer, hoy y siempre - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qj1NrdMSm2xinqchBDD23U83vj8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Mighty Morphin Power Rangers: Ayer, hoy y siempre - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Con la soga al cuello (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3K64qyJfykNCt2XVP5rXH6VbAwU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Con la soga al cuello (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159679.mkv
+#EXTINF:-1 tvg-id="" tvg-name="That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJeoHyNGJQK9yTEppuHBFEh99eL.jpg" group-title="VOD - ESTRENOS Y RECIENTES",That Time I Got Reincarnated as a Slime The Movie: Scarlet Bond (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dieciocho otra vez (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1TQbQMGyPQxTwZ8HqqNTdtcjOe.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Dieciocho otra vez (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159681.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lo que esconde Silver Lake (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4pN1IVuK0o5Y0nkKWtJQhwJqo8.jpg" group-title="VOD - CRIMEN",Lo que esconde Silver Lake (2018)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159937.mkv
+#EXTINF:-1 tvg-id="" tvg-name="En tus sueños (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdxN87J2SdCkeGt2WuF6xSV4ElO.jpg" group-title="VOD - ESTRENOS Y RECIENTES",En tus sueños (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159938.mkv
+#EXTINF:-1 tvg-id="" tvg-name="God's Country (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DrJ19myvxs9knBO2q9oQFKnmfo.jpg" group-title="VOD - ESTRENOS Y RECIENTES",God's Country (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159939.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Scream VI - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dvvfHkEinSUWUPtJeWvxOx5hozm.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Scream VI - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1159940.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El profesor (Detachment) (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAgnqZIFkYNDVKRqKstwOQj7Ku.jpg" group-title="VOD - DRAMA",El profesor (Detachment) (2011)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1160238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Viejos - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/31W5qM3rfsdJwQCWjDRXa00T8xJ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Viejos - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1160239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Quizás para siempre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Qbufyl2N0e4zUWKWNxHu1dTMAM.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Quizás para siempre (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1160343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gorzko, gorzko! (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3RaNad34VW30h7g6LgaqBCERaPU.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Gorzko, gorzko! (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1160344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="BZRP Live Tour 2023 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o690ugcCVwgYPHAEm5KcjZuHjtc.jpg" group-title="VOD - ESTRENOS Y RECIENTES",BZRP Live Tour 2023 (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1160345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Governance - Il prezzo del potere (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkFyyZtWjfS2F8V14wLoVS7zQui.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Governance - Il prezzo del potere (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1160346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Todo ha ido bien (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19Vrq7s4oEQxx5e17neZeH5aIe1.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Todo ha ido bien (2021)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1160347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Tank - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUgX2s9OmZfXw287SbSE9Re5p0D.jpg" group-title="VOD - ESTRENOS Y RECIENTES",The Tank - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Reposo absoluto - 2022" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FwA5ciCJ4bR9hJACe69jXDv8e0.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Reposo absoluto - 2022
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Los Caballeros del Zodíaco - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBiUXvCqz34GDeuY7jK14QQdtat.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Los Caballeros del Zodíaco - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Posesión infernal: El despertar - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMtng0qHbwNjR1fuxYZsRf1kjm.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Posesión infernal: El despertar - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Two Witches - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l8Pxpd3EJ23OZxS2MppeLVimfa2.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Two Witches - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Invitación a un asesinato (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucYuml5QqkcGKmWmJj7JpJdsPc1.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Invitación a un asesinato (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Peter Pan & Wendy (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eelbIlq9Iv4Hg9WPSHwuqNij1eo.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Peter Pan & Wendy (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aka Alias (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmlYg0HdVQDvvNlWishWT2WdxkE.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Aka Alias (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gigi & Nate (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xP1GXV1gms9b5BpHZP7S8qs8FO.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Gigi & Nate (2022)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dos pecadoras y una mula (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8JbQe3WqhnX1yDglxUvkspNugJ.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Dos pecadoras y una mula (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Clock (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCADhsz1DGb2eT35v4Pcq7widm1.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Clock (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El exorcista del papa (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcknZEeD71byJ3XSalDDZ5iHpNr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El exorcista del papa (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Renfield (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGw4zPyiBAx9B1j9pKYWSvFiLug.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Renfield (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons & Dragons: Honor entre ladrones (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77XBzUUFX5aHI3Jz3ipJTtsDWzk.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Dungeons & Dragons: Honor entre ladrones (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Club de los Asesinos (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg" group-title="VOD - ESTRENOS Y RECIENTES",El Club de los Asesinos (2023)
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Last Sentinel - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pD1o9B0ibENdNroYrBCQemG2jnr.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Last Sentinel - 2023
+http://tv.fullytv.com:8080/movie/benjaminmama/55778899/1161663.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E01" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E01
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E02" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E02
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E03" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E03
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E04" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E04
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092564.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E05" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E05
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092565.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E06" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E06
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092566.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E07" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E07
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092567.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E08" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E08
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092568.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E09" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E09
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092569.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E10" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E10
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092570.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E11" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E11
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092571.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E12" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E12
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092572.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Subete a mi moto S01 E13" tvg-logo="https://www.themoviedb.org/t/p/w500/9Fsee2p5qiac3GGmQjRUOK8oCp0.jpg" group-title="SERIES - ESPECIAL NTV",Subete a mi moto S01 E13
+http://tv.fullytv.com:8080/series/benjaminmama/55778899/1092573.mkv
+
+
+
+
